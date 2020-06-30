@@ -17,3 +17,9 @@ The verifier.py script reads in your `.csv` file and verifies that it complies w
   5. The verification results are printed out to the terminal window. If you'd like to write them to a file, run: 
   
         `python3 verifier.py file.csv >> results.txt`
+        
+### Verifier Output:
+  The script reads your headers and verifies compliance.  The following is headers are verified:
+  1. 'timestamp'
+  2. 'country'
+  3. At least one 'feature_n_name'. 
