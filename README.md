@@ -19,7 +19,12 @@ The verifier.py script reads in your `.csv` file and verifies that it complies w
         `python3 verifier.py file.csv >> results.txt`
         
 ### Verifier Output:
-  The script reads your headers and verifies compliance.  The following is headers are verified:
-  1. 'timestamp'
-  2. 'country'
-  3. At least one 'feature_n_name'. 
+  The script reads your headers and verifies compliance. It checks for: required column headers, dates in ISO 8601 format,  
+  
+  The following headers are required:
+  1. 'timestamp' (all lowercase)
+  2. 'country' (all lowercase)
+  3. At least one `feature_n_name`. The `_name` tag identifies the colun header as a feature.  This is the columm where your feature (variable) data belongs.
+  4. Each feature requires a decription: `feature_n_description`
+  
+  Note: The verifier script is case-sensitive.
