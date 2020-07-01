@@ -43,7 +43,7 @@ For a tutorial video that walks through an example of transforming a dataset int
   
   - `Passed`: Item of interest passed verification and is valid.
   - `WARNING`: Returns the column header that does not meet the column naming convention. A `WARNING` invalidates a dataset.
-  - `FAILED`: Indicates a required column header or timestamp format is invalid or not present. A `FAILED` invalidates a dataset.
+  - `FAILED`: Indicates a required column header or timestamp format is invalid (or not present). A `FAILED` invalidates a dataset.
   
   If all checks pass without a `WARNING` or `FAILED` flag, you are notified that the dataset is schema-compliant.
 
