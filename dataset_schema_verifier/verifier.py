@@ -209,7 +209,7 @@ def displayer(holder_of_meta):
 
         # Stock strings for print out messages
         yes = 'Passed: '
-        nope = 'FAILED VERIFICATION ' 
+        nope = 'FAILED ' 
         maybe = 'WARNING '
         v = ' verified'
  
