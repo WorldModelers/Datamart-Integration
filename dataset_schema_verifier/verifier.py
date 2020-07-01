@@ -127,7 +127,7 @@ def the_accounter(headers_list):
         
     return (list(set(headers_list) - set(not_accounted_for)))
 
-#Put is all together
+#Put it all together
 def wrapperitup(headers_list, dater):
     
     #populate with function outputs
@@ -170,10 +170,9 @@ def wrapperitup(headers_list, dater):
     #  CHECK FOR DESCRIPTION --> header_dict
     holder_of_meta['desc_for_feature'] = descr_list
     
-    
     return holder_of_meta
 
-# Displacy the results
+# Display the results
 def displayer(holder_of_meta):
 
     # Lists to hold the fails/good to gos
@@ -217,7 +216,6 @@ def displayer(holder_of_meta):
         schema_nulls = ['latitude', 'longitude', 'polygon', 'admin_1', 'admin_2', 'admin_3']
 
         # Pull out data from dictionary for display to user
-        
         # Any unrecognized headers...
         temp = holder_of_meta['header_diff']
         if temp == True:
