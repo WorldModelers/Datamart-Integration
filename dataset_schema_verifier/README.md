@@ -11,7 +11,7 @@ This repository houses code to verify a dataset's compliance with the datamart s
 ### Overview:
  The information below identifies and explains the required and optional column headers, to include the proper naming convention per the datamart schema. For further information on the schema, <a href="https://docs.google.com/presentation/d/1n91lkhDc5XYGuYPQDLiodj4vYlR-pZ6d6_dgvnw-400/edit?usp=sharing">Click Here.</a>
   
-  The following headers are required:
+  The following column headers are required:
   1. `timestamp` all lowercase and all timestamps in ISO 8601 format:
   
       - Date Only: `2020-06-30`
