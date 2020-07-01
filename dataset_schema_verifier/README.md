@@ -1,27 +1,28 @@
 ## Schema Verifier
-This repository houses code to verify a datasets compliance with the datamart schema. There is a discussion on the schema, a tutorial video, and instructions on how to deploy the verifier script.
+This repository houses code to verify a dataset's compliance with the datamart schema. There is a discussion on the schema, a tutorial video, and instructions on how to deploy the verifier script.
 
 ## Contents
 1. [Overview](#overview)
 2. [Tutorial Video](#tutorial-video)
 3. [Verifier Overview](#verifier-overview)
-4. [Run Instructions](#run-instructions)
+4. [Correcting Errors](#correcting-errors)
+5. [Run Instructions](#run-instructions)
 
 ### Overview:
  The information below identifies and explains the required and optional column headers, to include the proper naming convention per the datamart schema. For further information on the schema, <a href="https://docs.google.com/presentation/d/1n91lkhDc5XYGuYPQDLiodj4vYlR-pZ6d6_dgvnw-400/edit?usp=sharing">Click Here.</a>
   
   The following headers are required:
-  1. `timestamp` (all lowercase and all timestamps in ISO 8601 format:
+  1. `timestamp` all lowercase and all timestamps in ISO 8601 format:
   
       - Date Only: `2020-06-30`
       - Date and time in UTC:	`2020-06-30T22:56:54+00:00` or
                               `2020-06-30T22:56:54Z` or
                               `20200630T225654Z`
-  2. `country` (all lowercase)
-  3. `feature_n_name`. Feature of interest. This column should contain the value of the feature of interest. For example, if the feature is “crop price” then the column header should be “crop_price_name” (“_name” should be appended). Record values would be the actual price. At least one feature is required. 
+  2. `country` all lowercase
+  3. `feature_n_name` Feature of interest. This column should contain the value of the feature of interest. For example, if the feature is “crop price” then the column header should be “crop_price_name” (“_name” should be appended). Record values would be the actual price. At least one feature is required. 
   4. `feature_n_description` Description of the feature of interest. For example `crop_price_description` for the feature `crop_price`. Column header must associate to a `_name` feature. This description should be down-filled and will therefore be redundant.
   
-   The following headers are optional:
+   The following column headers are optional:
    1. `feature_n_units` Units associated with the “_name” feature. For example “crop_price_units” and $/kg as a value. 
    2. `feature_n_qualifier_z` Qualifiers are any additional metadata associated with a feature. There can be n of these, but they must be associated to the feature using the feature’s name. For example “crop_price_category” would be a category modifier for “crop price”
    3. `latitude` Latitude for the record.
@@ -45,8 +46,13 @@ For a tutorial video that walks through an example of transforming a dataset int
   - `FAILED`: Indicates a required column header or timestamp format is invalid or not present. A `FAILED` invalidates a dataset.
   
   If all checks pass without a `WARNING` or `FAILED` flag, you are notified that the dataset is schema-compliant.
-  
+
+### Correcting Errors
+If the verifier returns any `WARNING` or `FAILED` flags, the verifier specifically identifies what needs to be corrected.  Open your dataset, make the changes indicated from the output, and then re-run your dataset through the verifier. Once verfied schema-compliant, your dataset is ready for registration.
+
 ### Run Instructions:
+The verifier.py script requires Python 3.7 or higher. No additional packages are needed. 
+
   1. Download `verifier.py`, `bad.csv`, and `good.csv` to `your_folder` on your local machine
   2. Open a Terminal window
   3. Change your working directory to your new folder: `cd /path/to/your_folder`
