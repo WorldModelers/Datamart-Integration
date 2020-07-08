@@ -117,19 +117,18 @@ Below is a walk-through of the selections available to you after running the scr
      Do you want to add your data to your variable now? Enter 'yes' or 'no': 
      ```
      - Enter `no` to exit the program. Your now have a dataset and dataset variables that data can be uploaded to at another time.
-     - Enter `yes` to add your data to your dataset. The data are from the `csv` file you include on the command line (see Run Instructions). Entering `yes` gives you the option to override the data currently in the dataset or append the data. It is recommended to append the data unless you are very familiar with the dataset:
+     - Enter `yes` to add your data to your dataset. The data are from the `csv` file you include on the command line (see Run Instructions). You will have the option to override the data currently in the dataset or append (default) the data. It is recommended to append the data unless you are very familiar with the dataset:
      
      ```
-     Do you want to append your new data to the dataset or overwrite the existing data. Enter append or overwrite: 
+     Do you want to append your new data to the dataset or overwrite the existing data. Enter append or overwrite: append
      ```
      
-     After selecting to append or overwrite the variables you <i>just</i> added and <i>all</i> the variables for the dataset are displayed.  You can use this as reference to complete the next option below; ensure that you enter the <b>`variable_id`</b>:
+     After choosing to append or overwrite, the variables you <i>just</i> added and <i>all</i> the variables for the dataset are displayed.  You can use this as reference to complete the next option below; ensure that you enter the <b>`variable_id`</b>:
      ```
      What dataset variable are you uploading data to? Enter the variable_id: test_variable_id
      ```
      Hit enter and the ISI api will verify compliance. You will be notified if 1) the data is successfully uploaded, or 2) there are errors that need to be corrected.
      
-        
 ### Run Instructions:
 The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
 
@@ -147,6 +146,6 @@ After installing the required python packages:
   
         `python3 dataset.py csv/file.csv` 
   
-        where `file.csv` is your csv file. There are two examples included: `bad.csv`, `good.csv`. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
+        where `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
   
-  5. Follow the steps as discussed above in the Registration Overview.
+  5. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
