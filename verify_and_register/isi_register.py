@@ -99,8 +99,11 @@ def show_dataset(datamart_api_url, dataset_id, variable_id):
     return print(df)
 
 # Login into the ISI datamart with creds from config.ini
+# Return T/F and brak from execution if False/not connected
 def login_isi(url, user, pwd):
     
+    logon = False
+
     session = requests.Session()
     session.auth = (user, pwd)
 
@@ -108,6 +111,9 @@ def login_isi(url, user, pwd):
     
     if response.status_code == 200:
         return print("Successfully logged into ISI Datamart")
+        logon = True
     
     else:
-        return print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')    
+        print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
+    
+    return logon

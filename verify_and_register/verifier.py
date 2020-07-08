@@ -293,7 +293,7 @@ def displayer(holder_of_meta):
 
 
 # call functions and display results
-verification_results = wrapperitup(headers_list, dater)
-displayer(verification_results)
+#verification_results = wrapperitup(headers_list, dater)
+#displayer(verification_results)
 
 

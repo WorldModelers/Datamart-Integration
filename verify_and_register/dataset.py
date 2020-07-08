@@ -55,7 +55,7 @@ if choice == '1':
     for a in csv.reader(csv_file, delimiter=','):
             dater.append(a[0])
     
-    print(f"Press ENTER to verify your file: {csv_file}")
+    print(f"Press ENTER to verify your file: {csv_file.name.split('/')[-1]}")
     input()
     
     # Run the verifier module
@@ -82,7 +82,7 @@ if choice == '2':
         #build list of all the dates
         for a in csv.reader(csv_file, delimiter=','):
                 dater.append(a[0])
-        print(f"Press ENTER to verify your file: {csv_file}")
+        print(f"Press ENTER to verify your file: {csv_file.name.split('/')[-1]}")
         input()
         
         # Run the verifier module
@@ -92,8 +92,12 @@ if choice == '2':
         if t == True:
 
             #login to wm auctus
-            nyu.login('https://wm.auctus.vida-nyu.org/', username_nyu, password_nyu)
-    
+            logon = nyu.login_nyu('https://wm.auctus.vida-nyu.org/', username_nyu, password_nyu)
+            
+            #Break out of execution if credentials wrong
+            if logon == False:
+                sys.exit()
+
             api_url = 'https://wm:worldmodelersdatasearch@wm.auctus.vida-nyu.org/api/v1/'
             url_upload = api_url + 'upload' 
             url_meta = api_url + 'metadata/'
@@ -120,8 +124,11 @@ if choice == '2':
         datamart_api_url = 'https://datamart:datamart-api-789@dsbox02.isi.edu:8888/datamart-api-wm'
         
         # LOGIN with CONFIG credentials
-        isi.login_isi(datamart_api_url, username_isi, password_isi)
+        logon = isi.login_isi(datamart_api_url, username_isi, password_isi)
         
+        if logon == False:
+            sys.exit()
+
         # get meta Data from user
         dataset_meta = isi.get_dataset_meta()
         

@@ -48,13 +48,18 @@ def get_status(url_meta, dataset_id):
 # Login to NYU World Modelers Datamart    
 def login_nyu(url, user, pwd):
     
+    logon = False
+
     session = requests.Session()
     session.auth = (user, pwd)
 
     response = session.get(url)
     
     if response.status_code == 200:
-        return print("Successfully logged into Auctus World Modelers")
+        print("Successfully logged into Auctus World Modelers")
+        logon = True
     
     else:
-        return print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')    
+        print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
+    
+    return logon
