@@ -74,7 +74,7 @@ Below is a walk-through of the selections available to you after running the scr
     
     - Enter 1: If you only want to verify your schema for a `csv` dataset intended for an NYU upload. See the Verifier Overview section above for further discussion.
    
-    - Enter 2: This option allows you to A) verify and register a `csv` to NYU datamart, or B) register a dataset, create dataset variables, and upload data to ISI datamart.
+    - Enter 2: This option allows you to A) verify and register a `csv` to NYU datamart, or B) register a dataset, create dataset variables, and upload data to your variables within your dataset.
 
 2. NYU or ISI:
     ```
