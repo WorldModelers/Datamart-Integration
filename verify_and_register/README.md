@@ -140,12 +140,13 @@ If you are not using a virtual environment, you can use `python -m pip install <
   
 After installing the required python packages:
   1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
-  2. Open a Terminal window
-  3. Change your working directory to your new folder: `cd /path/to/your_folder`
-  4. Run the following CLI: 
+  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
+  3. Open a Terminal window
+  4. Change your working directory to your new folder: `cd /path/to/your_folder`
+  5. Run the following CLI: 
   
         `python3 dataset.py csv/file.csv` 
   
         where `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
   
-  5. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
+  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
