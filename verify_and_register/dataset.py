@@ -92,13 +92,7 @@ if choice == '2':
         if t == True:
 
             #login to wm auctus
-            logon = nyu.login_nyu('https://wm.auctus.vida-nyu.org/', username_nyu, password_nyu)
-            
-            #Break out of execution if credentials wrong
-            if logon == False:
-                sys.exit()
-
-            api_url = 'https://wm:worldmodelersdatasearch@wm.auctus.vida-nyu.org/api/v1/'
+            api_url = f'https://{username_nyu}:{password_nyu}@wm.auctus.vida-nyu.org/api/v1/'
             url_upload = api_url + 'upload' 
             url_meta = api_url + 'metadata/'
             
@@ -121,13 +115,7 @@ if choice == '2':
     if api == '2':
             
         # ENDPOINT
-        datamart_api_url = 'https://datamart:datamart-api-789@dsbox02.isi.edu:8888/datamart-api-wm'
-        
-        # LOGIN with CONFIG credentials
-        logon = isi.login_isi(datamart_api_url, username_isi, password_isi)
-        
-        if logon == False:
-            sys.exit()
+        datamart_api_url = f'https://{username_isi}:{password_isi}@dsbox02.isi.edu:8888/datamart-api-wm'
 
         # get meta Data from user
         dataset_meta = isi.get_dataset_meta()
@@ -152,6 +140,7 @@ if choice == '2':
         enter_data =  input("Do you want to add your data to your variable now? Enter 'yes' or 'no': ")    
           
         if enter_data.lower()  == 'yes':
+            
             # Post DATA TO VARIABLES ISI Datamart: Given option to overwrite or append
             put_or_post = input("Do you want to append your new data to the dataset or overwrite the existing data. Enter append or overwrite: ")    
             
