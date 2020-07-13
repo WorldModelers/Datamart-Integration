@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jul  1 10:04:37 2020
-
 @author: travishartman
 """
 
@@ -35,7 +34,17 @@ password_isi = config['ISI']['password']
 csv_file = open(sys.argv[1], 'r')
 dataset = open(sys.argv[1], 'rb')
 file_path = sys.argv[1]
+post_type = sys.argv[2]
 
+#### ENDPOINTS
+# ISI
+if post_type == 'local':
+    datamart_api_url = 'http://localhost:14080'   
+
+else:
+    datamart_api_url = f'https://{username_isi}:{password_isi}@dsbox02.isi.edu:8888/datamart-api-wm'
+
+# NYU TBD
 
 ###############  WELCOME MESSAGE
 print("\n")
@@ -113,9 +122,6 @@ if choice == '2':
 
     #ISI
     if api == '2':
-            
-        # ENDPOINT
-        datamart_api_url = f'https://{username_isi}:{password_isi}@dsbox02.isi.edu:8888/datamart-api-wm'
 
         # get meta Data from user
         dataset_meta = isi.get_dataset_meta()
