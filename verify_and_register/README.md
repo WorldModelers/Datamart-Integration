@@ -7,9 +7,20 @@ This repository houses code to 1) verify a dataset's compliance with the datamar
 3. [Verifier Overview](#verifier-overview)
 4. [Correcting Errors](#correcting-errors)
 5. [Registration Overview](#registration-overview)
-6. [Run Instructions](#run-instructions)
+6. [LOCAL Run Instructions](#local-run-instructions)
+7. [REMOTE Run Instructions](#remote-run-instructions)
+8. [ISI Docker Set Up Instructions](#isi-docker-set-up-instructions)
 
 ### Overview:
+
+#### Development and Production Runs:
+
+The verification and registration scripts can be run locally or remotely.  
+
+  - Local: This allows for testing and training without adding unneeded datasets to the World Modelers server. 
+  - Remote: Uses the World Modelers datamart endpoint and will post datasets to the production server.
+
+See [Run Instructions](#run-instructions) for the command line arguments.
 
 #### NOTE: SCHEMA CHANGE AS OF 07 JULY 2020. Changes include:
    - `feature_1_name` is now `feature_value`
@@ -129,7 +140,46 @@ Below is a walk-through of the selections available to you after running the scr
      ```
      Hit enter and the ISI api will verify compliance. You will be notified if 1) the data is successfully uploaded, or 2) there are errors that need to be corrected.
      
-### Run Instructions:
+### LOCAL Run Instructions:
+Following these instructions will allow for testing or training on the verification and registration process and will not post datasets to production servers. Currently this only avialable for the ISI datamart
+
+The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
+
+#### Build and instatiate the docker containers. 
+Below are the abbreviated instructions. For a complete overview on the process, see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions):
+
+   In a terminal window:
+   1. Clone/download repo at: https://github.com/usc-isi-i2/datamart-api
+   2. Verify dev-env/data/postgres/datamart.sql.gz file is ~19.9MB (if not: see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions), Step 8)
+   3. Verify user/password correct at: `config.py` and `docker/docker_config.py`. The cloned/downloaded files should already have the correct defaults.
+   4. run `cd ../docker`
+   5. run `docker-compose build`
+   6. run `docker-compose up`
+   7. Open new terminal window and verify connection: `curl -I http://localhost:14080`. A "200" Status should be returned.
+   
+
+For those using conda environments:
+  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
+  2. Install packages: `conda install --yes --file requirements.txt`
+
+If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
+After installing the required python packages:
+
+  1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
+  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
+  3. Open a Terminal window
+  4. Change your working directory to your new folder: `cd /path/to/your_folder`
+  5. Run the file: 
+  
+        `python3 dataset.py csv/file.csv local` 
+        
+        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
+  
+  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
+  
+### REMOTE Run Instructions:
+Following these instructions will post your dataset to the porduction datamart server.
+
 The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
 
 For those using conda environments:
@@ -143,10 +193,59 @@ After installing the required python packages:
   2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
   3. Open a Terminal window
   4. Change your working directory to your new folder: `cd /path/to/your_folder`
-  5. Run the following CLI: 
+  5. Run the file: 
   
-        `python3 dataset.py csv/file.csv` 
-  
-        where `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
+        `python3 dataset.py csv/file.csv remote`
+        
+        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
   
   6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
+  
+### ISI Docker Set Up Instructions
+The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart.
+
+1. Open Terminal
+
+2. Create new folder of your choosing:  `mkdir /Users/your/new/folder` 
+
+3. Change working directory to your new folder: `cd Users/your/new/folder`
+
+4. Clone repo to your new folder: `git clone git@github.com:usc-isi-i2/datamart-api.git` and enter your passphrase OR Go to https://github.com/usc-isi-i2/datamart-api, select the `CODE` button, and download the zip file to Users/your/new/folder.
+
+5. Change working directory to the cloned/downloaded directory: `cd datamart-api`
+
+6. Verify repository was cloned/downloaded: `ls` and verify the files/folders from the repository are now in your folder
+
+7. Verify credentials for Postgres: Open `config.py` and verify the `user` and `password` values; the file should already have the correct defaults. 
+
+8. Verify backup database downloaded correctly: `cd dev-env/data/postgres/ && ls -l datamart.sql.gz`
+
+The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.gz` file size is not correct:
+
+   - Go to: https://github.com/usc-isi-i2/datamart-api/blob/master/dev-env/data/postgres/datamart.sql.gz 
+   - Select `Download` button
+   - Move the downloaded file to: dev-env/data/postgres/ `mv /your/download/path/datamart.sql.gz Users/your/new/folder/datamart-api/dev-env/data/postgres/`
+   - Re-check to see that the ~19.9MB datamart.sql.gz file is present. When you copy the downloaded file to ../dev-env/data/postgres/ verify the new file name is: `datamart.sql.gz` and not some variant.
+
+9. Run the Docker Container:
+
+	A. Open/login to Docker
+
+	B. Change to docker directory: `cd ../docker` 	 
+
+	C. Verifiy the docker_config.py `user` and `password` are correct. 
+
+	D. Build the Docker Container (this will take a few minutes): `docker-compose build`
+
+	E. Run the docker-compose: `docker-compose up`
+
+	F. Verify connection to container: `curl -I http://localhost:14080`
+
+	 Should Return a "200" Status Code
+		 HTTP/1.1 200 OK
+		 Server: gunicorn/20.0.4
+		 Date: Mon, 13 Jul 2020 21:30:04 GMT
+		 Connection: close
+		 Content-Type: text/html; charset=utf-8
+		 Content-Length: 96
+		 Access-Control-Allow-Origin: *
