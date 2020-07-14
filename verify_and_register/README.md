@@ -141,23 +141,22 @@ Below is a walk-through of the selections available to you after running the scr
      Hit enter and the ISI api will verify compliance. You will be notified if 1) the data is successfully uploaded, or 2) there are errors that need to be corrected.
      
 ### LOCAL Run Instructions:
-Following these instructions will allow for testing or training on the verification and registration process and will not post datasets to production servers. Currently this only avialable for the ISI datamart
+Following these instructions will allow for testing or training on the verification and registration process and will not post datasets to production servers. Currently this only avialable for the ISI datamart.
 
 The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
 
 #### Build and instatiate the docker containers. 
-Below are the abbreviated instructions. For a complete overview on the process, see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions):
+Below are the abbreviated instructions. For a detailed walk-through on the process, see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions):
 
    In a terminal window:
-   1. Clone/download repo at: https://github.com/usc-isi-i2/datamart-api
+   1. Clone repo at: https://github.com/usc-isi-i2/datamart-api
    2. Verify dev-env/data/postgres/datamart.sql.gz file is ~19.9MB (if not: see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions), Step 8)
-   3. Verify user/password correct at: `config.py` and `docker/docker_config.py`. The cloned/downloaded files should already have the correct defaults.
+   3. Verify user/password correct at: `config.py` and `docker/docker_config.py`. The cloned files should already have the correct defaults.
    4. run `cd ../docker`
    5. run `docker-compose build`
    6. run `docker-compose up`
-   7. Open new terminal window and verify connection: `curl -I http://localhost:14080`. A "200" Status should be returned.
+   7. Open new terminal window and verify connection: `curl -I http://localhost:14080`. A "200" status-code should be returned.
    
-
 For those using conda environments:
   1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
   2. Install packages: `conda install --yes --file requirements.txt`
@@ -178,7 +177,7 @@ After installing the required python packages:
   6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
   
 ### REMOTE Run Instructions:
-Following these instructions will post your dataset to the porduction datamart server.
+Following these instructions will post your dataset to the production datamart server.
 
 The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
 
@@ -202,7 +201,7 @@ After installing the required python packages:
   6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
   
 ### ISI Docker Set Up Instructions
-The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart.
+The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart. For the reference GitHub repository, see <a href="https://github.com/usc-isi-i2/datamart-api">ISI.</a>
 
 1. Open Terminal
 
@@ -241,7 +240,8 @@ The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.
 
 	F. Verify connection to container: `curl -I http://localhost:14080`
 
-	 Should Return a "200" Status Code
+	 Should Return a "200" Status Code, such as:
+	 ```
 		 HTTP/1.1 200 OK
 		 Server: gunicorn/20.0.4
 		 Date: Mon, 13 Jul 2020 21:30:04 GMT
@@ -249,3 +249,4 @@ The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.
 		 Content-Type: text/html; charset=utf-8
 		 Content-Length: 96
 		 Access-Control-Allow-Origin: *
+	```		 
