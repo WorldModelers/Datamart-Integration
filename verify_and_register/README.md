@@ -1,5 +1,5 @@
 ## Verify schema and register dataset
-This repository houses code to 1) verify a dataset's compliance with the datamart schema and 2) register the dataset with either the NYU or ISI datamart. Below is an overview of the verification and registration processes.
+This repository houses code to 1) verify a dataset's compliance with the datamart schema and 2) register the dataset with either the NYU or ISI datamart. Below is an overview of the verification and registration processes. Both the <a href="https://github.com/usc-isi-i2/datamart-api">ISI</a> and <a href="https://gitlab.com/ViDA-NYU/datamart/datamarti">NYU</a> Datamart GitHub repositories were referenced to inform the processes below.
 
 ## Contents
 1. [Overview](#overview)
@@ -151,11 +151,12 @@ Below are the abbreviated instructions. For a detailed walk-through on the proce
    In a terminal window:
    1. Clone repo at: https://github.com/usc-isi-i2/datamart-api
    2. Verify dev-env/data/postgres/datamart.sql.gz file is ~19.9MB (if not: see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions), Step 8)
-   3. Verify user/password correct at: `config.py` and `docker/docker_config.py`. The cloned files should already have the correct defaults.
+   3. Verify user/password correct for: `config.py` and `docker/docker_config.py`. The cloned files should already have the correct defaults.
    4. run `cd ../docker`
    5. run `docker-compose build`
    6. run `docker-compose up`
-   7. Open new terminal window and verify connection: `curl -I http://localhost:14080`. A "200" status-code should be returned.
+   7. Open new terminal window
+   8. run `curl -I http://localhost:14080` to verify connection to Docker container. A "200" status-code should be returned.
    
 For those using conda environments:
   1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
@@ -201,23 +202,23 @@ After installing the required python packages:
   6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
   
 ### ISI Docker Set Up Instructions
-The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart. For the reference GitHub repository, see <a href="https://github.com/usc-isi-i2/datamart-api">ISI.</a>
+The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart. For the reference GitHub repository, see <a href="https://github.com/usc-isi-i2/datamart-api">ISI Datamart.</a>
 
 1. Open Terminal
 
-2. Create new folder of your choosing:  `mkdir /Users/your/new/folder` 
+2. run `mkdir /Users/your/new/folder` to create new folder of your choosing.
 
-3. Change working directory to your new folder: `cd Users/your/new/folder`
+3. run `cd Users/your/new/folder` to change working directory to your new folder.
 
-4. Clone repo to your new folder: `git clone git@github.com:usc-isi-i2/datamart-api.git` and enter your passphrase OR Go to https://github.com/usc-isi-i2/datamart-api, select the `CODE` button, and download the zip file to Users/your/new/folder.
+4. run `git clone git@github.com:usc-isi-i2/datamart-api.git` to clone repo to your new folder OR go to https://github.com/usc-isi-i2/datamart-api, select the `CODE` button, and download the zip file to Users/your/new/folder.
 
-5. Change working directory to the cloned/downloaded directory: `cd datamart-api`
+5. run `cd datamart-api` to change working directory to the cloned/downloaded directory.
 
-6. Verify repository was cloned/downloaded: `ls` and verify the files/folders from the repository are now in your folder
+6. run `ls` to verify the files/folders from the repository are now in your folder.
 
-7. Verify credentials for Postgres: Open `config.py` and verify the `user` and `password` values; the file should already have the correct defaults. 
+7. open `config.py` and verify the `user` and `password` values; the file should already have the correct defaults. 
 
-8. Verify backup database downloaded correctly: `cd dev-env/data/postgres/ && ls -l datamart.sql.gz`
+8. run `cd dev-env/data/postgres/ && ls -l datamart.sql.gz` to verify backup database downloaded correctly.
 
 The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.gz` file size is not correct:
 
@@ -230,15 +231,15 @@ The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.
 
 	A. Open/login to Docker
 
-	B. Change to docker directory: `cd ../docker` 	 
+	B. run `cd ../docker` to change to docker directory. 
 
-	C. Verifiy the docker_config.py `user` and `password` are correct. 
+	C. open docker_config.py and verify that the `user` and `password` are correct. 
 
-	D. Build the Docker Container (this will take a few minutes): `docker-compose build`
+	D. run `docker-compose build` to build the Docker Container (this will take a few minutes).
 
-	E. Run the docker-compose: `docker-compose up`
+	E. run `docker-compose up` to instaniate the docker containers.
 
-	F. Verify connection to container: `curl -I http://localhost:14080`
+	F. run `curl -I http://localhost:14080` to verify connection to container.
 
 	 Should Return a "200" Status Code, such as:
 	 ```
