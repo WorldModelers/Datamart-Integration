@@ -12,17 +12,17 @@ python trends.py --term=teff --geo=ET-AA --output=teff.csv
 
 Will yield a `.csv` file called `teff.csv` containing Google Trend information for Addis Ababa, Ethiopia:
 
-| time       | teff_value | country  | admin_1     | teff_description                                        |
-|------------|------------|----------|-------------|---------------------------------------------------------|
-| 2015-07-19 | 15         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-07-26 | 15         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-08-02 | 16         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-08-09 | 0          | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-08-16 | 0          | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-08-23 | 22         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-08-30 | 15         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-09-06 | 0          | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
-| 2015-09-13 | 14         | Ethiopia | Addis Ababa | Google Trends for the term teff for the geography ET-AA |
+| time       | teff_value | teff_description                                        | country  | admin_1     |
+|------------|------------|---------------------------------------------------------|----------|-------------|
+| 2015-07-19 | 15         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-07-26 | 15         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-08-02 | 16         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-08-09 | 0          | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-08-16 | 0          | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-08-23 | 22         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-08-30 | 15         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-09-06 | 0          | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
+| 2015-09-13 | 14         | Google Trends for the term teff for the geography ET-AA | Ethiopia | Addis Ababa |
 
 
 ## ISO Country/Admin1 Codes

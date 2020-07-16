@@ -25,11 +25,11 @@ def get_trend(term, geo):
         trend_df = trend_df.reset_index()
         trend_df = trend_df.rename(columns={'date': 'time', term: f'{term}_value'})
         trend_df = trend_df.drop(columns='isPartial')
+        trend_df[term + '_description'] = f'Google Trends for the term {term} for the geography {geo}'
         country, admin1 = get_geo(geo)
         trend_df['country'] = country
         if admin1:
             trend_df['admin_1'] = admin1
-        trend_df[term + '_description'] = f'Google Trends for the term {term} for the geography {geo}'            
         return trend_df
 
 if __name__ == "__main__":
