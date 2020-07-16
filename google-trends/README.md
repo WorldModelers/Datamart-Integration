@@ -26,4 +26,6 @@ Will yield a `.csv` file called `teff.csv` containing Google Trend information f
 
 
 ## ISO Country/Admin1 Codes
-You can refer to `iso-codes.csv` to identify the ISO code you wish to use. Note that you should just use the two letter country code if you wish to identify a trend for the whole country. You should use the full `ISO 3166-2` code to identify a trend for a specific admin 1 region. Note that for some admin 1 regions no trend information is available for certain terms.
+You can refer to `iso-codes.csv` to identify the ISO code you wish to use. Note that you should just use the two letter country code if you wish to identify a trend for the whole country. You should use the full `ISO 3166-2` code to identify a trend for a specific admin 1 region. Note that for some admin 1 regions no trend information is available for certain terms. 
+
+The ISO country codes were generated from Wikidata using the Wikidata SPARQL endpoint: [https://w.wiki/X2c](https://w.wiki/X2c).
