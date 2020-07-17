@@ -47,8 +47,11 @@ for d in isi_datasets:
                    'dataset_id': d['dataset_id'],
                    'dataset_description': d['description'],
                    'dataset_url': d['url']}
+        if 'qualifier' in v:
+            var_obj['qualifier'] = v['qualifier']
         var_obj['variable_id'] = v['variable_id']
         var_obj['variable_name'] = v.get('name', '')
+        var_obj['variable_description'] = v.get('description', '')
         isi_vars.append(var_obj)
         with open(ISI_meta_file,'a') as f:
             f.write(json.dumps(var_obj)+'\n')
