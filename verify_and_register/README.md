@@ -4,11 +4,11 @@ This repository houses code to 1) verify a dataset's compliance with the datamar
 ## Contents
 1. [Overview](#overview)
 2. [Tutorial Video](#tutorial-video)
-3. [Verifier Overview](#verifier-overview)
-4. [Correcting Errors](#correcting-errors)
-5. [Registration Overview](#registration-overview)
-6. [LOCAL Run Instructions](#local-run-instructions)
-7. [REMOTE Run Instructions](#remote-run-instructions)
+3. [Local Run Instructions](#local-run-instructions)
+4. [Remote Run Instructions](#remote-run-instructions)
+5. [Verifier Overview](#verifier-overview)
+6. [Correcting Errors](#correcting-errors)
+7. [Registration Overview](#registration-overview)
 8. [ISI Docker Set Up Instructions](#isi-docker-set-up-instructions)
 
 ### Overview:
@@ -56,6 +56,83 @@ See [Run Instructions](#run-instructions) for the command line arguments.
 #### Note, tutorial video not updated to reflect schema changes; however, the same processes apply
 
 For a tutorial video that walks through an example of transforming a dataset into a schema-compliant dateset, <a href="https://drive.google.com/file/d/1RqgscMfhTWe2qt8qGm9RncEFvduJH5qq/view">Click Here.</a>
+
+### Local Run Instructions:
+Following these instructions will allow for testing or training on the verification and registration process and will not post datasets to production servers. 
+
+The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
+
+### Build and instatiate the docker containers. 
+
+#### ISI Docker Containers
+Below are the abbreviated instructions. For a detailed walk-through on the process, see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions):
+
+   In a terminal window:
+   1. Clone repo at: https://github.com/usc-isi-i2/datamart-api
+   2. Verify dev-env/data/postgres/datamart.sql.gz file is ~19.9MB (if not: see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions), Step 8)
+   3. Verify user/password correct for: `config.py` and `docker/docker_config.py`. The cloned files should already have the correct defaults.
+   4. run `cd ../docker`
+   5. run `docker-compose build`
+   6. run `docker-compose up`
+   7. Open new terminal window
+   8. run `curl -I http://localhost:14080` to verify connection to Docker container. A "200" status-code should be returned.
+
+#### NYU Docker Containers
+
+   In a terminal window:
+   1. Clone repo at: https://gitlab.com/ViDA-NYU/datamart/datamart
+   2. run `git submodule init && git submodule`
+   3. run `git lfs install`
+   4. Make a copy of env.default and rename to .env.  Open the file and add your tokens to: `NOAA_TOKEN` and `ZENODO_TOKEN`. Get the NOAA token <a href="https://www.ncdc.noaa.gov/cdo-web/token">HERE</a> and the ZENODO token <a href="https://zenodo.org/account/settings/applications/tokens/new/">HERE.</a>
+   5. run `docker-compose build --build-arg version=$(git describe) coordinator profiler apiserver frontend socrata zenodo`
+   6. run `docker-compose up -d elasticsearch rabbitmq redis lazo`
+   7. run `docker-compose up -d coordinator profiler apiserver apilb frontend`
+   8. Open new terminal window
+   9. run `curl -I http://localhost:8001` to verify connection to Docker container. A "200" status-code should be returned.
+
+#### After Docker Containers are running:
+For those using conda environments:
+  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
+  2. Install packages: `conda install --yes --file requirements.txt`
+
+If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
+After installing the required python packages:
+
+  1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
+  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
+  3. Open a Terminal window
+  4. Change your working directory to your new folder: `cd /path/to/your_folder`
+  5. Run the file: 
+  
+        `python3 dataset.py csv/file.csv local` 
+        
+        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
+  
+  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
+
+### Remote Run Instructions:
+Following these instructions will post your dataset to the production datamart server.
+
+The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
+
+For those using conda environments:
+  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
+  2. Install packages: `conda install --yes --file requirements.txt`
+
+If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
+  
+After installing the required python packages:
+  1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
+  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
+  3. Open a Terminal window
+  4. Change your working directory to your new folder: `cd /path/to/your_folder`
+  5. Run the file: 
+  
+        `python3 dataset.py csv/file.csv remote`
+        
+        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
+  
+  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
 
 ### Verifier Overview
   The script reads your headers and verifies compliance. It checks for: required column headers, dates in ISO 8601 format, and proper qualifier format. Note that the verifier script does account for case; i.e. `Country` will fail verification as it's capitalized.  
@@ -139,67 +216,7 @@ Below is a walk-through of the selections available to you after running the scr
      What dataset variable are you uploading data to? Enter the variable_id: test_variable_id
      ```
      Hit enter and the ISI api will verify compliance. You will be notified if 1) the data is successfully uploaded, or 2) there are errors that need to be corrected.
-     
-### LOCAL Run Instructions:
-Following these instructions will allow for testing or training on the verification and registration process and will not post datasets to production servers. Currently this only avialable for the ISI datamart.
-
-The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
-
-#### Build and instatiate the docker containers. 
-Below are the abbreviated instructions. For a detailed walk-through on the process, see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions):
-
-   In a terminal window:
-   1. Clone repo at: https://github.com/usc-isi-i2/datamart-api
-   2. Verify dev-env/data/postgres/datamart.sql.gz file is ~19.9MB (if not: see [ISI Docker Set up Instructions](#isi-docker-set-up-instructions), Step 8)
-   3. Verify user/password correct for: `config.py` and `docker/docker_config.py`. The cloned files should already have the correct defaults.
-   4. run `cd ../docker`
-   5. run `docker-compose build`
-   6. run `docker-compose up`
-   7. Open new terminal window
-   8. run `curl -I http://localhost:14080` to verify connection to Docker container. A "200" status-code should be returned.
-   
-For those using conda environments:
-  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
-  2. Install packages: `conda install --yes --file requirements.txt`
-
-If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
-After installing the required python packages:
-
-  1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
-  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
-  3. Open a Terminal window
-  4. Change your working directory to your new folder: `cd /path/to/your_folder`
-  5. Run the file: 
-  
-        `python3 dataset.py csv/file.csv local` 
-        
-        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
-  
-  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
-  
-### REMOTE Run Instructions:
-Following these instructions will post your dataset to the production datamart server.
-
-The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
-
-For those using conda environments:
-  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
-  2. Install packages: `conda install --yes --file requirements.txt`
-
-If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
-  
-After installing the required python packages:
-  1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
-  2. Open the `config.ini` file, update the username and password credentials, and save the file in the same file location. 
-  3. Open a Terminal window
-  4. Change your working directory to your new folder: `cd /path/to/your_folder`
-  5. Run the file: 
-  
-        `python3 dataset.py csv/file.csv remote`
-        
-        `file.csv` is your csv file. There are some examples included in the repository. You can use these examples to test the functionality or test your own `.csv` file. Note that the csv files are stored in a sub-folder.  It's recommended, but not necessery, to put your csv file in the `csv` folder.
-  
-  6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
+    
   
 ### ISI Docker Set Up Instructions
 The instructions below walk you through building and deployong Docker Containers to build a local server for the ISI datamart. For the reference GitHub repository, see <a href="https://github.com/usc-isi-i2/datamart-api">ISI Datamart.</a>
@@ -251,3 +268,5 @@ The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.
 		 Content-Length: 96
 		 Access-Control-Allow-Origin: *
 	```		 
+
+### ISI Docker Set Up Instructions
