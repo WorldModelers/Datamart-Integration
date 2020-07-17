@@ -81,14 +81,15 @@ Below are the abbreviated instructions. For a detailed walk-through on the proce
 
    In a terminal window:
    1. Clone repo at: https://gitlab.com/ViDA-NYU/datamart/datamart
-   2. run `git submodule init && git submodule`
-   3. run `git lfs install`
-   4. Make a copy of env.default and rename to .env.  Open the file and add your tokens to: `NOAA_TOKEN` and `ZENODO_TOKEN`. Get the NOAA token <a href="https://www.ncdc.noaa.gov/cdo-web/token">HERE</a> and the ZENODO token <a href="https://zenodo.org/account/settings/applications/tokens/new/">HERE.</a>
-   5. run `docker-compose build --build-arg version=$(git describe) coordinator profiler apiserver frontend socrata zenodo`
-   6. run `docker-compose up -d elasticsearch rabbitmq redis lazo`
-   7. run `docker-compose up -d coordinator profiler apiserver apilb frontend`
-   8. Open new terminal window
-   9. run `curl -I http://localhost:8001` to verify connection to Docker container. A "200" status-code should be returned.
+   2. run `cd datamart`
+   3. run `git submodule init && git submodule`
+   4. run `git lfs install`
+   5. Make a copy of env.default and rename to .env.  Open the file and add your tokens to: `NOAA_TOKEN` and `ZENODO_TOKEN`. Get the NOAA token <a href="https://www.ncdc.noaa.gov/cdo-web/token">HERE</a> and the ZENODO token <a href="https://zenodo.org/account/settings/applications/tokens/new/">HERE.</a>
+   6. run `docker-compose build --build-arg version=$(git describe) coordinator profiler apiserver frontend socrata zenodo`
+   7. run `docker-compose up -d elasticsearch rabbitmq redis lazo`
+   8. run `docker-compose up -d coordinator profiler apiserver apilb frontend`
+   9. Open new terminal window
+   10. run `curl -I http://localhost:8001` to verify connection to Docker container. A "200" status-code should be returned.
 
 #### After Docker Containers are running:
 For those using conda environments:
