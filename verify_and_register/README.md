@@ -118,7 +118,7 @@ After installing the required python packages:
   
   6. Follow the steps as discussed above in the [Registration Overview](#registration-overview).
 
-### Remote Run Instructions:
+### Remote Run of verify_and_register:
 Following these instructions will post your dataset to the production datamart server.
 
 The dataset.py script requires Python 3.7 or higher. Non-standard python packages are required and included in the `requirements.txt` file in this repository.
