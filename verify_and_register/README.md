@@ -91,12 +91,19 @@ Below are the abbreviated instructions. For a detailed walk-through on the proce
    9. Open new terminal window
    10. run `curl -I http://localhost:8001` to verify connection to Docker container. A "200" status-code should be returned.
 
-#### After Docker Containers are running:
+#### Set up the Environment:
+
+ISI Datamart: 
+
 For those using conda environments:
-  1. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
-  2. Install packages: `conda install --yes --file requirements.txt`
+  1. run `cd /path/to/your_folder/datamart-api`
+  2. Create a new conda environment: `conda create --name schema` where `schema` is your name of choice.
+  3. Install packages: `conda install --yes --file requirements.txt`
 
 If you are not using a virtual environment, you can import packages with the command: `pip install -r requirements.txt`.
+
+### Local Run of verify_and_register:
+
 After installing the required python packages:
 
   1. Download the `verify_and_register` folder from this repository to `your_folder` on your local machine
