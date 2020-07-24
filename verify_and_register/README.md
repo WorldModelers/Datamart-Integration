@@ -275,6 +275,4 @@ The `datamart.sql.gz` file should be approximately 19.9MB. If the `datamart.sql.
 		 Content-Type: text/html; charset=utf-8
 		 Content-Length: 96
 		 Access-Control-Allow-Origin: *
-	```		 
-
-### ISI Docker Set Up Instructions
+	```
