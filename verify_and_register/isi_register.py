@@ -117,3 +117,15 @@ def login_isi(url, user, pwd):
         print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
     
     return logon
+
+
+def upload_data_post(file_path, url):
+    file_name = os.path.basename(file_path)
+    files = {
+        'file': (file_name, open(file_path, mode='rb'), 'application/octet-stream')
+    }
+    response = post(url, files=files)
+    if response.status_code == 400:
+        print(json.dumps(response.json(), indent=2))
+    else:
+        print(json.dumps(response.json(), indent=2))
