@@ -70,15 +70,15 @@ response = get(f'{datamart_api_url}/metadata/datasets/{dataset_meta["dataset_id"
 variable_ids = [i.get('variable_id') for i in response.json()]
 
 # Download data in canonical form
-df_all_variables = None
+df_all_variables = pd.DataFrame()
 for v in variable_ids:
     response = get(f'{datamart_api_url}/datasets/{dataset_meta["dataset_id"]}/variables/{v}')
-    df = pd.read_csv(StringIO(response.text)).set_index('time')
-    if df_all_variables == None:
+    df = pd.read_csv(StringIO(response.text))
+    if df_all_variables.shape[0] == 0:
         df_all_variables = df
     else:
-        cols_to_use = df.columns.difference(df_all_variables.columns)
-        df_all_variables = merge(df_all_variables, df[cols_to_use], left_index=True, right_index=True, how='outer')
+        df_all_variables = df_all_variables.append(df)
+df_all_variables = df_all_variables.reset_index().drop(columns=['index'])        
 
 df_all_variables.reset_index().to_csv('csv/tmp.csv')
 
