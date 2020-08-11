@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import verifier as vlad
 import nyu_register as nyu
 import isi_register as isi
 import spinner as sp
@@ -24,23 +23,18 @@ config.read(configFile)
 ################### set up logger event handling
 username_nyu = config['NYU']['username']
 password_nyu = config['NYU']['password']
+url_nyu = config['NYU']['url']
 
 username_isi = config['ISI']['username']
 password_isi = config['ISI']['password']
+url_isi = config['ISI']['url']
 
 #open dataset and get info:
 csv_file = open(sys.argv[1], 'r')
 dataset = open(sys.argv[1], 'rb')
 file_path = sys.argv[1]
-post_type = sys.argv[2]
 
-#### ENDPOINTS
-# ISI
-if post_type == 'local':
-    datamart_api_url = 'http://localhost:14080'   
-
-else:
-    datamart_api_url = f'https://{username_isi}:{password_isi}@dsbox02.isi.edu:8888/datamart-api-wm'
+datamart_api_url = f'https://{username_isi}:{password_isi}@{url_isi}'
 
 # NYU TBD
 
@@ -63,7 +57,7 @@ workbook.save(filename="csv/tmp.xlsx")
 # Upload dataset to T2WML
 url = f'{datamart_api_url}/datasets/{dataset_meta["dataset_id"]}/annotated'
 file_path = 'csv/tmp.xlsx'
-upload_data_post(file_path, url)
+isi.upload_data_post(file_path, url)
 
 # Get variable(s)
 response = get(f'{datamart_api_url}/metadata/datasets/{dataset_meta["dataset_id"]}/variables')
@@ -84,7 +78,7 @@ df_all_variables.reset_index().to_csv('csv/tmp.csv')
 
 # Upload to NYU
 #login to wm auctus
-api_url = f'https://{username_nyu}:{password_nyu}@wm.auctus.vida-nyu.org/api/v1/'
+api_url = f'https://{username_nyu}:{password_nyu}@{url_nyu}'
 url_upload = api_url + 'upload' 
 url_meta = api_url + 'metadata/'
 
