@@ -15,7 +15,7 @@ You should ensure that `config.ini` has the appropriate usernames/passwords for 
 To use the script, point it at an annotated spreadsheet with:
 
 ```
-python3 path_to_spreadsheet.xlsx
+python3 t2wml_register.py path_to_spreadsheet.xlsx
 ```
 
 You will be asked to provide metadata about the dataset, such as a description and source (url).
