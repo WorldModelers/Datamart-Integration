@@ -12,6 +12,10 @@ import pandas as pd
 from io import StringIO
 from requests import get,post,put,delete
 import requests
+import sys
+import logging
+
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.DEBUG)
 
 
 # Define a new dataset
@@ -35,8 +39,13 @@ def get_dataset_meta():
 def post_meta_to_api(dataset_meta, datamart_api_url):
     
     td_response = post(f'{datamart_api_url}/metadata/datasets', json = dataset_meta)
-
-    return print(json.dumps(td_response.json(), indent=2))
+    logging.debug("ISI posting metadata to API")
+    try:
+        output = json.dumps(td_response.json(), indent=2)
+        return print(json.dumps(td_response.json(), indent=2))
+    except:
+        logging.error(f"ERROR: {td_response.text}")    
+        sys.exit(f"Process failed: {td_response.text}")
 
 
 # DEFINE a new variable to be added to the dataset
@@ -53,7 +62,7 @@ def define_new_variable(datamart_api_url, dataset_id):
     tv_response = post(f'{datamart_api_url}/metadata/datasets/{dataset_id}/variables', json=variable)
 
     # Print out the post results
-    print(json.dumps(tv_response.json(), indent=2))
+    logging.info(json.dumps(tv_response.json(), indent=2))
     
     return variable['variable_id']
 
@@ -85,9 +94,9 @@ def upload_data(datamart_api_url, file_path, dataset_id, dataset_variable, overw
         response = post(url, files=files)
     
     if response.status_code == 400:
-        print(json.dumps(response.json(), indent=2))
+        logging.info(json.dumps(response.json(), indent=2))
     else:
-        print(response.json())
+        logging.info(response.json())
 
 # Print out the dataset to user
 def show_dataset(datamart_api_url, dataset_id, variable_id):
@@ -114,7 +123,7 @@ def login_isi(url, user, pwd):
         logon = True
     
     else:
-        print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
+        logging.error(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
     
     return logon
 
@@ -126,6 +135,15 @@ def upload_data_post(file_path, url):
     }
     response = post(url, files=files)
     if response.status_code == 400:
-        print(json.dumps(response.json(), indent=2))
+        try:
+            out = json.dumps(response.json(), indent=2)
+            logging.info(out)
+        except:
+            logging.error(f"ERROR: {response.text}")
     else:
-        print(json.dumps(response.json(), indent=2))
+        try:
+            out = json.dumps(response.json(), indent=2)
+            logging.info(out)
+        except:
+            logging.error(f"ERROR: {response.text}")
+            sys.exit("Process failed.")
