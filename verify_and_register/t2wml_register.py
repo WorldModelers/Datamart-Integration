@@ -95,7 +95,7 @@ url_meta = api_url + 'metadata/'
 # Upload to datamar
 logging.debug(f'Uploading canonical data to NYU Datamart')
 dataset = open('csv/tmp.csv', 'rb')
-dataset_id = nyu.upload_data(url_upload, dataset, dataset_meta["name"], dataset_meta["description"])
+dataset_id = nyu.upload_data(url_upload, dataset, dataset_meta["name"], dataset_meta["description"], dataset_meta["url"])
 
 #...wait for good response
 print("Registering your dataset, this may take awhile...")

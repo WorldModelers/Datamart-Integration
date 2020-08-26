@@ -9,21 +9,29 @@ Created on Tue Jun 30 19:37:54 2020
 import requests
 import time
 import csv
+import logging
+
+logging.basicConfig(format='%(asctime)s - %(levelname)s - %(message)s', level=logging.DEBUG)
 
 ### FUNCTIONS ###
 
 # POSTs the dataset to the NYU datamart
-def upload_data(url, dataset, dataset_name, dataset_description):
+def upload_data(url, dataset, dataset_name, dataset_description, source):
     
     dataset.seek(0,0)
     response = requests.post(
                url,
                data={ "name": dataset_name,
                       "description": dataset_description,
+                      "source": source
                     },
                 files={'file': dataset}
                 )
-    dataset_id = response.json()['id']
+    try:
+        dataset_id = response.json()['id']
+    except: 
+        logging.error("Error decoding response from NYU")
+        logging.error(response.text)
     
     return dataset_id
 
@@ -36,9 +44,8 @@ def get_status(url_meta, dataset_id):
     status_q = response.json()['status']
     
     if status_q == 'indexed':
-        print("\n")
-        print(f"REGISTRATION COMPLETE")
-        print(f"DATASET ID: {dataset_id}")
+        logging.debug(f"REGISTRATION COMPLETE")
+        logging.debug(f"DATASET ID: {dataset_id}")
         return print("Your registered dataset is available at: https://wm.auctus.vida-nyu.org/")
     
     else:
@@ -56,10 +63,10 @@ def login_nyu(url, user, pwd):
     response = session.get(url)
     
     if response.status_code == 200:
-        print("Successfully logged into Auctus World Modelers")
+        logging.debug("Successfully logged into Auctus World Modelers")
         logon = True
     
     else:
-        print(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
+        logging.debug(f'Error: {response.status_code}. Update the config.ini file with the proper logon credentials.')
     
     return logon
