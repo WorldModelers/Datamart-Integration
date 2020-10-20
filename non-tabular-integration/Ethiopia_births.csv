@@ -1,691 +1,691 @@
-variable_id,country,admin1,admin2,admin3,main_subject,time,time_precision,value
-births,Ethiopia,Addis Abeba,Addis Abeba,Addis Ketema,Ethiopia,2015-01-01T00:00:00,year,6787.842529296875
-births,Ethiopia,Addis Abeba,Addis Abeba,Akaki - Kalit,Ethiopia,2015-01-01T00:00:00,year,3202.189567089081
-births,Ethiopia,Addis Abeba,Addis Abeba,Arada,Ethiopia,2015-01-01T00:00:00,year,6011.952667236328
-births,Ethiopia,Addis Abeba,Addis Abeba,Bole,Ethiopia,2015-01-01T00:00:00,year,5616.444939613342
-births,Ethiopia,Addis Abeba,Addis Abeba,Gulele,Ethiopia,2015-01-01T00:00:00,year,7837.595624923706
-births,Ethiopia,Addis Abeba,Addis Abeba,Kirkos,Ethiopia,2015-01-01T00:00:00,year,6990.080978393555
-births,Ethiopia,Addis Abeba,Addis Abeba,Kolfe - Keran,Ethiopia,2015-01-01T00:00:00,year,6797.575741052628
-births,Ethiopia,Addis Abeba,Addis Abeba,Lideta,Ethiopia,2015-01-01T00:00:00,year,7495.32218170166
-births,Ethiopia,Addis Abeba,Addis Abeba,Nefas Silk,Ethiopia,2015-01-01T00:00:00,year,7247.7125635147095
-births,Ethiopia,Addis Abeba,Addis Abeba,Yeka,Ethiopia,2015-01-01T00:00:00,year,7721.2958562374115
-births,Ethiopia,Afar,Afar Zone 1,Adaa'r,Ethiopia,2015-01-01T00:00:00,year,1095.7373324632645
-births,Ethiopia,Afar,Afar Zone 1,Afambo,Ethiopia,2015-01-01T00:00:00,year,738.2082199184224
-births,Ethiopia,Afar,Afar Zone 1,Aysaita,Ethiopia,2015-01-01T00:00:00,year,2966.8682612720877
-births,Ethiopia,Afar,Afar Zone 1,Chifra,Ethiopia,2015-01-01T00:00:00,year,4032.4631448984146
-births,Ethiopia,Afar,Afar Zone 1,Dubti,Ethiopia,2015-01-01T00:00:00,year,3250.8413987662643
-births,Ethiopia,Afar,Afar Zone 1,Elidar,Ethiopia,2015-01-01T00:00:00,year,2474.9532745480537
-births,Ethiopia,Afar,Afar Zone 1,Kurri,Ethiopia,2015-01-01T00:00:00,year,750.306022990495
-births,Ethiopia,Afar,Afar Zone 1,Mile,Ethiopia,2015-01-01T00:00:00,year,2804.4871169552207
-births,Ethiopia,Afar,Afar Zone 2,Ab Ala,Ethiopia,2015-01-01T00:00:00,year,1412.1908647418022
-births,Ethiopia,Afar,Afar Zone 2,Afdera,Ethiopia,2015-01-01T00:00:00,year,487.58814430364873
-births,Ethiopia,Afar,Afar Zone 2,Berahile,Ethiopia,2015-01-01T00:00:00,year,1866.593354206998
-births,Ethiopia,Afar,Afar Zone 2,Bidu,Ethiopia,2015-01-01T00:00:00,year,485.6759822422173
-births,Ethiopia,Afar,Afar Zone 2,Dalul,Ethiopia,2015-01-01T00:00:00,year,2434.041346145794
-births,Ethiopia,Afar,Afar Zone 2,Erebti,Ethiopia,2015-01-01T00:00:00,year,2114.1450555622578
-births,Ethiopia,Afar,Afar Zone 2,Koneba,Ethiopia,2015-01-01T00:00:00,year,1614.518893122673
-births,Ethiopia,Afar,Afar Zone 2,Megale,Ethiopia,2015-01-01T00:00:00,year,848.879774659872
-births,Ethiopia,Afar,Afar Zone 3,Amibara,Ethiopia,2015-01-01T00:00:00,year,2385.494011076167
-births,Ethiopia,Afar,Afar Zone 3,Argoba Special Woreda,Ethiopia,2015-01-01T00:00:00,year,986.6761782765388
-births,Ethiopia,Afar,Afar Zone 3,Awash Fentale,Ethiopia,2015-01-01T00:00:00,year,1054.426446646452
-births,Ethiopia,Afar,Afar Zone 3,Bure Mudaytu,Ethiopia,2015-01-01T00:00:00,year,1999.6263022674248
-births,Ethiopia,Afar,Afar Zone 3,Dulecha,Ethiopia,2015-01-01T00:00:00,year,845.3460142277181
-births,Ethiopia,Afar,Afar Zone 3,Gewane,Ethiopia,2015-01-01T00:00:00,year,1827.1274713582825
-births,Ethiopia,Afar,Afar Zone 4,Awra,Ethiopia,2015-01-01T00:00:00,year,1045.157199857058
-births,Ethiopia,Afar,Afar Zone 4,Ewa,Ethiopia,2015-01-01T00:00:00,year,1952.4730089306831
-births,Ethiopia,Afar,Afar Zone 4,Gulina,Ethiopia,2015-01-01T00:00:00,year,701.0783019065857
-births,Ethiopia,Afar,Afar Zone 4,Teru,Ethiopia,2015-01-01T00:00:00,year,1932.0076872706413
-births,Ethiopia,Afar,Afar Zone 4,Yalo,Ethiopia,2015-01-01T00:00:00,year,1174.892267882824
-births,Ethiopia,Afar,Afar Zone 5,Dalfagi,Ethiopia,2015-01-01T00:00:00,year,2693.5643318891525
-births,Ethiopia,Afar,Afar Zone 5,Dewe,Ethiopia,2015-01-01T00:00:00,year,3083.530623316765
-births,Ethiopia,Afar,Afar Zone 5,Hadelela,Ethiopia,2015-01-01T00:00:00,year,3303.1061843037605
-births,Ethiopia,Afar,Afar Zone 5,Simurobi Gele'alo,Ethiopia,2015-01-01T00:00:00,year,3197.61779846251
-births,Ethiopia,Afar,Afar Zone 5,Telalak,Ethiopia,2015-01-01T00:00:00,year,3500.9440648406744
-births,Ethiopia,Amhara,Agew Awi,Ankasha,Ethiopia,2015-01-01T00:00:00,year,7580.857577323914
-births,Ethiopia,Amhara,Agew Awi,Banja,Ethiopia,2015-01-01T00:00:00,year,4123.932848930359
-births,Ethiopia,Amhara,Agew Awi,Dangila,Ethiopia,2015-01-01T00:00:00,year,4944.920647382736
-births,Ethiopia,Amhara,Agew Awi,Fagta Lakoma,Ethiopia,2015-01-01T00:00:00,year,5126.687616825104
-births,Ethiopia,Amhara,Agew Awi,Guagusa Shikudad,Ethiopia,2015-01-01T00:00:00,year,2650.0697345733643
-births,Ethiopia,Amhara,Agew Awi,Guangua,Ethiopia,2015-01-01T00:00:00,year,8543.011537015438
-births,Ethiopia,Amhara,Agew Awi,Jawi,Ethiopia,2015-01-01T00:00:00,year,5072.411879397929
-births,Ethiopia,Amhara,Argoba,Argoba,Ethiopia,2015-01-01T00:00:00,year,2770.503889322281
-births,Ethiopia,Amhara,Bahir Dar Special Zone,Bahir Dar,Ethiopia,2015-01-01T00:00:00,year,4926.787506103516
-births,Ethiopia,Amhara,Debub Gondar,Dera,Ethiopia,2015-01-01T00:00:00,year,10210.834111254662
-births,Ethiopia,Amhara,Debub Gondar,East Esite,Ethiopia,2015-01-01T00:00:00,year,8606.496870040894
-births,Ethiopia,Amhara,Debub Gondar,Ebenat,Ethiopia,2015-01-01T00:00:00,year,9915.840076565742
-births,Ethiopia,Amhara,Debub Gondar,Farta,Ethiopia,2015-01-01T00:00:00,year,10092.916182160378
-births,Ethiopia,Amhara,Debub Gondar,Fogera,Ethiopia,2015-01-01T00:00:00,year,9177.71497938037
-births,Ethiopia,Amhara,Debub Gondar,Lay Gayint,Ethiopia,2015-01-01T00:00:00,year,10159.977576255798
-births,Ethiopia,Amhara,Debub Gondar,Libo Kemkem,Ethiopia,2015-01-01T00:00:00,year,7407.686742678285
-births,Ethiopia,Amhara,Debub Gondar,Simada,Ethiopia,2015-01-01T00:00:00,year,9938.570067167282
-births,Ethiopia,Amhara,Debub Gondar,Tach Gayint,Ethiopia,2015-01-01T00:00:00,year,4061.9046273231506
-births,Ethiopia,Amhara,Debub Gondar,West Esite,Ethiopia,2015-01-01T00:00:00,year,5172.710773229599
-births,Ethiopia,Amhara,Debub Wollo,Albuko,Ethiopia,2015-01-01T00:00:00,year,638.7550106532872
-births,Ethiopia,Amhara,Debub Wollo,Ambasel,Ethiopia,2015-01-01T00:00:00,year,5466.235772013664
-births,Ethiopia,Amhara,Debub Wollo,Debresina,Ethiopia,2015-01-01T00:00:00,year,6449.763195991516
-births,Ethiopia,Amhara,Debub Wollo,Dessie Zuria,Ethiopia,2015-01-01T00:00:00,year,12734.240341424942
-births,Ethiopia,Amhara,Debub Wollo,Jama,Ethiopia,2015-01-01T00:00:00,year,4782.956101179123
-births,Ethiopia,Amhara,Debub Wollo,Kalu,Ethiopia,2015-01-01T00:00:00,year,10846.8369358778
-births,Ethiopia,Amhara,Debub Wollo,Kelela,Ethiopia,2015-01-01T00:00:00,year,5846.931530594826
-births,Ethiopia,Amhara,Debub Wollo,Kutaber,Ethiopia,2015-01-01T00:00:00,year,4724.873675584793
-births,Ethiopia,Amhara,Debub Wollo,Legambo,Ethiopia,2015-01-01T00:00:00,year,6614.548787474632
-births,Ethiopia,Amhara,Debub Wollo,Legehida,Ethiopia,2015-01-01T00:00:00,year,1975.9507818222046
-births,Ethiopia,Amhara,Debub Wollo,Mehal Sayint,Ethiopia,2015-01-01T00:00:00,year,2689.329929590225
-births,Ethiopia,Amhara,Debub Wollo,Mekdela,Ethiopia,2015-01-01T00:00:00,year,5820.839259445667
-births,Ethiopia,Amhara,Debub Wollo,Sayint,Ethiopia,2015-01-01T00:00:00,year,6191.59748840332
-births,Ethiopia,Amhara,Debub Wollo,Tenta,Ethiopia,2015-01-01T00:00:00,year,7162.034334659576
-births,Ethiopia,Amhara,Debub Wollo,Thehulederie,Ethiopia,2015-01-01T00:00:00,year,5274.215474285185
-births,Ethiopia,Amhara,Debub Wollo,Wegde,Ethiopia,2015-01-01T00:00:00,year,5057.506374835968
-births,Ethiopia,Amhara,Debub Wollo,Were Ilu,Ethiopia,2015-01-01T00:00:00,year,4586.091673254967
-births,Ethiopia,Amhara,Debub Wollo,Worebabu,Ethiopia,2015-01-01T00:00:00,year,5073.865388393402
-births,Ethiopia,Amhara,Mirab Gojjam,Bahir Dar Zuria,Ethiopia,2015-01-01T00:00:00,year,10546.22451937152
-births,Ethiopia,Amhara,Mirab Gojjam,Bure,Ethiopia,2015-01-01T00:00:00,year,4167.099730879068
-births,Ethiopia,Amhara,Mirab Gojjam,Debub Achefer,Ethiopia,2015-01-01T00:00:00,year,6182.998243570328
-births,Ethiopia,Amhara,Mirab Gojjam,Dega Damot,Ethiopia,2015-01-01T00:00:00,year,6281.2764303684235
-births,Ethiopia,Amhara,Mirab Gojjam,Dembecha,Ethiopia,2015-01-01T00:00:00,year,4963.587052345276
-births,Ethiopia,Amhara,Mirab Gojjam,Jabi Tehnan,Ethiopia,2015-01-01T00:00:00,year,9653.149181127548
-births,Ethiopia,Amhara,Mirab Gojjam,Mecha,Ethiopia,2015-01-01T00:00:00,year,11355.281569838524
-births,Ethiopia,Amhara,Mirab Gojjam,Quarit,Ethiopia,2015-01-01T00:00:00,year,4703.887034416199
-births,Ethiopia,Amhara,Mirab Gojjam,Sekela,Ethiopia,2015-01-01T00:00:00,year,5302.255506813526
-births,Ethiopia,Amhara,Mirab Gojjam,Semen Achefer,Ethiopia,2015-01-01T00:00:00,year,5490.558675169945
-births,Ethiopia,Amhara,Mirab Gojjam,Wemberma,Ethiopia,2015-01-01T00:00:00,year,5753.144813627005
-births,Ethiopia,Amhara,Mirab Gojjam,Yilmana Densa,Ethiopia,2015-01-01T00:00:00,year,12299.233548641205
-births,Ethiopia,Amhara,Misraq Gojjam,Aneded,Ethiopia,2015-01-01T00:00:00,year,3506.2939492464066
-births,Ethiopia,Amhara,Misraq Gojjam,Awabel,Ethiopia,2015-01-01T00:00:00,year,4704.846673965454
-births,Ethiopia,Amhara,Misraq Gojjam,Baso Liben,Ethiopia,2015-01-01T00:00:00,year,4611.099670171738
-births,Ethiopia,Amhara,Misraq Gojjam,Bibugn,Ethiopia,2015-01-01T00:00:00,year,4132.929121494293
-births,Ethiopia,Amhara,Misraq Gojjam,Debay Telatgen,Ethiopia,2015-01-01T00:00:00,year,4564.687201976776
-births,Ethiopia,Amhara,Misraq Gojjam,Debre Elias,Ethiopia,2015-01-01T00:00:00,year,4931.360099077225
-births,Ethiopia,Amhara,Misraq Gojjam,Dejen,Ethiopia,2015-01-01T00:00:00,year,4319.777144193649
-births,Ethiopia,Amhara,Misraq Gojjam,Enarj Enawga,Ethiopia,2015-01-01T00:00:00,year,6164.766235113144
-births,Ethiopia,Amhara,Misraq Gojjam,Enbise Sar Midir,Ethiopia,2015-01-01T00:00:00,year,5395.385732412338
-births,Ethiopia,Amhara,Misraq Gojjam,Enemay,Ethiopia,2015-01-01T00:00:00,year,6292.085130691528
-births,Ethiopia,Amhara,Misraq Gojjam,Goncha Siso Enese,Ethiopia,2015-01-01T00:00:00,year,5703.403396606445
-births,Ethiopia,Amhara,Misraq Gojjam,Gonje,Ethiopia,2015-01-01T00:00:00,year,1721.5174379348755
-births,Ethiopia,Amhara,Misraq Gojjam,Guzamn,Ethiopia,2015-01-01T00:00:00,year,7610.427371382713
-births,Ethiopia,Amhara,Misraq Gojjam,Hulet Ej Enese,Ethiopia,2015-01-01T00:00:00,year,10115.248873591423
-births,Ethiopia,Amhara,Misraq Gojjam,Michakel,Ethiopia,2015-01-01T00:00:00,year,3274.641842842102
-births,Ethiopia,Amhara,Misraq Gojjam,Senan,Ethiopia,2015-01-01T00:00:00,year,3923.280930042267
-births,Ethiopia,Amhara,Misraq Gojjam,Shebel Bereta,Ethiopia,2015-01-01T00:00:00,year,3776.892922401428
-births,Ethiopia,Amhara,North Shewa,Angolelana Tera,Ethiopia,2015-01-01T00:00:00,year,3989.554634332657
-births,Ethiopia,Amhara,North Shewa,Ankober,Ethiopia,2015-01-01T00:00:00,year,2935.431560099125
-births,Ethiopia,Amhara,North Shewa,Antsokiya,Ethiopia,2015-01-01T00:00:00,year,3441.864445924759
-births,Ethiopia,Amhara,North Shewa,Assagirt,Ethiopia,2015-01-01T00:00:00,year,1696.3026585578918
-births,Ethiopia,Amhara,North Shewa,Basona Worena,Ethiopia,2015-01-01T00:00:00,year,7880.3429518938065
-births,Ethiopia,Amhara,North Shewa,Berehet,Ethiopia,2015-01-01T00:00:00,year,1705.301009118557
-births,Ethiopia,Amhara,North Shewa,Eferatana Gidem,Ethiopia,2015-01-01T00:00:00,year,5261.237701892853
-births,Ethiopia,Amhara,North Shewa,Ensaro,Ethiopia,2015-01-01T00:00:00,year,2006.3325188159943
-births,Ethiopia,Amhara,North Shewa,Gishe Rabel,Ethiopia,2015-01-01T00:00:00,year,2430.4726380109787
-births,Ethiopia,Amhara,North Shewa,Hagere Mariam,Ethiopia,2015-01-01T00:00:00,year,2282.903762817383
-births,Ethiopia,Amhara,North Shewa,Kewet,Ethiopia,2015-01-01T00:00:00,year,4857.02586889267
-births,Ethiopia,Amhara,North Shewa,Menz Gera Midir,Ethiopia,2015-01-01T00:00:00,year,4310.225574910641
-births,Ethiopia,Amhara,North Shewa,Menz Keya Gabriel,Ethiopia,2015-01-01T00:00:00,year,2187.0396978855133
-births,Ethiopia,Amhara,North Shewa,Menz Lalo Midir,Ethiopia,2015-01-01T00:00:00,year,1709.4070061445236
-births,Ethiopia,Amhara,North Shewa,Menz Mama Midir,Ethiopia,2015-01-01T00:00:00,year,3382.391035079956
-births,Ethiopia,Amhara,North Shewa,Merahbete,Ethiopia,2015-01-01T00:00:00,year,5116.194885909557
-births,Ethiopia,Amhara,North Shewa,Mimo Weremo,Ethiopia,2015-01-01T00:00:00,year,3649.5874361991882
-births,Ethiopia,Amhara,North Shewa,Minjar Shenkora,Ethiopia,2015-01-01T00:00:00,year,6192.972119987011
-births,Ethiopia,Amhara,North Shewa,Mojan Wedera,Ethiopia,2015-01-01T00:00:00,year,3135.699567914009
-births,Ethiopia,Amhara,North Shewa,Moretna Jiru,Ethiopia,2015-01-01T00:00:00,year,3736.8938440084457
-births,Ethiopia,Amhara,North Shewa,Siya Debirna Wayu,Ethiopia,2015-01-01T00:00:00,year,2455.51205432415
-births,Ethiopia,Amhara,North Shewa,Tarema Ber,Ethiopia,2015-01-01T00:00:00,year,3683.7259259819984
-births,Ethiopia,Amhara,Oromia,Artuma Fursi,Ethiopia,2015-01-01T00:00:00,year,3172.170709013939
-births,Ethiopia,Amhara,Oromia,Bati,Ethiopia,2015-01-01T00:00:00,year,5789.805748820305
-births,Ethiopia,Amhara,Oromia,Dewa Cheffa,Ethiopia,2015-01-01T00:00:00,year,5321.980362921953
-births,Ethiopia,Amhara,Oromia,Dewa Harewa,Ethiopia,2015-01-01T00:00:00,year,2546.3801167607307
-births,Ethiopia,Amhara,Oromia,Jille Timuga,Ethiopia,2015-01-01T00:00:00,year,4314.127277851105
-births,Ethiopia,Amhara,Semen Gondar,Addi Arekay,Ethiopia,2015-01-01T00:00:00,year,3203.2879203483462
-births,Ethiopia,Amhara,Semen Gondar,Alfa,Ethiopia,2015-01-01T00:00:00,year,4030.12380617857
-births,Ethiopia,Amhara,Semen Gondar,Beyeda,Ethiopia,2015-01-01T00:00:00,year,3721.3782083541155
-births,Ethiopia,Amhara,Semen Gondar,Chilga,Ethiopia,2015-01-01T00:00:00,year,8173.65360468626
-births,Ethiopia,Amhara,Semen Gondar,Dabat,Ethiopia,2015-01-01T00:00:00,year,5853.650584757328
-births,Ethiopia,Amhara,Semen Gondar,Debark,Ethiopia,2015-01-01T00:00:00,year,6047.648341119289
-births,Ethiopia,Amhara,Semen Gondar,Dembia,Ethiopia,2015-01-01T00:00:00,year,10599.660198932514
-births,Ethiopia,Amhara,Semen Gondar,East Belesa,Ethiopia,2015-01-01T00:00:00,year,5218.69814568758
-births,Ethiopia,Amhara,Semen Gondar,Gonder Zuria,Ethiopia,2015-01-01T00:00:00,year,15099.681607700884
-births,Ethiopia,Amhara,Semen Gondar,Janamora,Ethiopia,2015-01-01T00:00:00,year,6090.516274631023
-births,Ethiopia,Amhara,Semen Gondar,Lay Armacho,Ethiopia,2015-01-01T00:00:00,year,5836.582197368145
-births,Ethiopia,Amhara,Semen Gondar,Metema,Ethiopia,2015-01-01T00:00:00,year,2746.715807378292
-births,Ethiopia,Amhara,Semen Gondar,Mirab Armacho,Ethiopia,2015-01-01T00:00:00,year,1030.8672221004963
-births,Ethiopia,Amhara,Semen Gondar,Quara,Ethiopia,2015-01-01T00:00:00,year,1874.2141020670533
-births,Ethiopia,Amhara,Semen Gondar,Tach Armacho,Ethiopia,2015-01-01T00:00:00,year,2128.490655645728
-births,Ethiopia,Amhara,Semen Gondar,Takusa,Ethiopia,2015-01-01T00:00:00,year,3705.0161969810724
-births,Ethiopia,Amhara,Semen Gondar,Tsegede,Ethiopia,2015-01-01T00:00:00,year,1445.6107606738806
-births,Ethiopia,Amhara,Semen Gondar,Tselemt,Ethiopia,2015-01-01T00:00:00,year,1585.3338522315025
-births,Ethiopia,Amhara,Semen Gondar,Wegera,Ethiopia,2015-01-01T00:00:00,year,9026.690356194973
-births,Ethiopia,Amhara,Semen Gondar,West Belesa,Ethiopia,2015-01-01T00:00:00,year,3866.6335886120796
-births,Ethiopia,Amhara,Semen Wello,Bugna,Ethiopia,2015-01-01T00:00:00,year,3794.5541293621063
-births,Ethiopia,Amhara,Semen Wello,Dawunt,Ethiopia,2015-01-01T00:00:00,year,2648.352335393429
-births,Ethiopia,Amhara,Semen Wello,Delanta,Ethiopia,2015-01-01T00:00:00,year,4950.432615876198
-births,Ethiopia,Amhara,Semen Wello,Gidan,Ethiopia,2015-01-01T00:00:00,year,6615.976176738739
-births,Ethiopia,Amhara,Semen Wello,Guba Lafto,Ethiopia,2015-01-01T00:00:00,year,8265.99602341652
-births,Ethiopia,Amhara,Semen Wello,Habru,Ethiopia,2015-01-01T00:00:00,year,8306.386757433414
-births,Ethiopia,Amhara,Semen Wello,Kobo,Ethiopia,2015-01-01T00:00:00,year,9098.55557692796
-births,Ethiopia,Amhara,Semen Wello,Lasta,Ethiopia,2015-01-01T00:00:00,year,3157.169006884098
-births,Ethiopia,Amhara,Semen Wello,Meket,Ethiopia,2015-01-01T00:00:00,year,9454.349459052086
-births,Ethiopia,Amhara,Semen Wello,Wadla,Ethiopia,2015-01-01T00:00:00,year,4570.10061109066
-births,Ethiopia,Amhara,Wag Himra,Abergele,Ethiopia,2015-01-01T00:00:00,year,2244.5017614364624
-births,Ethiopia,Amhara,Wag Himra,Dehana,Ethiopia,2015-01-01T00:00:00,year,4173.922600120306
-births,Ethiopia,Amhara,Wag Himra,Gaz Gibla,Ethiopia,2015-01-01T00:00:00,year,2231.7439571619034
-births,Ethiopia,Amhara,Wag Himra,Sahla,Ethiopia,2015-01-01T00:00:00,year,662.5804093927145
-births,Ethiopia,Amhara,Wag Himra,Sekota,Ethiopia,2015-01-01T00:00:00,year,4050.9654422700405
-births,Ethiopia,Amhara,Wag Himra,Ziquala,Ethiopia,2015-01-01T00:00:00,year,1374.751305744052
-births,Ethiopia,Benshangul-Gumaz,Asosa,Assosa,Ethiopia,2015-01-01T00:00:00,year,5935.879572927952
-births,Ethiopia,Benshangul-Gumaz,Asosa,Bambasi,Ethiopia,2015-01-01T00:00:00,year,2439.2880954146385
-births,Ethiopia,Benshangul-Gumaz,Asosa,Bilidigilu,Ethiopia,2015-01-01T00:00:00,year,1829.8375588655472
-births,Ethiopia,Benshangul-Gumaz,Asosa,Homosha,Ethiopia,2015-01-01T00:00:00,year,557.6772324740887
-births,Ethiopia,Benshangul-Gumaz,Asosa,Kurmuk,Ethiopia,2015-01-01T00:00:00,year,602.380374006927
-births,Ethiopia,Benshangul-Gumaz,Asosa,Maokomo Special,Ethiopia,2015-01-01T00:00:00,year,3491.1731330156326
-births,Ethiopia,Benshangul-Gumaz,Asosa,Menge,Ethiopia,2015-01-01T00:00:00,year,1915.1359503418207
-births,Ethiopia,Benshangul-Gumaz,Asosa,Sherkole,Ethiopia,2015-01-01T00:00:00,year,722.3371428847313
-births,Ethiopia,Benshangul-Gumaz,Kemashi,Agalometi,Ethiopia,2015-01-01T00:00:00,year,1209.8225483000278
-births,Ethiopia,Benshangul-Gumaz,Kemashi,Bio Jiganifado,Ethiopia,2015-01-01T00:00:00,year,2382.6330345124006
-births,Ethiopia,Benshangul-Gumaz,Kemashi,Kamashi,Ethiopia,2015-01-01T00:00:00,year,839.1738641560078
-births,Ethiopia,Benshangul-Gumaz,Kemashi,Sirba Abay,Ethiopia,2015-01-01T00:00:00,year,1023.8584056571126
-births,Ethiopia,Benshangul-Gumaz,Kemashi,Yaso,Ethiopia,2015-01-01T00:00:00,year,817.5701232105494
-births,Ethiopia,Benshangul-Gumaz,Metekel,Bulen,Ethiopia,2015-01-01T00:00:00,year,1449.8529778197408
-births,Ethiopia,Benshangul-Gumaz,Metekel,Dangura,Ethiopia,2015-01-01T00:00:00,year,1597.4903336912394
-births,Ethiopia,Benshangul-Gumaz,Metekel,Dibat,Ethiopia,2015-01-01T00:00:00,year,2661.809310413897
-births,Ethiopia,Benshangul-Gumaz,Metekel,Guba,Ethiopia,2015-01-01T00:00:00,year,1078.0471102204174
-births,Ethiopia,Benshangul-Gumaz,Metekel,Mandura,Ethiopia,2015-01-01T00:00:00,year,1754.2201711535454
-births,Ethiopia,Benshangul-Gumaz,Metekel,Pawe Special,Ethiopia,2015-01-01T00:00:00,year,2009.9061355665326
-births,Ethiopia,Benshangul-Gumaz,Metekel,Wenbera,Ethiopia,2015-01-01T00:00:00,year,2682.8523966148496
-births,Ethiopia,Dire Dawa,Dire Dawa,Dire Dawa,Ethiopia,2015-01-01T00:00:00,year,13142.36295825243
-births,Ethiopia,Dire Dawa,Dire Dawa,Dire Dawa/Town,Ethiopia,2015-01-01T00:00:00,year,230.17715206742287
-births,Ethiopia,Gambela Peoples,Agnuak,Abobo,Ethiopia,2015-01-01T00:00:00,year,722.158038433292
-births,Ethiopia,Gambela Peoples,Agnuak,Dima,Ethiopia,2015-01-01T00:00:00,year,1377.3623648174107
-births,Ethiopia,Gambela Peoples,Agnuak,Gambela Zuria,Ethiopia,2015-01-01T00:00:00,year,2771.8207915201783
-births,Ethiopia,Gambela Peoples,Agnuak,Gambella Wild Life Reserve,Ethiopia,2015-01-01T00:00:00,year,372.230688765645
-births,Ethiopia,Gambela Peoples,Agnuak,Gog,Ethiopia,2015-01-01T00:00:00,year,456.1944118060637
-births,Ethiopia,Gambela Peoples,Agnuak,Itang,Ethiopia,2015-01-01T00:00:00,year,1047.3555165939033
-births,Ethiopia,Gambela Peoples,Agnuak,Jore,Ethiopia,2015-01-01T00:00:00,year,789.3800854217261
-births,Ethiopia,Gambela Peoples,Majang,Godere,Ethiopia,2015-01-01T00:00:00,year,1003.789345100522
-births,Ethiopia,Gambela Peoples,Majang,Mengesh,Ethiopia,2015-01-01T00:00:00,year,1332.1574231386185
-births,Ethiopia,Gambela Peoples,Nuer,Akobo,Ethiopia,2015-01-01T00:00:00,year,510.5089009515941
-births,Ethiopia,Gambela Peoples,Nuer,Jikawo,Ethiopia,2015-01-01T00:00:00,year,836.1431388035417
-births,Ethiopia,Gambela Peoples,Nuer,Lare,Ethiopia,2015-01-01T00:00:00,year,664.5912045836449
-births,Ethiopia,Gambela Peoples,Nuer,Wantawo,Ethiopia,2015-01-01T00:00:00,year,325.49430391564965
-births,Ethiopia,Harari People,Hareri,Harar,Ethiopia,2015-01-01T00:00:00,year,6560.386892080307
-births,Ethiopia,Oromia,Arsi,Amigna,Ethiopia,2015-01-01T00:00:00,year,3465.1188012361526
-births,Ethiopia,Oromia,Arsi,Aseko,Ethiopia,2015-01-01T00:00:00,year,3181.0646772384644
-births,Ethiopia,Oromia,Arsi,Bele Gesgar,Ethiopia,2015-01-01T00:00:00,year,2243.3860817551613
-births,Ethiopia,Oromia,Arsi,Chole,Ethiopia,2015-01-01T00:00:00,year,4099.479741334915
-births,Ethiopia,Oromia,Arsi,Degeluna Tijo,Ethiopia,2015-01-01T00:00:00,year,6802.687470912933
-births,Ethiopia,Oromia,Arsi,Diksis,Ethiopia,2015-01-01T00:00:00,year,2484.815088033676
-births,Ethiopia,Oromia,Arsi,Dodota,Ethiopia,2015-01-01T00:00:00,year,3869.3798475265503
-births,Ethiopia,Oromia,Arsi,Gololcha Arsi,Ethiopia,2015-01-01T00:00:00,year,7583.541426062584
-births,Ethiopia,Oromia,Arsi,Guna,Ethiopia,2015-01-01T00:00:00,year,3256.282919049263
-births,Ethiopia,Oromia,Arsi,Hitosa,Ethiopia,2015-01-01T00:00:00,year,6313.264035224915
-births,Ethiopia,Oromia,Arsi,Inkolo Wabe,Ethiopia,2015-01-01T00:00:00,year,2190.676970243454
-births,Ethiopia,Oromia,Arsi,Jeju,Ethiopia,2015-01-01T00:00:00,year,5604.555484056473
-births,Ethiopia,Oromia,Arsi,Limu Bilbilo,Ethiopia,2015-01-01T00:00:00,year,8690.187183447182
-births,Ethiopia,Oromia,Arsi,Lude Hitosa,Ethiopia,2015-01-01T00:00:00,year,5319.679722309113
-births,Ethiopia,Oromia,Arsi,Merti,Ethiopia,2015-01-01T00:00:00,year,4943.372006416321
-births,Ethiopia,Oromia,Arsi,Munessa,Ethiopia,2015-01-01T00:00:00,year,8070.465409755707
-births,Ethiopia,Oromia,Arsi,Robe,Ethiopia,2015-01-01T00:00:00,year,7913.343481361866
-births,Ethiopia,Oromia,Arsi,Seru,Ethiopia,2015-01-01T00:00:00,year,3123.133021235466
-births,Ethiopia,Oromia,Arsi,Shirka,Ethiopia,2015-01-01T00:00:00,year,7164.859181344509
-births,Ethiopia,Oromia,Arsi,Sire,Ethiopia,2015-01-01T00:00:00,year,3923.614743947983
-births,Ethiopia,Oromia,Arsi,Sude,Ethiopia,2015-01-01T00:00:00,year,6981.8184814453125
-births,Ethiopia,Oromia,Arsi,Tena,Ethiopia,2015-01-01T00:00:00,year,4299.710896253586
-births,Ethiopia,Oromia,Arsi,Tiyo,Ethiopia,2015-01-01T00:00:00,year,7783.898951172829
-births,Ethiopia,Oromia,Arsi,Ziway Dugda,Ethiopia,2015-01-01T00:00:00,year,5468.386838348582
-births,Ethiopia,Oromia,Bale,Agarfa,Ethiopia,2015-01-01T00:00:00,year,4388.166514098644
-births,Ethiopia,Oromia,Bale,Berbere,Ethiopia,2015-01-01T00:00:00,year,2445.9045529067516
-births,Ethiopia,Oromia,Bale,Dawe Kachen,Ethiopia,2015-01-01T00:00:00,year,1470.9728678911924
-births,Ethiopia,Oromia,Bale,Dinsho,Ethiopia,2015-01-01T00:00:00,year,1359.06758710742
-births,Ethiopia,Oromia,Bale,Gasera,Ethiopia,2015-01-01T00:00:00,year,3985.5656857192516
-births,Ethiopia,Oromia,Bale,Ginir,Ethiopia,2015-01-01T00:00:00,year,6408.220398128033
-births,Ethiopia,Oromia,Bale,Goba,Ethiopia,2015-01-01T00:00:00,year,4072.3716505765915
-births,Ethiopia,Oromia,Bale,Gololcha Bale,Ethiopia,2015-01-01T00:00:00,year,3935.04852502048
-births,Ethiopia,Oromia,Bale,Goro,Ethiopia,2015-01-01T00:00:00,year,2622.885610103607
-births,Ethiopia,Oromia,Bale,Gura Damole,Ethiopia,2015-01-01T00:00:00,year,1001.0818071216345
-births,Ethiopia,Oromia,Bale,Harena Buluk,Ethiopia,2015-01-01T00:00:00,year,2195.3940066695213
-births,Ethiopia,Oromia,Bale,Lege Hida,Ethiopia,2015-01-01T00:00:00,year,2180.0311619490385
-births,Ethiopia,Oromia,Bale,Meda Welabu,Ethiopia,2015-01-01T00:00:00,year,4009.584522858262
-births,Ethiopia,Oromia,Bale,Mena,Ethiopia,2015-01-01T00:00:00,year,3071.3515724539757
-births,Ethiopia,Oromia,Bale,Rayitu,Ethiopia,2015-01-01T00:00:00,year,1607.9984575212002
-births,Ethiopia,Oromia,Bale,Seweyna,Ethiopia,2015-01-01T00:00:00,year,2292.5025535970926
-births,Ethiopia,Oromia,Bale,Sinana,Ethiopia,2015-01-01T00:00:00,year,7701.028853297234
-births,Ethiopia,Oromia,Borena,Abaya,Ethiopia,2015-01-01T00:00:00,year,2712.926151107298
-births,Ethiopia,Oromia,Borena,Arero,Ethiopia,2015-01-01T00:00:00,year,1788.9496742058545
-births,Ethiopia,Oromia,Borena,Bule Hora,Ethiopia,2015-01-01T00:00:00,year,6901.397867739201
-births,Ethiopia,Oromia,Borena,Dehas,Ethiopia,2015-01-01T00:00:00,year,1864.6706337183714
-births,Ethiopia,Oromia,Borena,Dillo,Ethiopia,2015-01-01T00:00:00,year,649.182629135903
-births,Ethiopia,Oromia,Borena,Dire,Ethiopia,2015-01-01T00:00:00,year,2033.985291492194
-births,Ethiopia,Oromia,Borena,Dugda Dawa,Ethiopia,2015-01-01T00:00:00,year,5973.731995820999
-births,Ethiopia,Oromia,Borena,Gelana,Ethiopia,2015-01-01T00:00:00,year,4113.416209898889
-births,Ethiopia,Oromia,Borena,Melka Soda,Ethiopia,2015-01-01T00:00:00,year,6577.550140142441
-births,Ethiopia,Oromia,Borena,Miyo,Ethiopia,2015-01-01T00:00:00,year,1232.692234620452
-births,Ethiopia,Oromia,Borena,Moyale,Ethiopia,2015-01-01T00:00:00,year,5535.843323804438
-births,Ethiopia,Oromia,Borena,Teltele,Ethiopia,2015-01-01T00:00:00,year,2346.0396202858537
-births,Ethiopia,Oromia,Borena,Yabelo,Ethiopia,2015-01-01T00:00:00,year,3868.0156617239118
-births,Ethiopia,Oromia,Debub Mirab Shewa,Alem Gena,Ethiopia,2015-01-01T00:00:00,year,7710.372035648674
-births,Ethiopia,Oromia,Debub Mirab Shewa,Ameya,Ethiopia,2015-01-01T00:00:00,year,5642.166943788528
-births,Ethiopia,Oromia,Debub Mirab Shewa,Becho,Ethiopia,2015-01-01T00:00:00,year,3314.462593317032
-births,Ethiopia,Oromia,Debub Mirab Shewa,Dawo,Ethiopia,2015-01-01T00:00:00,year,3683.560920715332
-births,Ethiopia,Oromia,Debub Mirab Shewa,Goro,Ethiopia,2015-01-01T00:00:00,year,4756.747577428818
-births,Ethiopia,Oromia,Debub Mirab Shewa,Ilu,Ethiopia,2015-01-01T00:00:00,year,3005.4712924957275
-births,Ethiopia,Oromia,Debub Mirab Shewa,Kersana Malima,Ethiopia,2015-01-01T00:00:00,year,2073.7756905555725
-births,Ethiopia,Oromia,Debub Mirab Shewa,Kondaltiti,Ethiopia,2015-01-01T00:00:00,year,2056.032016992569
-births,Ethiopia,Oromia,Debub Mirab Shewa,Seden Sodo,Ethiopia,2015-01-01T00:00:00,year,3652.1772997379303
-births,Ethiopia,Oromia,Debub Mirab Shewa,Sodo Daci,Ethiopia,2015-01-01T00:00:00,year,1847.4986658096313
-births,Ethiopia,Oromia,Debub Mirab Shewa,Tole,Ethiopia,2015-01-01T00:00:00,year,2880.3419761657715
-births,Ethiopia,Oromia,Debub Mirab Shewa,Waliso,Ethiopia,2015-01-01T00:00:00,year,6225.492626667023
-births,Ethiopia,Oromia,Debub Mirab Shewa,Wenchi,Ethiopia,2015-01-01T00:00:00,year,4988.566457211971
-births,Ethiopia,Oromia,Guji,Adola,Ethiopia,2015-01-01T00:00:00,year,4657.233672499657
-births,Ethiopia,Oromia,Guji,Afele Kola,Ethiopia,2015-01-01T00:00:00,year,3149.0899151563644
-births,Ethiopia,Oromia,Guji,Ana Sora,Ethiopia,2015-01-01T00:00:00,year,3746.997485637665
-births,Ethiopia,Oromia,Guji,Bore,Ethiopia,2015-01-01T00:00:00,year,4088.7427446842194
-births,Ethiopia,Oromia,Guji,Girja (Harenfema),Ethiopia,2015-01-01T00:00:00,year,1284.789904564619
-births,Ethiopia,Oromia,Guji,Goro Dola,Ethiopia,2015-01-01T00:00:00,year,1652.958810955286
-births,Ethiopia,Oromia,Guji,Hambela Wamena,Ethiopia,2015-01-01T00:00:00,year,3299.521337866783
-births,Ethiopia,Oromia,Guji,Kercha,Ethiopia,2015-01-01T00:00:00,year,4350.123644113541
-births,Ethiopia,Oromia,Guji,Liben,Ethiopia,2015-01-01T00:00:00,year,5033.27027978003
-births,Ethiopia,Oromia,Guji,Odo Shakiso,Ethiopia,2015-01-01T00:00:00,year,3457.159168213606
-births,Ethiopia,Oromia,Guji,Saba Boru,Ethiopia,2015-01-01T00:00:00,year,2770.1536134779453
-births,Ethiopia,Oromia,Guji,Uraga,Ethiopia,2015-01-01T00:00:00,year,5675.347950339317
-births,Ethiopia,Oromia,Guji,Wadera,Ethiopia,2015-01-01T00:00:00,year,3045.913729041815
-births,Ethiopia,Oromia,Horo Guduru,Ababo,Ethiopia,2015-01-01T00:00:00,year,2805.3371000289917
-births,Ethiopia,Oromia,Horo Guduru,Abay Chomen,Ethiopia,2015-01-01T00:00:00,year,2208.562762670219
-births,Ethiopia,Oromia,Horo Guduru,Abe Dongoro,Ethiopia,2015-01-01T00:00:00,year,2530.125710129738
-births,Ethiopia,Oromia,Horo Guduru,Amuru,Ethiopia,2015-01-01T00:00:00,year,2293.7081557512283
-births,Ethiopia,Oromia,Horo Guduru,Guduru,Ethiopia,2015-01-01T00:00:00,year,4294.930393733084
-births,Ethiopia,Oromia,Horo Guduru,Horo,Ethiopia,2015-01-01T00:00:00,year,4838.546882871538
-births,Ethiopia,Oromia,Horo Guduru,Jarte Jardega,Ethiopia,2015-01-01T00:00:00,year,2511.016816496849
-births,Ethiopia,Oromia,Horo Guduru,Jimma Genete,Ethiopia,2015-01-01T00:00:00,year,2795.577015094459
-births,Ethiopia,Oromia,Horo Guduru,Jimma Rare,Ethiopia,2015-01-01T00:00:00,year,2616.9373149871826
-births,Ethiopia,Oromia,Ilubabor,Ale,Ethiopia,2015-01-01T00:00:00,year,1762.1796798706055
-births,Ethiopia,Oromia,Ilubabor,Alge Sachi,Ethiopia,2015-01-01T00:00:00,year,3873.9289232492447
-births,Ethiopia,Oromia,Ilubabor,Badele Zuria,Ethiopia,2015-01-01T00:00:00,year,3268.367478489876
-births,Ethiopia,Oromia,Ilubabor,Becho,Ethiopia,2015-01-01T00:00:00,year,1348.7352151870728
-births,Ethiopia,Oromia,Ilubabor,Bilo Nopha,Ethiopia,2015-01-01T00:00:00,year,1270.9605634212494
-births,Ethiopia,Oromia,Ilubabor,Borecha,Ethiopia,2015-01-01T00:00:00,year,2652.09743309021
-births,Ethiopia,Oromia,Ilubabor,Bure,Ethiopia,2015-01-01T00:00:00,year,2509.6595091819763
-births,Ethiopia,Oromia,Ilubabor,Chora,Ethiopia,2015-01-01T00:00:00,year,5416.634457111359
-births,Ethiopia,Oromia,Ilubabor,Chwaka,Ethiopia,2015-01-01T00:00:00,year,886.5928506851196
-births,Ethiopia,Oromia,Ilubabor,Dabo Hana,Ethiopia,2015-01-01T00:00:00,year,2406.67657494545
-births,Ethiopia,Oromia,Ilubabor,Darimu,Ethiopia,2015-01-01T00:00:00,year,6084.6776242256165
-births,Ethiopia,Oromia,Ilubabor,Dedesa,Ethiopia,2015-01-01T00:00:00,year,2942.3520262241364
-births,Ethiopia,Oromia,Ilubabor,Dega,Ethiopia,2015-01-01T00:00:00,year,1623.3217862844467
-births,Ethiopia,Oromia,Ilubabor,Didu,Ethiopia,2015-01-01T00:00:00,year,2979.6863983869553
-births,Ethiopia,Oromia,Ilubabor,Dorani,Ethiopia,2015-01-01T00:00:00,year,847.8170393705368
-births,Ethiopia,Oromia,Ilubabor,Gechi,Ethiopia,2015-01-01T00:00:00,year,2801.21497130394
-births,Ethiopia,Oromia,Ilubabor,Halu,Ethiopia,2015-01-01T00:00:00,year,876.2069587111473
-births,Ethiopia,Oromia,Ilubabor,Hurumu,Ethiopia,2015-01-01T00:00:00,year,2765.8160824775696
-births,Ethiopia,Oromia,Ilubabor,Meko,Ethiopia,2015-01-01T00:00:00,year,1332.0639891028404
-births,Ethiopia,Oromia,Ilubabor,Metu Zuria,Ethiopia,2015-01-01T00:00:00,year,4401.340694308281
-births,Ethiopia,Oromia,Ilubabor,Sale Nono,Ethiopia,2015-01-01T00:00:00,year,692.7528351545334
-births,Ethiopia,Oromia,Ilubabor,Yayu,Ethiopia,2015-01-01T00:00:00,year,2023.8246132135391
-births,Ethiopia,Oromia,Jimma,Chora,Ethiopia,2015-01-01T00:00:00,year,6091.411666035652
-births,Ethiopia,Oromia,Jimma,Dedo,Ethiopia,2015-01-01T00:00:00,year,13575.602841436863
-births,Ethiopia,Oromia,Jimma,Gera,Ethiopia,2015-01-01T00:00:00,year,4520.346395492554
-births,Ethiopia,Oromia,Jimma,Goma,Ethiopia,2015-01-01T00:00:00,year,10373.467306375504
-births,Ethiopia,Oromia,Jimma,Gumay,Ethiopia,2015-01-01T00:00:00,year,5786.207824230194
-births,Ethiopia,Oromia,Jimma,Kersa,Ethiopia,2015-01-01T00:00:00,year,14205.371860980988
-births,Ethiopia,Oromia,Jimma,Limu Kosa,Ethiopia,2015-01-01T00:00:00,year,5831.130654573441
-births,Ethiopia,Oromia,Jimma,Limu Seka,Ethiopia,2015-01-01T00:00:00,year,7889.56557238102
-births,Ethiopia,Oromia,Jimma,Mena,Ethiopia,2015-01-01T00:00:00,year,7386.171450614929
-births,Ethiopia,Oromia,Jimma,Omo Nada,Ethiopia,2015-01-01T00:00:00,year,11936.000683635473
-births,Ethiopia,Oromia,Jimma,Seka Chekorsa,Ethiopia,2015-01-01T00:00:00,year,4507.308318138123
-births,Ethiopia,Oromia,Jimma,Sekoru,Ethiopia,2015-01-01T00:00:00,year,7103.25003272295
-births,Ethiopia,Oromia,Jimma,Setema,Ethiopia,2015-01-01T00:00:00,year,5468.279205799103
-births,Ethiopia,Oromia,Jimma,Shebe Sambo,Ethiopia,2015-01-01T00:00:00,year,10857.616486907005
-births,Ethiopia,Oromia,Jimma,Sigmo,Ethiopia,2015-01-01T00:00:00,year,4586.915039539337
-births,Ethiopia,Oromia,Jimma,Tiro Afeta,Ethiopia,2015-01-01T00:00:00,year,6175.012118071318
-births,Ethiopia,Oromia,Kelem Wellega,Anfilo,Ethiopia,2015-01-01T00:00:00,year,3267.8087669573724
-births,Ethiopia,Oromia,Kelem Wellega,Dale Sadi,Ethiopia,2015-01-01T00:00:00,year,3365.7874245643616
-births,Ethiopia,Oromia,Kelem Wellega,Dale Wabera,Ethiopia,2015-01-01T00:00:00,year,2682.075279355049
-births,Ethiopia,Oromia,Kelem Wellega,Gawo Kebe,Ethiopia,2015-01-01T00:00:00,year,4527.174182772636
-births,Ethiopia,Oromia,Kelem Wellega,Gidami,Ethiopia,2015-01-01T00:00:00,year,2257.014170438051
-births,Ethiopia,Oromia,Kelem Wellega,Hawa Galan,Ethiopia,2015-01-01T00:00:00,year,2974.2733513116837
-births,Ethiopia,Oromia,Kelem Wellega,Jimma Horo,Ethiopia,2015-01-01T00:00:00,year,1219.3526782095432
-births,Ethiopia,Oromia,Kelem Wellega,Lalo Kile,Ethiopia,2015-01-01T00:00:00,year,2642.7952671051025
-births,Ethiopia,Oromia,Kelem Wellega,Sayo,Ethiopia,2015-01-01T00:00:00,year,6603.892526268959
-births,Ethiopia,Oromia,Kelem Wellega,Yama Logi Welel,Ethiopia,2015-01-01T00:00:00,year,2304.1143684387207
-births,Ethiopia,Oromia,Mirab Arsi,Adaba,Ethiopia,2015-01-01T00:00:00,year,6451.537484571338
-births,Ethiopia,Oromia,Mirab Arsi,Arsi Negele,Ethiopia,2015-01-01T00:00:00,year,10629.198658569716
-births,Ethiopia,Oromia,Mirab Arsi,Dodola,Ethiopia,2015-01-01T00:00:00,year,8143.778373852372
-births,Ethiopia,Oromia,Mirab Arsi,Gedeb Asasa,Ethiopia,2015-01-01T00:00:00,year,7748.174147292972
-births,Ethiopia,Oromia,Mirab Arsi,Kofele,Ethiopia,2015-01-01T00:00:00,year,4269.713099837303
-births,Ethiopia,Oromia,Mirab Arsi,Kokosa,Ethiopia,2015-01-01T00:00:00,year,6082.594760417938
-births,Ethiopia,Oromia,Mirab Arsi,Kore,Ethiopia,2015-01-01T00:00:00,year,7378.252470731735
-births,Ethiopia,Oromia,Mirab Arsi,Nenesebo,Ethiopia,2015-01-01T00:00:00,year,3317.478213787079
-births,Ethiopia,Oromia,Mirab Arsi,Shalla,Ethiopia,2015-01-01T00:00:00,year,7216.977260030806
-births,Ethiopia,Oromia,Mirab Arsi,Shashemene Zuria,Ethiopia,2015-01-01T00:00:00,year,15534.495129689574
-births,Ethiopia,Oromia,Mirab Arsi,Siraro,Ethiopia,2015-01-01T00:00:00,year,4735.070697903633
-births,Ethiopia,Oromia,Mirab Hararghe,Anchar,Ethiopia,2015-01-01T00:00:00,year,4799.569997876883
-births,Ethiopia,Oromia,Mirab Hararghe,Boke,Ethiopia,2015-01-01T00:00:00,year,4819.617921739817
-births,Ethiopia,Oromia,Mirab Hararghe,Chiro Zuria,Ethiopia,2015-01-01T00:00:00,year,10579.905239701271
-births,Ethiopia,Oromia,Mirab Hararghe,Daro Lebu,Ethiopia,2015-01-01T00:00:00,year,3160.8189824819565
-births,Ethiopia,Oromia,Mirab Hararghe,Doba,Ethiopia,2015-01-01T00:00:00,year,6170.8854566812515
-births,Ethiopia,Oromia,Mirab Hararghe,Gemechis,Ethiopia,2015-01-01T00:00:00,year,8442.495027422905
-births,Ethiopia,Oromia,Mirab Hararghe,Goba Koricha,Ethiopia,2015-01-01T00:00:00,year,4224.35200637579
-births,Ethiopia,Oromia,Mirab Hararghe,Habro,Ethiopia,2015-01-01T00:00:00,year,7914.027997434139
-births,Ethiopia,Oromia,Mirab Hararghe,Hawi Gudina,Ethiopia,2015-01-01T00:00:00,year,4091.879383981228
-births,Ethiopia,Oromia,Mirab Hararghe,Kuni,Ethiopia,2015-01-01T00:00:00,year,7242.8909131884575
-births,Ethiopia,Oromia,Mirab Hararghe,Mesela,Ethiopia,2015-01-01T00:00:00,year,6741.930638432503
-births,Ethiopia,Oromia,Mirab Hararghe,Mieso,Ethiopia,2015-01-01T00:00:00,year,8780.854426369071
-births,Ethiopia,Oromia,Mirab Hararghe,Tulo,Ethiopia,2015-01-01T00:00:00,year,7625.147899508476
-births,Ethiopia,Oromia,Mirab Shewa,Abuna G/Beret,Ethiopia,2015-01-01T00:00:00,year,4255.108409285545
-births,Ethiopia,Oromia,Mirab Shewa,Adda Berga,Ethiopia,2015-01-01T00:00:00,year,5915.446530818939
-births,Ethiopia,Oromia,Mirab Shewa,Ambo Zuria,Ethiopia,2015-01-01T00:00:00,year,7306.448226630688
-births,Ethiopia,Oromia,Mirab Shewa,Bako Tibe,Ethiopia,2015-01-01T00:00:00,year,5987.671316862106
-births,Ethiopia,Oromia,Mirab Shewa,Cheliya,Ethiopia,2015-01-01T00:00:00,year,7223.716360569
-births,Ethiopia,Oromia,Mirab Shewa,Dano,Ethiopia,2015-01-01T00:00:00,year,3784.3654758930206
-births,Ethiopia,Oromia,Mirab Shewa,Dendi,Ethiopia,2015-01-01T00:00:00,year,9401.777032405138
-births,Ethiopia,Oromia,Mirab Shewa,Ejere,Ethiopia,2015-01-01T00:00:00,year,4319.40819311142
-births,Ethiopia,Oromia,Mirab Shewa,Ginde Beret,Ethiopia,2015-01-01T00:00:00,year,4913.5727326869965
-births,Ethiopia,Oromia,Mirab Shewa,Ifata,Ethiopia,2015-01-01T00:00:00,year,2483.351820230484
-births,Ethiopia,Oromia,Mirab Shewa,Jeldu,Ethiopia,2015-01-01T00:00:00,year,9220.260754823685
-births,Ethiopia,Oromia,Mirab Shewa,Jibat,Ethiopia,2015-01-01T00:00:00,year,2342.9507172107697
-births,Ethiopia,Oromia,Mirab Shewa,Meta Robi,Ethiopia,2015-01-01T00:00:00,year,6725.268589258194
-births,Ethiopia,Oromia,Mirab Shewa,Mida Kegn,Ethiopia,2015-01-01T00:00:00,year,3870.7443470954895
-births,Ethiopia,Oromia,Mirab Shewa,Nono,Ethiopia,2015-01-01T00:00:00,year,3612.861676335335
-births,Ethiopia,Oromia,Mirab Shewa,Tikur Enchini,Ethiopia,2015-01-01T00:00:00,year,4216.127671480179
-births,Ethiopia,Oromia,Mirab Shewa,Toke Kutaye,Ethiopia,2015-01-01T00:00:00,year,4535.053896665573
-births,Ethiopia,Oromia,Mirab Shewa,Walmara,Ethiopia,2015-01-01T00:00:00,year,7128.019270721823
-births,Ethiopia,Oromia,Mirab Welega,Ayira,Ethiopia,2015-01-01T00:00:00,year,2472.3470215797424
-births,Ethiopia,Oromia,Mirab Welega,Babo,Ethiopia,2015-01-01T00:00:00,year,2996.029597759247
-births,Ethiopia,Oromia,Mirab Welega,Begi,Ethiopia,2015-01-01T00:00:00,year,4351.9068830013275
-births,Ethiopia,Oromia,Mirab Welega,Boji Chekorsa,Ethiopia,2015-01-01T00:00:00,year,2813.411773920059
-births,Ethiopia,Oromia,Mirab Welega,Boji Dirmeji,Ethiopia,2015-01-01T00:00:00,year,2478.955139398575
-births,Ethiopia,Oromia,Mirab Welega,Gaji,Ethiopia,2015-01-01T00:00:00,year,1654.9025099277496
-births,Ethiopia,Oromia,Mirab Welega,Gimbi,Ethiopia,2015-01-01T00:00:00,year,5889.584248483181
-births,Ethiopia,Oromia,Mirab Welega,Gudetu Kondole,Ethiopia,2015-01-01T00:00:00,year,3235.4150565862656
-births,Ethiopia,Oromia,Mirab Welega,Guliso,Ethiopia,2015-01-01T00:00:00,year,2963.7207773923874
-births,Ethiopia,Oromia,Mirab Welega,Haru,Ethiopia,2015-01-01T00:00:00,year,3365.832438468933
-births,Ethiopia,Oromia,Mirab Welega,Homa,Ethiopia,2015-01-01T00:00:00,year,605.7281606197357
-births,Ethiopia,Oromia,Mirab Welega,Jarso,Ethiopia,2015-01-01T00:00:00,year,2062.8831222057343
-births,Ethiopia,Oromia,Mirab Welega,Kiltu Kara,Ethiopia,2015-01-01T00:00:00,year,1902.083975955844
-births,Ethiopia,Oromia,Mirab Welega,Lalo Asabi,Ethiopia,2015-01-01T00:00:00,year,3631.598661184311
-births,Ethiopia,Oromia,Mirab Welega,Mana Sibu,Ethiopia,2015-01-01T00:00:00,year,6044.8121827840805
-births,Ethiopia,Oromia,Mirab Welega,Nejo,Ethiopia,2015-01-01T00:00:00,year,6691.884112775326
-births,Ethiopia,Oromia,Mirab Welega,Nole Kaba,Ethiopia,2015-01-01T00:00:00,year,4105.853822350502
-births,Ethiopia,Oromia,Mirab Welega,Sayo Nole,Ethiopia,2015-01-01T00:00:00,year,2764.681954264641
-births,Ethiopia,Oromia,Mirab Welega,Yubdo,Ethiopia,2015-01-01T00:00:00,year,2673.595150709152
-births,Ethiopia,Oromia,Misraq Harerge,Babile,Ethiopia,2015-01-01T00:00:00,year,8771.758337914944
-births,Ethiopia,Oromia,Misraq Harerge,Bedeno,Ethiopia,2015-01-01T00:00:00,year,10975.666554421186
-births,Ethiopia,Oromia,Misraq Harerge,Chinaksen,Ethiopia,2015-01-01T00:00:00,year,6446.483649671078
-births,Ethiopia,Oromia,Misraq Harerge,Deder,Ethiopia,2015-01-01T00:00:00,year,11263.653863549232
-births,Ethiopia,Oromia,Misraq Harerge,Fedis,Ethiopia,2015-01-01T00:00:00,year,7127.197649240494
-births,Ethiopia,Oromia,Misraq Harerge,Girawa,Ethiopia,2015-01-01T00:00:00,year,11642.619599372149
-births,Ethiopia,Oromia,Misraq Harerge,Golo Oda,Ethiopia,2015-01-01T00:00:00,year,1444.121911212802
-births,Ethiopia,Oromia,Misraq Harerge,Goro Gutu,Ethiopia,2015-01-01T00:00:00,year,7281.515017032623
-births,Ethiopia,Oromia,Misraq Harerge,Gursum,Ethiopia,2015-01-01T00:00:00,year,10365.032067537308
-births,Ethiopia,Oromia,Misraq Harerge,Haro Maya,Ethiopia,2015-01-01T00:00:00,year,10867.718139015138
-births,Ethiopia,Oromia,Misraq Harerge,Jarso,Ethiopia,2015-01-01T00:00:00,year,5858.853123784065
-births,Ethiopia,Oromia,Misraq Harerge,Kersa,Ethiopia,2015-01-01T00:00:00,year,7589.656398534775
-births,Ethiopia,Oromia,Misraq Harerge,Kombolcha,Ethiopia,2015-01-01T00:00:00,year,5277.594453692436
-births,Ethiopia,Oromia,Misraq Harerge,Kurfa Chele,Ethiopia,2015-01-01T00:00:00,year,2588.4458760023117
-births,Ethiopia,Oromia,Misraq Harerge,Malka Balo,Ethiopia,2015-01-01T00:00:00,year,8156.09222304821
-births,Ethiopia,Oromia,Misraq Harerge,Meta,Ethiopia,2015-01-01T00:00:00,year,11253.430238246918
-births,Ethiopia,Oromia,Misraq Harerge,Meyu,Ethiopia,2015-01-01T00:00:00,year,1112.1032106429338
-births,Ethiopia,Oromia,Misraq Harerge,Midega Tola,Ethiopia,2015-01-01T00:00:00,year,2227.7977509498596
-births,Ethiopia,Oromia,Misraq Shewa,Ada'a,Ethiopia,2015-01-01T00:00:00,year,8776.068695962429
-births,Ethiopia,Oromia,Misraq Shewa,Adama,Ethiopia,2015-01-01T00:00:00,year,14293.282670153305
-births,Ethiopia,Oromia,Misraq Shewa,Adami Tulu Jido Kombolcha,Ethiopia,2015-01-01T00:00:00,year,7621.049620416947
-births,Ethiopia,Oromia,Misraq Shewa,Akaki,Ethiopia,2015-01-01T00:00:00,year,3617.8079833984375
-births,Ethiopia,Oromia,Misraq Shewa,Bora,Ethiopia,2015-01-01T00:00:00,year,2288.3468947783113
-births,Ethiopia,Oromia,Misraq Shewa,Boset,Ethiopia,2015-01-01T00:00:00,year,6936.397380769253
-births,Ethiopia,Oromia,Misraq Shewa,Dugda,Ethiopia,2015-01-01T00:00:00,year,6827.080629618838
-births,Ethiopia,Oromia,Misraq Shewa,Fentale,Ethiopia,2015-01-01T00:00:00,year,4047.8596798167564
-births,Ethiopia,Oromia,Misraq Shewa,Gimbichu,Ethiopia,2015-01-01T00:00:00,year,3524.489997625351
-births,Ethiopia,Oromia,Misraq Shewa,Liben Chukala,Ethiopia,2015-01-01T00:00:00,year,5999.821058571339
-births,Ethiopia,Oromia,Misraq Shewa,Lome,Ethiopia,2015-01-01T00:00:00,year,4966.652070542797
-births,Ethiopia,Oromia,Misraq Wellega,Bila Seyo,Ethiopia,2015-01-01T00:00:00,year,2787.9070041179657
-births,Ethiopia,Oromia,Misraq Wellega,Boneya Boshe,Ethiopia,2015-01-01T00:00:00,year,2189.7358367443085
-births,Ethiopia,Oromia,Misraq Wellega,Diga,Ethiopia,2015-01-01T00:00:00,year,3104.3306963443756
-births,Ethiopia,Oromia,Misraq Wellega,Gida Ayana,Ethiopia,2015-01-01T00:00:00,year,4570.924013532698
-births,Ethiopia,Oromia,Misraq Wellega,Gobu Seyo,Ethiopia,2015-01-01T00:00:00,year,1696.9855077266693
-births,Ethiopia,Oromia,Misraq Wellega,Guto Gida,Ethiopia,2015-01-01T00:00:00,year,6728.94523024559
-births,Ethiopia,Oromia,Misraq Wellega,Haro Limu,Ethiopia,2015-01-01T00:00:00,year,2403.39876703918
-births,Ethiopia,Oromia,Misraq Wellega,Ibantu,Ethiopia,2015-01-01T00:00:00,year,1453.6281207501888
-births,Ethiopia,Oromia,Misraq Wellega,Jimma Arjo,Ethiopia,2015-01-01T00:00:00,year,4214.948129892349
-births,Ethiopia,Oromia,Misraq Wellega,Kiremu,Ethiopia,2015-01-01T00:00:00,year,2760.312705487013
-births,Ethiopia,Oromia,Misraq Wellega,Leka Dulecha,Ethiopia,2015-01-01T00:00:00,year,2904.6378148794174
-births,Ethiopia,Oromia,Misraq Wellega,Limu,Ethiopia,2015-01-01T00:00:00,year,2413.556534051895
-births,Ethiopia,Oromia,Misraq Wellega,Nunu Kumba,Ethiopia,2015-01-01T00:00:00,year,2913.49201464653
-births,Ethiopia,Oromia,Misraq Wellega,Sasiga,Ethiopia,2015-01-01T00:00:00,year,2152.3184283971786
-births,Ethiopia,Oromia,Misraq Wellega,Sibu Sire,Ethiopia,2015-01-01T00:00:00,year,4449.168564558029
-births,Ethiopia,Oromia,Misraq Wellega,Wama Hagalo,Ethiopia,2015-01-01T00:00:00,year,2352.8569868803024
-births,Ethiopia,Oromia,Misraq Wellega,Wayu Tuka,Ethiopia,2015-01-01T00:00:00,year,2577.629043340683
-births,Ethiopia,Oromia,North Shewa,Abichuna Gne'a,Ethiopia,2015-01-01T00:00:00,year,5057.440848827362
-births,Ethiopia,Oromia,North Shewa,Aleltu,Ethiopia,2015-01-01T00:00:00,year,2168.917361855507
-births,Ethiopia,Oromia,North Shewa,Bereh,Ethiopia,2015-01-01T00:00:00,year,5038.8480197787285
-births,Ethiopia,Oromia,North Shewa,Debre Libanos,Ethiopia,2015-01-01T00:00:00,year,1726.5440888404846
-births,Ethiopia,Oromia,North Shewa,Degem,Ethiopia,2015-01-01T00:00:00,year,5412.784760713577
-births,Ethiopia,Oromia,North Shewa,Dera,Ethiopia,2015-01-01T00:00:00,year,9036.866563796997
-births,Ethiopia,Oromia,North Shewa,Gerar Jarso,Ethiopia,2015-01-01T00:00:00,year,4533.09693646431
-births,Ethiopia,Oromia,North Shewa,Hidabu Abote,Ethiopia,2015-01-01T00:00:00,year,4129.7785313129425
-births,Ethiopia,Oromia,North Shewa,Jida,Ethiopia,2015-01-01T00:00:00,year,2151.4316487312317
-births,Ethiopia,Oromia,North Shewa,Kembibit,Ethiopia,2015-01-01T00:00:00,year,4071.3797471523285
-births,Ethiopia,Oromia,North Shewa,Kuyu,Ethiopia,2015-01-01T00:00:00,year,6458.935844421387
-births,Ethiopia,Oromia,North Shewa,Mulo,Ethiopia,2015-01-01T00:00:00,year,3083.4148693084717
-births,Ethiopia,Oromia,North Shewa,Sululta,Ethiopia,2015-01-01T00:00:00,year,5618.829368710518
-births,Ethiopia,Oromia,North Shewa,Wara Jarso,Ethiopia,2015-01-01T00:00:00,year,7355.1781873703
-births,Ethiopia,Oromia,North Shewa,Wuchale,Ethiopia,2015-01-01T00:00:00,year,4426.838972330093
-births,Ethiopia,Oromia,North Shewa,Yaya Gulele,Ethiopia,2015-01-01T00:00:00,year,3458.136611223221
-births,Ethiopia,Somali,Afder,Afder,Ethiopia,2015-01-01T00:00:00,year,3581.8385595828295
-births,Ethiopia,Somali,Afder,Bare,Ethiopia,2015-01-01T00:00:00,year,6239.073747545481
-births,Ethiopia,Somali,Afder,Chereti/Weyib,Ethiopia,2015-01-01T00:00:00,year,3460.0227665901184
-births,Ethiopia,Somali,Afder,Dolobay,Ethiopia,2015-01-01T00:00:00,year,5379.344228327274
-births,Ethiopia,Somali,Afder,Goro Baqaqsa,Ethiopia,2015-01-01T00:00:00,year,1337.198750294745
-births,Ethiopia,Somali,Afder,Guradamole,Ethiopia,2015-01-01T00:00:00,year,1759.6507190614939
-births,Ethiopia,Somali,Afder,Hargele,Ethiopia,2015-01-01T00:00:00,year,1555.3659449219704
-births,Ethiopia,Somali,Afder,Serer/Elkere,Ethiopia,2015-01-01T00:00:00,year,2575.7526803463697
-births,Ethiopia,Somali,Afder,West Imi,Ethiopia,2015-01-01T00:00:00,year,1718.5264151096344
-births,Ethiopia,Somali,Doolo,Boh,Ethiopia,2015-01-01T00:00:00,year,6162.091486886144
-births,Ethiopia,Somali,Doolo,Danot,Ethiopia,2015-01-01T00:00:00,year,3061.584638118744
-births,Ethiopia,Somali,Doolo,Geladin,Ethiopia,2015-01-01T00:00:00,year,8608.976323455572
-births,Ethiopia,Somali,Doolo,Warder,Ethiopia,2015-01-01T00:00:00,year,8123.524062201381
-births,Ethiopia,Somali,Fafan,Aw-bare,Ethiopia,2015-01-01T00:00:00,year,14621.898649930954
-births,Ethiopia,Somali,Fafan,Babile,Ethiopia,2015-01-01T00:00:00,year,561.660418689251
-births,Ethiopia,Somali,Fafan,Gursum,Ethiopia,2015-01-01T00:00:00,year,491.39291948080063
-births,Ethiopia,Somali,Fafan,Hareshen,Ethiopia,2015-01-01T00:00:00,year,3429.074629843235
-births,Ethiopia,Somali,Fafan,Jijiga,Ethiopia,2015-01-01T00:00:00,year,16045.424439430237
-births,Ethiopia,Somali,Fafan,Kebribeyah,Ethiopia,2015-01-01T00:00:00,year,12577.741156816483
-births,Ethiopia,Somali,Jarar,Aware,Ethiopia,2015-01-01T00:00:00,year,5435.23457172513
-births,Ethiopia,Somali,Jarar,Degehabur,Ethiopia,2015-01-01T00:00:00,year,7396.665907561779
-births,Ethiopia,Somali,Jarar,Degehamedo,Ethiopia,2015-01-01T00:00:00,year,2851.3041603267193
-births,Ethiopia,Somali,Jarar,Gashamo,Ethiopia,2015-01-01T00:00:00,year,5480.540911316872
-births,Ethiopia,Somali,Jarar,Gunagado,Ethiopia,2015-01-01T00:00:00,year,2696.497654438019
-births,Ethiopia,Somali,Korahe,Debeweyin,Ethiopia,2015-01-01T00:00:00,year,5968.505091398954
-births,Ethiopia,Somali,Korahe,Kebridehar,Ethiopia,2015-01-01T00:00:00,year,8360.972404032946
-births,Ethiopia,Somali,Korahe,Shekosh,Ethiopia,2015-01-01T00:00:00,year,1982.2554212361574
-births,Ethiopia,Somali,Korahe,Shilabo,Ethiopia,2015-01-01T00:00:00,year,4067.9432594776154
-births,Ethiopia,Somali,Liben,Dolo Odo,Ethiopia,2015-01-01T00:00:00,year,10992.198683872819
-births,Ethiopia,Somali,Liben,Filtu,Ethiopia,2015-01-01T00:00:00,year,7437.157331675291
-births,Ethiopia,Somali,Liben,Hudet,Ethiopia,2015-01-01T00:00:00,year,2576.1112444400787
-births,Ethiopia,Somali,Liben,Moyale,Ethiopia,2015-01-01T00:00:00,year,18348.66883996129
-births,Ethiopia,Somali,Nogob,Dihun,Ethiopia,2015-01-01T00:00:00,year,2196.5583065897226
-births,Ethiopia,Somali,Nogob,Fik,Ethiopia,2015-01-01T00:00:00,year,9405.334317326546
-births,Ethiopia,Somali,Nogob,Gerbo,Ethiopia,2015-01-01T00:00:00,year,1018.0972129702568
-births,Ethiopia,Somali,Nogob,Hamero,Ethiopia,2015-01-01T00:00:00,year,3298.4481338858604
-births,Ethiopia,Somali,Nogob,Lagahida,Ethiopia,2015-01-01T00:00:00,year,216.05946058034897
-births,Ethiopia,Somali,Nogob,Meyumuluka,Ethiopia,2015-01-01T00:00:00,year,2150.8961299955845
-births,Ethiopia,Somali,Nogob,Segeg,Ethiopia,2015-01-01T00:00:00,year,1579.8932201862335
-births,Ethiopia,Somali,Nogob,Selahad,Ethiopia,2015-01-01T00:00:00,year,338.71829414367676
-births,Ethiopia,Somali,Shabelle,Adadle,Ethiopia,2015-01-01T00:00:00,year,1540.1768151819706
-births,Ethiopia,Somali,Shabelle,Denan,Ethiopia,2015-01-01T00:00:00,year,1939.1257681772113
-births,Ethiopia,Somali,Shabelle,East Imi,Ethiopia,2015-01-01T00:00:00,year,10160.619700461626
-births,Ethiopia,Somali,Shabelle,Ferfer,Ethiopia,2015-01-01T00:00:00,year,1164.1290945857763
-births,Ethiopia,Somali,Shabelle,Gode,Ethiopia,2015-01-01T00:00:00,year,865.8111661151052
-births,Ethiopia,Somali,Shabelle,Kelafo,Ethiopia,2015-01-01T00:00:00,year,6497.6306516602635
-births,Ethiopia,Somali,Shabelle,Mustahil,Ethiopia,2015-01-01T00:00:00,year,3588.355605378747
-births,Ethiopia,Somali,Siti,Afdem,Ethiopia,2015-01-01T00:00:00,year,3765.3678947538137
-births,Ethiopia,Somali,Siti,Ayisha,Ethiopia,2015-01-01T00:00:00,year,3559.99559789896
-births,Ethiopia,Somali,Siti,Dembel,Ethiopia,2015-01-01T00:00:00,year,5061.60625565052
-births,Ethiopia,Somali,Siti,Erer,Ethiopia,2015-01-01T00:00:00,year,3278.731099098921
-births,Ethiopia,Somali,Siti,Miesso,Ethiopia,2015-01-01T00:00:00,year,2366.0161985456944
-births,Ethiopia,Somali,Siti,Shinile,Ethiopia,2015-01-01T00:00:00,year,6341.946520388126
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Alaba,Alaba,Ethiopia,2015-01-01T00:00:00,year,9892.651609867811
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Alle,Alle,Ethiopia,2015-01-01T00:00:00,year,3453.1001446545124
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Amaro,Amaro,Ethiopia,2015-01-01T00:00:00,year,5469.961684517562
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Basketo,Basketo,Ethiopia,2015-01-01T00:00:00,year,1869.3317281603813
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Bero,Ethiopia,2015-01-01T00:00:00,year,183.15986362099648
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Debub Bench,Ethiopia,2015-01-01T00:00:00,year,4406.655993103981
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Gurafereda,Ethiopia,2015-01-01T00:00:00,year,900.989060703665
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Maji,Ethiopia,2015-01-01T00:00:00,year,1105.2255041208118
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Menit Goldiye,Ethiopia,2015-01-01T00:00:00,year,3211.2221735566854
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Menit Shasha,Ethiopia,2015-01-01T00:00:00,year,1272.651488415897
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Semen Bench,Ethiopia,2015-01-01T00:00:00,year,2240.422671675682
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Shay Bench,Ethiopia,2015-01-01T00:00:00,year,2909.7897156476974
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Sheka,Ethiopia,2015-01-01T00:00:00,year,247.99954861402512
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Surma,Ethiopia,2015-01-01T00:00:00,year,1299.3557616090402
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Burji,Burji,Ethiopia,2015-01-01T00:00:00,year,2235.7529162466526
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Esira,Ethiopia,2015-01-01T00:00:00,year,2807.603992640972
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Gena Bosa,Ethiopia,2015-01-01T00:00:00,year,3636.9910737872124
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Loma Bosa,Ethiopia,2015-01-01T00:00:00,year,3702.809133172035
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Mareka,Ethiopia,2015-01-01T00:00:00,year,2890.2785918712616
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Tocha,Ethiopia,2015-01-01T00:00:00,year,2389.697821378708
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Bako Gazer,Ethiopia,2015-01-01T00:00:00,year,5800.164970487356
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Bena Tsemay,Ethiopia,2015-01-01T00:00:00,year,1782.311101604253
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Dasenech (Kuraz),Ethiopia,2015-01-01T00:00:00,year,1070.197700003162
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Gelila,Ethiopia,2015-01-01T00:00:00,year,909.8752718567848
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Gnangatom,Ethiopia,2015-01-01T00:00:00,year,1057.6771810073406
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Hamer,Ethiopia,2015-01-01T00:00:00,year,2241.088983055204
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Male,Ethiopia,2015-01-01T00:00:00,year,4094.4839407503605
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Selamgo,Ethiopia,2015-01-01T00:00:00,year,1078.1374238431454
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Derashe,Derashe,Ethiopia,2015-01-01T00:00:00,year,2804.7931984625757
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Arba Minch Zuria,Ethiopia,2015-01-01T00:00:00,year,7224.304876316804
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Ayida,Ethiopia,2015-01-01T00:00:00,year,1005.6313719749451
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Bonke,Ethiopia,2015-01-01T00:00:00,year,5960.752736449242
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Boreda,Ethiopia,2015-01-01T00:00:00,year,2542.6636786460876
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Chencha,Ethiopia,2015-01-01T00:00:00,year,5063.88238120079
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Daramalo,Ethiopia,2015-01-01T00:00:00,year,2698.2100528478622
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Denibu Gofa,Ethiopia,2015-01-01T00:00:00,year,4930.894431948662
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Dita,Ethiopia,2015-01-01T00:00:00,year,3346.464442372322
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Geze Gofa,Ethiopia,2015-01-01T00:00:00,year,2512.9560729265213
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Kemba,Ethiopia,2015-01-01T00:00:00,year,5878.513961613178
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Kucha,Ethiopia,2015-01-01T00:00:00,year,5939.228436350822
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Melekoza,Ethiopia,2015-01-01T00:00:00,year,4207.754467591643
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Mirab Abaya,Ethiopia,2015-01-01T00:00:00,year,3117.540897537954
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Ubadebretsehay,Ethiopia,2015-01-01T00:00:00,year,2552.7945674061775
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Zala,Ethiopia,2015-01-01T00:00:00,year,2415.477281689644
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Bule,Ethiopia,2015-01-01T00:00:00,year,4655.891544818878
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Dila Zuria,Ethiopia,2015-01-01T00:00:00,year,5132.942572593689
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Kochere,Ethiopia,2015-01-01T00:00:00,year,3296.3103864192963
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Kochere Gedeb,Ethiopia,2015-01-01T00:00:00,year,5476.45979309082
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Wenago,Ethiopia,2015-01-01T00:00:00,year,4349.177593231201
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Yirgachefe,Ethiopia,2015-01-01T00:00:00,year,7678.732639551163
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Abeshege,Ethiopia,2015-01-01T00:00:00,year,3327.8628927469254
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Cheha,Ethiopia,2015-01-01T00:00:00,year,6589.842677116394
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Endiguagn,Ethiopia,2015-01-01T00:00:00,year,1741.9027156829834
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Enemorina Eaner,Ethiopia,2015-01-01T00:00:00,year,9488.118453979492
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Ezha,Ethiopia,2015-01-01T00:00:00,year,5150.079584598541
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Geta,Ethiopia,2015-01-01T00:00:00,year,3774.616286277771
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Gumer,Ethiopia,2015-01-01T00:00:00,year,4008.9708590507507
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Kebena,Ethiopia,2015-01-01T00:00:00,year,3348.504959821701
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Kokir Gedbano,Ethiopia,2015-01-01T00:00:00,year,3895.667066335678
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Mareko,Ethiopia,2015-01-01T00:00:00,year,4630.112439155579
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Meskan,Ethiopia,2015-01-01T00:00:00,year,8407.570543289185
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Muhur Na Aklil,Ethiopia,2015-01-01T00:00:00,year,4200.041761875153
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Sodo,Ethiopia,2015-01-01T00:00:00,year,6206.5201189517975
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Analemmo,Ethiopia,2015-01-01T00:00:00,year,3419.9235887527466
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Dune,Ethiopia,2015-01-01T00:00:00,year,3275.5516233444214
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Gembora,Ethiopia,2015-01-01T00:00:00,year,5210.670565843582
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Gibe,Ethiopia,2015-01-01T00:00:00,year,5462.305885314941
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Limu,Ethiopia,2015-01-01T00:00:00,year,8606.403797149658
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Mierab Badawacho,Ethiopia,2015-01-01T00:00:00,year,2907.6394357681274
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Misha,Ethiopia,2015-01-01T00:00:00,year,5987.5351819992065
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Misrak Badawacho,Ethiopia,2015-01-01T00:00:00,year,5725.815988540649
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Shashogo,Ethiopia,2015-01-01T00:00:00,year,4740.79507496953
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Soro,Ethiopia,2015-01-01T00:00:00,year,8234.482296943665
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Bita,Ethiopia,2015-01-01T00:00:00,year,4164.184843301773
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Chena,Ethiopia,2015-01-01T00:00:00,year,5169.133050382137
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Cheta,Ethiopia,2015-01-01T00:00:00,year,1912.1336034238338
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Decha,Ethiopia,2015-01-01T00:00:00,year,4639.310571394861
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Gesha (Deka),Ethiopia,2015-01-01T00:00:00,year,1897.4266364574432
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Getawa,Ethiopia,2015-01-01T00:00:00,year,3482.513838291168
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Gimbo,Ethiopia,2015-01-01T00:00:00,year,3914.7915744781494
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Menjiwo,Ethiopia,2015-01-01T00:00:00,year,4016.28090852499
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Sayilem,Ethiopia,2015-01-01T00:00:00,year,2085.875503540039
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Tulo,Ethiopia,2015-01-01T00:00:00,year,1901.696389555931
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Anigacha,Ethiopia,2015-01-01T00:00:00,year,3699.685185432434
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Daniboya,Ethiopia,2015-01-01T00:00:00,year,4569.649967670441
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Doya Gena,Ethiopia,2015-01-01T00:00:00,year,2680.406989097595
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Hadero Tubito,Ethiopia,2015-01-01T00:00:00,year,3989.4750871658325
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Kacha Bira,Ethiopia,2015-01-01T00:00:00,year,5180.333162784576
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Kediada Gambela,Ethiopia,2015-01-01T00:00:00,year,4601.278605461121
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Tembaro,Ethiopia,2015-01-01T00:00:00,year,4509.070068955421
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Konso,Konso,Ethiopia,2015-01-01T00:00:00,year,7814.581434190273
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Konta,Konta,Ethiopia,2015-01-01T00:00:00,year,3515.8481210656464
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Anderacha,Ethiopia,2015-01-01T00:00:00,year,1405.239158987999
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Masha,Ethiopia,2015-01-01T00:00:00,year,1331.2623682618141
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Yeki,Ethiopia,2015-01-01T00:00:00,year,4153.772961318493
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Aleta Wendo,Ethiopia,2015-01-01T00:00:00,year,10544.548001289368
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Arbe Gonna,Ethiopia,2015-01-01T00:00:00,year,4411.629821777344
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Aroresa,Ethiopia,2015-01-01T00:00:00,year,5737.121238827705
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Awasa,Ethiopia,2015-01-01T00:00:00,year,8209.249780997634
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Awasa Zuria,Ethiopia,2015-01-01T00:00:00,year,4624.189127445221
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bensa,Ethiopia,2015-01-01T00:00:00,year,6756.202082514763
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bona Zuria,Ethiopia,2015-01-01T00:00:00,year,3709.206357717514
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Boricha,Ethiopia,2015-01-01T00:00:00,year,8762.487721920013
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bursa,Ethiopia,2015-01-01T00:00:00,year,2918.202531814575
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Chire,Ethiopia,2015-01-01T00:00:00,year,3482.3182258605957
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Chuko,Ethiopia,2015-01-01T00:00:00,year,4776.796082854271
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Dale,Ethiopia,2015-01-01T00:00:00,year,4799.310828208923
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Dara,Ethiopia,2015-01-01T00:00:00,year,7266.459304094315
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Gorche,Ethiopia,2015-01-01T00:00:00,year,2607.0276160240173
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Hulla,Ethiopia,2015-01-01T00:00:00,year,6165.719660401344
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Loka Abaya,Ethiopia,2015-01-01T00:00:00,year,10621.467111967504
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Malga,Ethiopia,2015-01-01T00:00:00,year,3233.654016971588
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Shebe Dino,Ethiopia,2015-01-01T00:00:00,year,12045.266491889954
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Wondo-Genet,Ethiopia,2015-01-01T00:00:00,year,4842.084734916687
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Wonosho,Ethiopia,2015-01-01T00:00:00,year,2069.899514198303
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Alicho Woriro,Ethiopia,2015-01-01T00:00:00,year,4807.672815322876
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Dalocha,Ethiopia,2015-01-01T00:00:00,year,3577.987545132637
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Lanfero,Ethiopia,2015-01-01T00:00:00,year,4544.473283559084
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Mierab Azenet Berbere,Ethiopia,2015-01-01T00:00:00,year,2275.089454650879
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Misrak Azenet Berbere,Ethiopia,2015-01-01T00:00:00,year,2395.37744808197
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Sankura,Ethiopia,2015-01-01T00:00:00,year,2432.3852677345276
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Selti,Ethiopia,2015-01-01T00:00:00,year,5753.561794579029
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Wilbareg,Ethiopia,2015-01-01T00:00:00,year,5367.887987613678
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Boloso Bombe,Ethiopia,2015-01-01T00:00:00,year,4245.051381587982
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Boloso sore,Ethiopia,2015-01-01T00:00:00,year,7567.241937160492
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Gale,Ethiopia,2015-01-01T00:00:00,year,7489.787303924561
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Pulasa,Ethiopia,2015-01-01T00:00:00,year,4083.178659439087
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Sore,Ethiopia,2015-01-01T00:00:00,year,3488.517704963684
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Weydie,Ethiopia,2015-01-01T00:00:00,year,4951.722140550613
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Diguna Fango,Ethiopia,2015-01-01T00:00:00,year,3610.276089668274
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Humbo,Ethiopia,2015-01-01T00:00:00,year,4579.792387818918
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Kindo Dida,Ethiopia,2015-01-01T00:00:00,year,3280.4977247714996
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Kindo Koysha,Ethiopia,2015-01-01T00:00:00,year,5070.706725478172
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Ofa,Ethiopia,2015-01-01T00:00:00,year,4410.527480602264
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Sodo Zuria,Ethiopia,2015-01-01T00:00:00,year,10360.568189620972
-births,Ethiopia,"Southern Nations, Nationalities and Peoples",Yem,Yem,Ethiopia,2015-01-01T00:00:00,year,3713.9870198965073
-births,Ethiopia,Tigray,Debubawi,Alaje,Ethiopia,2015-01-01T00:00:00,year,4708.736773014069
-births,Ethiopia,Tigray,Debubawi,Alamata,Ethiopia,2015-01-01T00:00:00,year,5806.708713769913
-births,Ethiopia,Tigray,Debubawi,Endamehoni,Ethiopia,2015-01-01T00:00:00,year,4775.016150176525
-births,Ethiopia,Tigray,Debubawi,Enderta,Ethiopia,2015-01-01T00:00:00,year,8839.17669826746
-births,Ethiopia,Tigray,Debubawi,Hintalo Wejirat,Ethiopia,2015-01-01T00:00:00,year,6252.373285442591
-births,Ethiopia,Tigray,Debubawi,Ofla,Ethiopia,2015-01-01T00:00:00,year,7059.44624995999
-births,Ethiopia,Tigray,Debubawi,Raya Azebo,Ethiopia,2015-01-01T00:00:00,year,5187.108182877302
-births,Ethiopia,Tigray,Debubawi,Saharti Samre,Ethiopia,2015-01-01T00:00:00,year,5270.0823438465595
-births,Ethiopia,Tigray,Mehakelegnaw,Adwa,Ethiopia,2015-01-01T00:00:00,year,6344.645300149918
-births,Ethiopia,Tigray,Mehakelegnaw,Ahferom,Ethiopia,2015-01-01T00:00:00,year,6816.417138934135
-births,Ethiopia,Tigray,Mehakelegnaw,Degua Temben,Ethiopia,2015-01-01T00:00:00,year,5018.860351920128
-births,Ethiopia,Tigray,Mehakelegnaw,Kola Temben,Ethiopia,2015-01-01T00:00:00,year,6250.27539730072
-births,Ethiopia,Tigray,Mehakelegnaw,Laelay Maychew,Ethiopia,2015-01-01T00:00:00,year,4223.9197689294815
-births,Ethiopia,Tigray,Mehakelegnaw,Mereb Leke,Ethiopia,2015-01-01T00:00:00,year,4602.915192604065
-births,Ethiopia,Tigray,Mehakelegnaw,Naeder Adet,Ethiopia,2015-01-01T00:00:00,year,4702.077630341053
-births,Ethiopia,Tigray,Mehakelegnaw,Tahtay Maychew,Ethiopia,2015-01-01T00:00:00,year,4265.935623407364
-births,Ethiopia,Tigray,Mehakelegnaw,Tanqua Abergele,Ethiopia,2015-01-01T00:00:00,year,3511.2971673980355
-births,Ethiopia,Tigray,Mehakelegnaw,Werei Leke,Ethiopia,2015-01-01T00:00:00,year,6616.7959814071655
-births,Ethiopia,Tigray,Mi'irabawi,Kafta Humera,Ethiopia,2015-01-01T00:00:00,year,2871.1156258285046
-births,Ethiopia,Tigray,Mi'irabawi,Tsegede,Ethiopia,2015-01-01T00:00:00,year,4299.2235919088125
-births,Ethiopia,Tigray,Mi'irabawi,Welkait,Ethiopia,2015-01-01T00:00:00,year,4554.5295533537865
-births,Ethiopia,Tigray,Misraqawi,Atsbi Wenberta,Ethiopia,2015-01-01T00:00:00,year,4735.999933943152
-births,Ethiopia,Tigray,Misraqawi,Erob,Ethiopia,2015-01-01T00:00:00,year,848.0920404791832
-births,Ethiopia,Tigray,Misraqawi,Ganta Afeshum,Ethiopia,2015-01-01T00:00:00,year,6558.120628833771
-births,Ethiopia,Tigray,Misraqawi,Gulomekeda,Ethiopia,2015-01-01T00:00:00,year,3753.9879006147385
-births,Ethiopia,Tigray,Misraqawi,Hawzen,Ethiopia,2015-01-01T00:00:00,year,5025.405060529709
-births,Ethiopia,Tigray,Misraqawi,Kelete Awelallo,Ethiopia,2015-01-01T00:00:00,year,5115.375422239304
-births,Ethiopia,Tigray,Misraqawi,Saesie Tsaedaemba,Ethiopia,2015-01-01T00:00:00,year,6028.626044809818
-births,Ethiopia,Tigray,Semien Mi'irabaw,Asgede Tsimbila,Ethiopia,2015-01-01T00:00:00,year,5396.776615142822
-births,Ethiopia,Tigray,Semien Mi'irabaw,Laelay Adiyabo,Ethiopia,2015-01-01T00:00:00,year,4397.237500488758
-births,Ethiopia,Tigray,Semien Mi'irabaw,Medebay Zana,Ethiopia,2015-01-01T00:00:00,year,5489.342917978764
-births,Ethiopia,Tigray,Semien Mi'irabaw,Tahtay Adiyabo,Ethiopia,2015-01-01T00:00:00,year,3999.6931637078524
-births,Ethiopia,Tigray,Semien Mi'irabaw,Tahtay Koraro,Ethiopia,2015-01-01T00:00:00,year,4965.784531593323
-births,Ethiopia,Tigray,Semien Mi'irabaw,Tselemti,Ethiopia,2015-01-01T00:00:00,year,6125.314596191049
+country,admin1,admin2,admin3,time,time_precision,total_births,average_births_per_1km
+Ethiopia,Addis Abeba,Addis Abeba,Addis Ketema,2015-01-01T00:00:00,year,6787.842529296875,848.4803161621094
+Ethiopia,Addis Abeba,Addis Abeba,Akaki - Kalit,2015-01-01T00:00:00,year,3202.189567089081,21.491205148248863
+Ethiopia,Addis Abeba,Addis Abeba,Arada,2015-01-01T00:00:00,year,6011.952667236328,601.1952667236328
+Ethiopia,Addis Abeba,Addis Abeba,Bole,2015-01-01T00:00:00,year,5616.444939613342,36.47042168580092
+Ethiopia,Addis Abeba,Addis Abeba,Gulele,2015-01-01T00:00:00,year,7837.595624923706,206.2525164453607
+Ethiopia,Addis Abeba,Addis Abeba,Kirkos,2015-01-01T00:00:00,year,6990.080978393555,436.88006114959717
+Ethiopia,Addis Abeba,Addis Abeba,Kolfe - Keran,2015-01-01T00:00:00,year,6797.575741052628,87.14840693657214
+Ethiopia,Addis Abeba,Addis Abeba,Lideta,2015-01-01T00:00:00,year,7495.32218170166,576.5632447462815
+Ethiopia,Addis Abeba,Addis Abeba,Nefas Silk,2015-01-01T00:00:00,year,7247.7125635147095,102.08045864105225
+Ethiopia,Addis Abeba,Addis Abeba,Yeka,2015-01-01T00:00:00,year,7721.2958562374115,77.21295856237411
+Ethiopia,Afar,Afar Zone 1,Adaa'r,2015-01-01T00:00:00,year,1095.7373324632645,0.6689483104171333
+Ethiopia,Afar,Afar Zone 1,Afambo,2015-01-01T00:00:00,year,738.2082199184224,0.3676335756565849
+Ethiopia,Afar,Afar Zone 1,Aysaita,2015-01-01T00:00:00,year,2966.8682612720877,1.883725880172754
+Ethiopia,Afar,Afar Zone 1,Chifra,2015-01-01T00:00:00,year,4032.4631448984146,1.0302665163256042
+Ethiopia,Afar,Afar Zone 1,Dubti,2015-01-01T00:00:00,year,3250.8413987662643,0.44434682869959874
+Ethiopia,Afar,Afar Zone 1,Elidar,2015-01-01T00:00:00,year,2474.9532745480537,0.17763247502677484
+Ethiopia,Afar,Afar Zone 1,Kurri,2015-01-01T00:00:00,year,750.306022990495,0.12247894596645363
+Ethiopia,Afar,Afar Zone 1,Mile,2015-01-01T00:00:00,year,2804.4871169552207,0.6940081952376196
+Ethiopia,Afar,Afar Zone 2,Ab Ala,2015-01-01T00:00:00,year,1412.1908647418022,0.9705779139118915
+Ethiopia,Afar,Afar Zone 2,Afdera,2015-01-01T00:00:00,year,487.58814430364873,0.055737099257390114
+Ethiopia,Afar,Afar Zone 2,Berahile,2015-01-01T00:00:00,year,1866.593354206998,0.2182384372976731
+Ethiopia,Afar,Afar Zone 2,Bidu,2015-01-01T00:00:00,year,485.6759822422173,0.08962465071825379
+Ethiopia,Afar,Afar Zone 2,Dalul,2015-01-01T00:00:00,year,2434.041346145794,0.676686501569584
+Ethiopia,Afar,Afar Zone 2,Erebti,2015-01-01T00:00:00,year,2114.1450555622578,0.7154467193104087
+Ethiopia,Afar,Afar Zone 2,Koneba,2015-01-01T00:00:00,year,1614.518893122673,2.356961887770326
+Ethiopia,Afar,Afar Zone 2,Megale,2015-01-01T00:00:00,year,848.879774659872,0.45860603709339387
+Ethiopia,Afar,Afar Zone 3,Amibara,2015-01-01T00:00:00,year,2385.494011076167,0.5146696895525711
+Ethiopia,Afar,Afar Zone 3,Argoba Special Woreda,2015-01-01T00:00:00,year,986.6761782765388,1.421723599822102
+Ethiopia,Afar,Afar Zone 3,Awash Fentale,2015-01-01T00:00:00,year,1054.426446646452,0.8428668638261007
+Ethiopia,Afar,Afar Zone 3,Bure Mudaytu,2015-01-01T00:00:00,year,1999.6263022674248,1.6243917971303208
+Ethiopia,Afar,Afar Zone 3,Dulecha,2015-01-01T00:00:00,year,845.3460142277181,0.5673463182736364
+Ethiopia,Afar,Afar Zone 3,Gewane,2015-01-01T00:00:00,year,1827.1274713582825,0.17777072108953906
+Ethiopia,Afar,Afar Zone 4,Awra,2015-01-01T00:00:00,year,1045.157199857058,0.28959745077779386
+Ethiopia,Afar,Afar Zone 4,Ewa,2015-01-01T00:00:00,year,1952.4730089306831,1.3625073335175737
+Ethiopia,Afar,Afar Zone 4,Gulina,2015-01-01T00:00:00,year,701.0783019065857,0.5080277550047723
+Ethiopia,Afar,Afar Zone 4,Teru,2015-01-01T00:00:00,year,1932.0076872706413,0.4416017570904323
+Ethiopia,Afar,Afar Zone 4,Yalo,2015-01-01T00:00:00,year,1174.892267882824,0.5714456555850311
+Ethiopia,Afar,Afar Zone 5,Dalfagi,2015-01-01T00:00:00,year,2693.5643318891525,5.140389946353345
+Ethiopia,Afar,Afar Zone 5,Dewe,2015-01-01T00:00:00,year,3083.530623316765,2.4827138674048026
+Ethiopia,Afar,Afar Zone 5,Hadelela,2015-01-01T00:00:00,year,3303.1061843037605,2.2198294249353228
+Ethiopia,Afar,Afar Zone 5,Simurobi Gele'alo,2015-01-01T00:00:00,year,3197.61779846251,2.061649128602521
+Ethiopia,Afar,Afar Zone 5,Telalak,2015-01-01T00:00:00,year,3500.9440648406744,2.1373284889137207
+Ethiopia,Amhara,Agew Awi,Ankasha,2015-01-01T00:00:00,year,7580.857577323914,6.030912949342811
+Ethiopia,Amhara,Agew Awi,Banja,2015-01-01T00:00:00,year,4123.932848930359,7.049457861419417
+Ethiopia,Amhara,Agew Awi,Dangila,2015-01-01T00:00:00,year,4944.920647382736,4.665019478662959
+Ethiopia,Amhara,Agew Awi,Fagta Lakoma,2015-01-01T00:00:00,year,5126.687616825104,6.360654611445538
+Ethiopia,Amhara,Agew Awi,Guagusa Shikudad,2015-01-01T00:00:00,year,2650.0697345733643,7.361304818259345
+Ethiopia,Amhara,Agew Awi,Guangua,2015-01-01T00:00:00,year,8543.011537015438,3.081894493872813
+Ethiopia,Amhara,Agew Awi,Jawi,2015-01-01T00:00:00,year,5072.411879397929,1.326814512005736
+Ethiopia,Amhara,Argoba,Argoba,2015-01-01T00:00:00,year,2770.503889322281,7.632242119345126
+Ethiopia,Amhara,Bahir Dar Special Zone,Bahir Dar,2015-01-01T00:00:00,year,4926.787506103516,492.6787506103516
+Ethiopia,Amhara,Debub Gondar,Dera,2015-01-01T00:00:00,year,10210.834111254662,5.469113075123011
+Ethiopia,Amhara,Debub Gondar,East Esite,2015-01-01T00:00:00,year,8606.496870040894,5.714805358592891
+Ethiopia,Amhara,Debub Gondar,Ebenat,2015-01-01T00:00:00,year,9915.840076565742,3.2953938439899444
+Ethiopia,Amhara,Debub Gondar,Farta,2015-01-01T00:00:00,year,10092.916182160378,6.970245982154957
+Ethiopia,Amhara,Debub Gondar,Fogera,2015-01-01T00:00:00,year,9177.71497938037,7.016601666192943
+Ethiopia,Amhara,Debub Gondar,Lay Gayint,2015-01-01T00:00:00,year,10159.977576255798,5.539791481055506
+Ethiopia,Amhara,Debub Gondar,Libo Kemkem,2015-01-01T00:00:00,year,7407.686742678285,6.106914050023318
+Ethiopia,Amhara,Debub Gondar,Simada,2015-01-01T00:00:00,year,9938.570067167282,3.7363045365290533
+Ethiopia,Amhara,Debub Gondar,Tach Gayint,2015-01-01T00:00:00,year,4061.9046273231506,4.284709522492775
+Ethiopia,Amhara,Debub Gondar,West Esite,2015-01-01T00:00:00,year,5172.710773229599,4.693929921260979
+Ethiopia,Amhara,Debub Wollo,Albuko,2015-01-01T00:00:00,year,638.7550106532872,1.1550723519950943
+Ethiopia,Amhara,Debub Wollo,Ambasel,2015-01-01T00:00:00,year,5466.235772013664,5.075427829167747
+Ethiopia,Amhara,Debub Wollo,Debresina,2015-01-01T00:00:00,year,6449.763195991516,5.493835771713387
+Ethiopia,Amhara,Debub Wollo,Dessie Zuria,2015-01-01T00:00:00,year,12734.240341424942,8.794364876674683
+Ethiopia,Amhara,Debub Wollo,Jama,2015-01-01T00:00:00,year,4782.956101179123,3.8603358363027627
+Ethiopia,Amhara,Debub Wollo,Kalu,2015-01-01T00:00:00,year,10846.8369358778,9.763129555245545
+Ethiopia,Amhara,Debub Wollo,Kelela,2015-01-01T00:00:00,year,5846.931530594826,3.0887118492312866
+Ethiopia,Amhara,Debub Wollo,Kutaber,2015-01-01T00:00:00,year,4724.873675584793,5.356999632182305
+Ethiopia,Amhara,Debub Wollo,Legambo,2015-01-01T00:00:00,year,6614.548787474632,5.639001523848791
+Ethiopia,Amhara,Debub Wollo,Legehida,2015-01-01T00:00:00,year,1975.9507818222046,4.295545177874358
+Ethiopia,Amhara,Debub Wollo,Mehal Sayint,2015-01-01T00:00:00,year,2689.329929590225,3.6689357838884384
+Ethiopia,Amhara,Debub Wollo,Mekdela,2015-01-01T00:00:00,year,5820.839259445667,3.305416955960061
+Ethiopia,Amhara,Debub Wollo,Sayint,2015-01-01T00:00:00,year,6191.59748840332,3.523959868186295
+Ethiopia,Amhara,Debub Wollo,Tenta,2015-01-01T00:00:00,year,7162.034334659576,4.512939089262493
+Ethiopia,Amhara,Debub Wollo,Thehulederie,2015-01-01T00:00:00,year,5274.215474285185,10.046124712924163
+Ethiopia,Amhara,Debub Wollo,Wegde,2015-01-01T00:00:00,year,5057.506374835968,3.863641233640923
+Ethiopia,Amhara,Debub Wollo,Were Ilu,2015-01-01T00:00:00,year,4586.091673254967,5.023101504112779
+Ethiopia,Amhara,Debub Wollo,Worebabu,2015-01-01T00:00:00,year,5073.865388393402,5.675464640261076
+Ethiopia,Amhara,Mirab Gojjam,Bahir Dar Zuria,2015-01-01T00:00:00,year,10546.22451937152,4.988753320421722
+Ethiopia,Amhara,Mirab Gojjam,Bure,2015-01-01T00:00:00,year,4167.099730879068,4.368029068007409
+Ethiopia,Amhara,Mirab Gojjam,Debub Achefer,2015-01-01T00:00:00,year,6182.998243570328,4.329830702780342
+Ethiopia,Amhara,Mirab Gojjam,Dega Damot,2015-01-01T00:00:00,year,6281.2764303684235,6.44233480037787
+Ethiopia,Amhara,Mirab Gojjam,Dembecha,2015-01-01T00:00:00,year,4963.587052345276,4.319919105609466
+Ethiopia,Amhara,Mirab Gojjam,Jabi Tehnan,2015-01-01T00:00:00,year,9653.149181127548,6.736321829119015
+Ethiopia,Amhara,Mirab Gojjam,Mecha,2015-01-01T00:00:00,year,11355.281569838524,6.333118555403527
+Ethiopia,Amhara,Mirab Gojjam,Quarit,2015-01-01T00:00:00,year,4703.887034416199,6.417308368917052
+Ethiopia,Amhara,Mirab Gojjam,Sekela,2015-01-01T00:00:00,year,5302.255506813526,5.7948147615448375
+Ethiopia,Amhara,Mirab Gojjam,Semen Achefer,2015-01-01T00:00:00,year,5490.558675169945,3.950042212352478
+Ethiopia,Amhara,Mirab Gojjam,Wemberma,2015-01-01T00:00:00,year,5753.144813627005,3.5756027430870136
+Ethiopia,Amhara,Mirab Gojjam,Yilmana Densa,2015-01-01T00:00:00,year,12299.233548641205,7.386927056240964
+Ethiopia,Amhara,Misraq Gojjam,Aneded,2015-01-01T00:00:00,year,3506.2939492464066,4.524250257092137
+Ethiopia,Amhara,Misraq Gojjam,Awabel,2015-01-01T00:00:00,year,4704.846673965454,4.835402542616088
+Ethiopia,Amhara,Misraq Gojjam,Baso Liben,2015-01-01T00:00:00,year,4611.099670171738,3.490612922158772
+Ethiopia,Amhara,Misraq Gojjam,Bibugn,2015-01-01T00:00:00,year,4132.929121494293,8.61026900311311
+Ethiopia,Amhara,Misraq Gojjam,Debay Telatgen,2015-01-01T00:00:00,year,4564.687201976776,6.102522997295155
+Ethiopia,Amhara,Misraq Gojjam,Debre Elias,2015-01-01T00:00:00,year,4931.360099077225,3.604795394062299
+Ethiopia,Amhara,Misraq Gojjam,Dejen,2015-01-01T00:00:00,year,4319.777144193649,5.790585984173792
+Ethiopia,Amhara,Misraq Gojjam,Enarj Enawga,2015-01-01T00:00:00,year,6164.766235113144,5.470067644288504
+Ethiopia,Amhara,Misraq Gojjam,Enbise Sar Midir,2015-01-01T00:00:00,year,5395.385732412338,4.221741574657542
+Ethiopia,Amhara,Misraq Gojjam,Enemay,2015-01-01T00:00:00,year,6292.085130691528,7.28250593830038
+Ethiopia,Amhara,Misraq Gojjam,Goncha Siso Enese,2015-01-01T00:00:00,year,5703.403396606445,4.487335481200979
+Ethiopia,Amhara,Misraq Gojjam,Gonje,2015-01-01T00:00:00,year,1721.5174379348755,5.93626702736164
+Ethiopia,Amhara,Misraq Gojjam,Guzamn,2015-01-01T00:00:00,year,7610.427371382713,6.243172577016172
+Ethiopia,Amhara,Misraq Gojjam,Hulet Ej Enese,2015-01-01T00:00:00,year,10115.248873591423,5.8878049322418065
+Ethiopia,Amhara,Misraq Gojjam,Michakel,2015-01-01T00:00:00,year,3274.641842842102,4.1451162567621544
+Ethiopia,Amhara,Misraq Gojjam,Senan,2015-01-01T00:00:00,year,3923.280930042267,4.259805570078465
+Ethiopia,Amhara,Misraq Gojjam,Shebel Bereta,2015-01-01T00:00:00,year,3776.892922401428,3.549711393234425
+Ethiopia,Amhara,North Shewa,Angolelana Tera,2015-01-01T00:00:00,year,3989.554634332657,3.993548182515172
+Ethiopia,Amhara,North Shewa,Ankober,2015-01-01T00:00:00,year,2935.431560099125,3.5112817704534987
+Ethiopia,Amhara,North Shewa,Antsokiya,2015-01-01T00:00:00,year,3441.864445924759,7.682733138224909
+Ethiopia,Amhara,North Shewa,Assagirt,2015-01-01T00:00:00,year,1696.3026585578918,2.7717363701926336
+Ethiopia,Amhara,North Shewa,Basona Worena,2015-01-01T00:00:00,year,7880.3429518938065,4.925214344933629
+Ethiopia,Amhara,North Shewa,Berehet,2015-01-01T00:00:00,year,1705.301009118557,1.845563862682421
+Ethiopia,Amhara,North Shewa,Eferatana Gidem,2015-01-01T00:00:00,year,5261.237701892853,8.639142367640153
+Ethiopia,Amhara,North Shewa,Ensaro,2015-01-01T00:00:00,year,2006.3325188159943,4.214984283226879
+Ethiopia,Amhara,North Shewa,Gishe Rabel,2015-01-01T00:00:00,year,2430.4726380109787,3.026740520561617
+Ethiopia,Amhara,North Shewa,Hagere Mariam,2015-01-01T00:00:00,year,2282.903762817383,2.8011089114323715
+Ethiopia,Amhara,North Shewa,Kewet,2015-01-01T00:00:00,year,4857.02586889267,5.602105961813921
+Ethiopia,Amhara,North Shewa,Menz Gera Midir,2015-01-01T00:00:00,year,4310.225574910641,3.3028548466748204
+Ethiopia,Amhara,North Shewa,Menz Keya Gabriel,2015-01-01T00:00:00,year,2187.0396978855133,3.3907592215279276
+Ethiopia,Amhara,North Shewa,Menz Lalo Midir,2015-01-01T00:00:00,year,1709.4070061445236,3.8156406387154544
+Ethiopia,Amhara,North Shewa,Menz Mama Midir,2015-01-01T00:00:00,year,3382.391035079956,4.450514519842048
+Ethiopia,Amhara,North Shewa,Merahbete,2015-01-01T00:00:00,year,5116.194885909557,4.231757556583587
+Ethiopia,Amhara,North Shewa,Mimo Weremo,2015-01-01T00:00:00,year,3649.5874361991882,3.617034129037848
+Ethiopia,Amhara,North Shewa,Minjar Shenkora,2015-01-01T00:00:00,year,6192.972119987011,3.0795485430069673
+Ethiopia,Amhara,North Shewa,Mojan Wedera,2015-01-01T00:00:00,year,3135.699567914009,4.237431848532445
+Ethiopia,Amhara,North Shewa,Moretna Jiru,2015-01-01T00:00:00,year,3736.8938440084457,4.469968712928763
+Ethiopia,Amhara,North Shewa,Siya Debirna Wayu,2015-01-01T00:00:00,year,2455.51205432415,4.353744777170479
+Ethiopia,Amhara,North Shewa,Tarema Ber,2015-01-01T00:00:00,year,3683.7259259819984,5.225143157421274
+Ethiopia,Amhara,Oromia,Artuma Fursi,2015-01-01T00:00:00,year,3172.170709013939,4.184921779701766
+Ethiopia,Amhara,Oromia,Bati,2015-01-01T00:00:00,year,5789.805748820305,4.263479932857368
+Ethiopia,Amhara,Oromia,Dewa Cheffa,2015-01-01T00:00:00,year,5321.980362921953,6.702746049020092
+Ethiopia,Amhara,Oromia,Dewa Harewa,2015-01-01T00:00:00,year,2546.3801167607307,4.490970223563899
+Ethiopia,Amhara,Oromia,Jille Timuga,2015-01-01T00:00:00,year,4314.127277851105,4.229536546912848
+Ethiopia,Amhara,Semen Gondar,Addi Arekay,2015-01-01T00:00:00,year,3203.2879203483462,2.026115066633995
+Ethiopia,Amhara,Semen Gondar,Alfa,2015-01-01T00:00:00,year,4030.12380617857,1.786402396355749
+Ethiopia,Amhara,Semen Gondar,Beyeda,2015-01-01T00:00:00,year,3721.3782083541155,2.589685600803142
+Ethiopia,Amhara,Semen Gondar,Chilga,2015-01-01T00:00:00,year,8173.65360468626,2.120823457365402
+Ethiopia,Amhara,Semen Gondar,Dabat,2015-01-01T00:00:00,year,5853.650584757328,4.025894487453458
+Ethiopia,Amhara,Semen Gondar,Debark,2015-01-01T00:00:00,year,6047.648341119289,3.2202600325448825
+Ethiopia,Amhara,Semen Gondar,Dembia,2015-01-01T00:00:00,year,10599.660198932514,6.842905228490971
+Ethiopia,Amhara,Semen Gondar,East Belesa,2015-01-01T00:00:00,year,5218.69814568758,2.2889026954770086
+Ethiopia,Amhara,Semen Gondar,Gonder Zuria,2015-01-01T00:00:00,year,15099.681607700884,8.850927085404972
+Ethiopia,Amhara,Semen Gondar,Janamora,2015-01-01T00:00:00,year,6090.516274631023,2.8341164609730214
+Ethiopia,Amhara,Semen Gondar,Lay Armacho,2015-01-01T00:00:00,year,5836.582197368145,4.658086350652949
+Ethiopia,Amhara,Semen Gondar,Metema,2015-01-01T00:00:00,year,2746.715807378292,0.6074117221093083
+Ethiopia,Amhara,Semen Gondar,Mirab Armacho,2015-01-01T00:00:00,year,1030.8672221004963,0.3331826832903996
+Ethiopia,Amhara,Semen Gondar,Quara,2015-01-01T00:00:00,year,1874.2141020670533,0.18494317170584698
+Ethiopia,Amhara,Semen Gondar,Tach Armacho,2015-01-01T00:00:00,year,2128.490655645728,0.6759258989030575
+Ethiopia,Amhara,Semen Gondar,Takusa,2015-01-01T00:00:00,year,3705.0161969810724,1.6430227037610077
+Ethiopia,Amhara,Semen Gondar,Tsegede,2015-01-01T00:00:00,year,1445.6107606738806,0.6162023702787215
+Ethiopia,Amhara,Semen Gondar,Tselemt,2015-01-01T00:00:00,year,1585.3338522315025,2.064236786759769
+Ethiopia,Amhara,Semen Gondar,Wegera,2015-01-01T00:00:00,year,9026.690356194973,3.948683445404625
+Ethiopia,Amhara,Semen Gondar,West Belesa,2015-01-01T00:00:00,year,3866.6335886120796,2.8141438053945267
+Ethiopia,Amhara,Semen Wello,Bugna,2015-01-01T00:00:00,year,3794.5541293621063,2.651680034494833
+Ethiopia,Amhara,Semen Wello,Dawunt,2015-01-01T00:00:00,year,2648.352335393429,3.5740247441206865
+Ethiopia,Amhara,Semen Wello,Delanta,2015-01-01T00:00:00,year,4950.432615876198,3.9226882851633897
+Ethiopia,Amhara,Semen Wello,Gidan,2015-01-01T00:00:00,year,6615.976176738739,4.485407577449992
+Ethiopia,Amhara,Semen Wello,Guba Lafto,2015-01-01T00:00:00,year,8265.99602341652,6.865445202173189
+Ethiopia,Amhara,Semen Wello,Habru,2015-01-01T00:00:00,year,8306.386757433414,5.146460196674978
+Ethiopia,Amhara,Semen Wello,Kobo,2015-01-01T00:00:00,year,9098.55557692796,3.9201014980301423
+Ethiopia,Amhara,Semen Wello,Lasta,2015-01-01T00:00:00,year,3157.169006884098,2.4417393711400606
+Ethiopia,Amhara,Semen Wello,Meket,2015-01-01T00:00:00,year,9454.349459052086,4.170423228518785
+Ethiopia,Amhara,Semen Wello,Wadla,2015-01-01T00:00:00,year,4570.10061109066,4.579259129349359
+Ethiopia,Amhara,Wag Himra,Abergele,2015-01-01T00:00:00,year,2244.5017614364624,1.2428027471962693
+Ethiopia,Amhara,Wag Himra,Dehana,2015-01-01T00:00:00,year,4173.922600120306,2.062214723379598
+Ethiopia,Amhara,Wag Himra,Gaz Gibla,2015-01-01T00:00:00,year,2231.7439571619034,1.9662942353849369
+Ethiopia,Amhara,Wag Himra,Sahla,2015-01-01T00:00:00,year,662.5804093927145,0.4794358968109367
+Ethiopia,Amhara,Wag Himra,Sekota,2015-01-01T00:00:00,year,4050.9654422700405,1.7371206870797773
+Ethiopia,Amhara,Wag Himra,Ziquala,2015-01-01T00:00:00,year,1374.751305744052,0.6775511610369896
+Ethiopia,Benshangul-Gumaz,Asosa,Assosa,2015-01-01T00:00:00,year,5935.879572927952,1.699364320906943
+Ethiopia,Benshangul-Gumaz,Asosa,Bambasi,2015-01-01T00:00:00,year,2439.2880954146385,1.5448309660637356
+Ethiopia,Benshangul-Gumaz,Asosa,Bilidigilu,2015-01-01T00:00:00,year,1829.8375588655472,0.9610491380596361
+Ethiopia,Benshangul-Gumaz,Asosa,Homosha,2015-01-01T00:00:00,year,557.6772324740887,0.7536178817217415
+Ethiopia,Benshangul-Gumaz,Asosa,Kurmuk,2015-01-01T00:00:00,year,602.380374006927,0.40811678455753864
+Ethiopia,Benshangul-Gumaz,Asosa,Maokomo Special,2015-01-01T00:00:00,year,3491.1731330156326,0.989842113131736
+Ethiopia,Benshangul-Gumaz,Asosa,Menge,2015-01-01T00:00:00,year,1915.1359503418207,1.0569182948906295
+Ethiopia,Benshangul-Gumaz,Asosa,Sherkole,2015-01-01T00:00:00,year,722.3371428847313,0.29689155071300094
+Ethiopia,Benshangul-Gumaz,Kemashi,Agalometi,2015-01-01T00:00:00,year,1209.8225483000278,0.5830470112289291
+Ethiopia,Benshangul-Gumaz,Kemashi,Bio Jiganifado,2015-01-01T00:00:00,year,2382.6330345124006,1.2256342770125517
+Ethiopia,Benshangul-Gumaz,Kemashi,Kamashi,2015-01-01T00:00:00,year,839.1738641560078,0.4901716496238363
+Ethiopia,Benshangul-Gumaz,Kemashi,Sirba Abay,2015-01-01T00:00:00,year,1023.8584056571126,0.32773956647154695
+Ethiopia,Benshangul-Gumaz,Kemashi,Yaso,2015-01-01T00:00:00,year,817.5701232105494,0.2654448451982303
+Ethiopia,Benshangul-Gumaz,Metekel,Bulen,2015-01-01T00:00:00,year,1449.8529778197408,0.40510002174343135
+Ethiopia,Benshangul-Gumaz,Metekel,Dangura,2015-01-01T00:00:00,year,1597.4903336912394,0.26722822577638666
+Ethiopia,Benshangul-Gumaz,Metekel,Dibat,2015-01-01T00:00:00,year,2661.809310413897,1.0033205090139077
+Ethiopia,Benshangul-Gumaz,Metekel,Guba,2015-01-01T00:00:00,year,1078.0471102204174,0.13161361374928793
+Ethiopia,Benshangul-Gumaz,Metekel,Mandura,2015-01-01T00:00:00,year,1754.2201711535454,1.3619721825726283
+Ethiopia,Benshangul-Gumaz,Metekel,Pawe Special,2015-01-01T00:00:00,year,2009.9061355665326,3.120972260196479
+Ethiopia,Benshangul-Gumaz,Metekel,Wenbera,2015-01-01T00:00:00,year,2682.8523966148496,0.32701760075753894
+Ethiopia,Dire Dawa,Dire Dawa,Dire Dawa,2015-01-01T00:00:00,year,13142.36295825243,11.518284801272944
+Ethiopia,Dire Dawa,Dire Dawa,Dire Dawa/Town,2015-01-01T00:00:00,year,230.17715206742287,2.192163353023075
+Ethiopia,Gambela Peoples,Agnuak,Abobo,2015-01-01T00:00:00,year,722.158038433292,0.19741881859849425
+Ethiopia,Gambela Peoples,Agnuak,Dima,2015-01-01T00:00:00,year,1377.3623648174107,0.1508446352882938
+Ethiopia,Gambela Peoples,Agnuak,Gambela Zuria,2015-01-01T00:00:00,year,2771.8207915201783,0.7010168921396506
+Ethiopia,Gambela Peoples,Agnuak,Gambella Wild Life Reserve,2015-01-01T00:00:00,year,372.230688765645,0.6623321864157384
+Ethiopia,Gambela Peoples,Agnuak,Gog,2015-01-01T00:00:00,year,456.1944118060637,0.12017766380560162
+Ethiopia,Gambela Peoples,Agnuak,Itang,2015-01-01T00:00:00,year,1047.3555165939033,0.4026741701629771
+Ethiopia,Gambela Peoples,Agnuak,Jore,2015-01-01T00:00:00,year,789.3800854217261,0.19764148358080272
+Ethiopia,Gambela Peoples,Majang,Godere,2015-01-01T00:00:00,year,1003.789345100522,1.4484694734495267
+Ethiopia,Gambela Peoples,Majang,Mengesh,2015-01-01T00:00:00,year,1332.1574231386185,0.6448003016159818
+Ethiopia,Gambela Peoples,Nuer,Akobo,2015-01-01T00:00:00,year,510.5089009515941,0.20444889905950905
+Ethiopia,Gambela Peoples,Nuer,Jikawo,2015-01-01T00:00:00,year,836.1431388035417,0.6431870298488782
+Ethiopia,Gambela Peoples,Nuer,Lare,2015-01-01T00:00:00,year,664.5912045836449,0.8423209183569643
+Ethiopia,Gambela Peoples,Nuer,Wantawo,2015-01-01T00:00:00,year,325.49430391564965,0.3111800228639098
+Ethiopia,Harari People,Hareri,Harar,2015-01-01T00:00:00,year,6560.386892080307,14.775646153334025
+Ethiopia,Oromia,Arsi,Amigna,2015-01-01T00:00:00,year,3465.1188012361526,2.1834396983214575
+Ethiopia,Oromia,Arsi,Aseko,2015-01-01T00:00:00,year,3181.0646772384644,5.130749479416878
+Ethiopia,Oromia,Arsi,Bele Gesgar,2015-01-01T00:00:00,year,2243.3860817551613,2.7291801481206344
+Ethiopia,Oromia,Arsi,Chole,2015-01-01T00:00:00,year,4099.479741334915,5.757696265919825
+Ethiopia,Oromia,Arsi,Degeluna Tijo,2015-01-01T00:00:00,year,6802.687470912933,5.92568595027259
+Ethiopia,Oromia,Arsi,Diksis,2015-01-01T00:00:00,year,2484.815088033676,4.930188666733485
+Ethiopia,Oromia,Arsi,Dodota,2015-01-01T00:00:00,year,3869.3798475265503,7.152273285631331
+Ethiopia,Oromia,Arsi,Gololcha Arsi,2015-01-01T00:00:00,year,7583.541426062584,3.7823149257169995
+Ethiopia,Oromia,Arsi,Guna,2015-01-01T00:00:00,year,3256.282919049263,5.427138198415438
+Ethiopia,Oromia,Arsi,Hitosa,2015-01-01T00:00:00,year,6313.264035224915,7.6339347463420975
+Ethiopia,Oromia,Arsi,Inkolo Wabe,2015-01-01T00:00:00,year,2190.676970243454,5.96914705788407
+Ethiopia,Oromia,Arsi,Jeju,2015-01-01T00:00:00,year,5604.555484056473,5.9119783587093595
+Ethiopia,Oromia,Arsi,Limu Bilbilo,2015-01-01T00:00:00,year,8690.187183447182,6.124162919976873
+Ethiopia,Oromia,Arsi,Lude Hitosa,2015-01-01T00:00:00,year,5319.679722309113,8.470827583294765
+Ethiopia,Oromia,Arsi,Merti,2015-01-01T00:00:00,year,4943.372006416321,3.9016353641802057
+Ethiopia,Oromia,Arsi,Munessa,2015-01-01T00:00:00,year,8070.465409755707,6.566692766278036
+Ethiopia,Oromia,Arsi,Robe,2015-01-01T00:00:00,year,7913.343481361866,5.1152834397943545
+Ethiopia,Oromia,Arsi,Seru,2015-01-01T00:00:00,year,3123.133021235466,1.5975104967956348
+Ethiopia,Oromia,Arsi,Shirka,2015-01-01T00:00:00,year,7164.859181344509,5.955826418407738
+Ethiopia,Oromia,Arsi,Sire,2015-01-01T00:00:00,year,3923.614743947983,6.169205572245256
+Ethiopia,Oromia,Arsi,Sude,2015-01-01T00:00:00,year,6981.8184814453125,4.9064079279306485
+Ethiopia,Oromia,Arsi,Tena,2015-01-01T00:00:00,year,4299.710896253586,8.143391848965125
+Ethiopia,Oromia,Arsi,Tiyo,2015-01-01T00:00:00,year,7783.898951172829,10.350929456346847
+Ethiopia,Oromia,Arsi,Ziway Dugda,2015-01-01T00:00:00,year,5468.386838348582,3.9032025969654405
+Ethiopia,Oromia,Bale,Agarfa,2015-01-01T00:00:00,year,4388.166514098644,3.0536997314534755
+Ethiopia,Oromia,Bale,Berbere,2015-01-01T00:00:00,year,2445.9045529067516,1.541212698744015
+Ethiopia,Oromia,Bale,Dawe Kachen,2015-01-01T00:00:00,year,1470.9728678911924,0.7289260990541092
+Ethiopia,Oromia,Bale,Dinsho,2015-01-01T00:00:00,year,1359.06758710742,1.7765589373953201
+Ethiopia,Oromia,Bale,Gasera,2015-01-01T00:00:00,year,3985.5656857192516,2.9588460918479966
+Ethiopia,Oromia,Bale,Ginir,2015-01-01T00:00:00,year,6408.220398128033,2.19159384340904
+Ethiopia,Oromia,Bale,Goba,2015-01-01T00:00:00,year,4072.3716505765915,2.0948413840414566
+Ethiopia,Oromia,Bale,Gololcha Bale,2015-01-01T00:00:00,year,3935.04852502048,1.435101577323297
+Ethiopia,Oromia,Bale,Goro,2015-01-01T00:00:00,year,2622.885610103607,1.7324211427368608
+Ethiopia,Oromia,Bale,Gura Damole,2015-01-01T00:00:00,year,1001.0818071216345,0.16185639565426588
+Ethiopia,Oromia,Bale,Harena Buluk,2015-01-01T00:00:00,year,2195.3940066695213,0.9561820586539727
+Ethiopia,Oromia,Bale,Lege Hida,2015-01-01T00:00:00,year,2180.0311619490385,0.3668850827918274
+Ethiopia,Oromia,Bale,Meda Welabu,2015-01-01T00:00:00,year,4009.584522858262,0.39152275391644
+Ethiopia,Oromia,Bale,Mena,2015-01-01T00:00:00,year,3071.3515724539757,0.5395909298056879
+Ethiopia,Oromia,Bale,Rayitu,2015-01-01T00:00:00,year,1607.9984575212002,0.2333476211756204
+Ethiopia,Oromia,Bale,Seweyna,2015-01-01T00:00:00,year,2292.5025535970926,0.24144313360685546
+Ethiopia,Oromia,Bale,Sinana,2015-01-01T00:00:00,year,7701.028853297234,5.679224818065807
+Ethiopia,Oromia,Borena,Abaya,2015-01-01T00:00:00,year,2712.926151107298,2.3652364002679147
+Ethiopia,Oromia,Borena,Arero,2015-01-01T00:00:00,year,1788.9496742058545,0.17514682535792583
+Ethiopia,Oromia,Borena,Bule Hora,2015-01-01T00:00:00,year,6901.397867739201,4.379059560748224
+Ethiopia,Oromia,Borena,Dehas,2015-01-01T00:00:00,year,1864.6706337183714,0.37984734848612167
+Ethiopia,Oromia,Borena,Dillo,2015-01-01T00:00:00,year,649.182629135903,0.14252088455233874
+Ethiopia,Oromia,Borena,Dire,2015-01-01T00:00:00,year,2033.985291492194,0.35721554118233123
+Ethiopia,Oromia,Borena,Dugda Dawa,2015-01-01T00:00:00,year,5973.731995820999,2.4984240885909657
+Ethiopia,Oromia,Borena,Gelana,2015-01-01T00:00:00,year,4113.416209898889,2.435415162758371
+Ethiopia,Oromia,Borena,Melka Soda,2015-01-01T00:00:00,year,6577.550140142441,3.1531879866454653
+Ethiopia,Oromia,Borena,Miyo,2015-01-01T00:00:00,year,1232.692234620452,0.5898048969475846
+Ethiopia,Oromia,Borena,Moyale,2015-01-01T00:00:00,year,5535.843323804438,1.4032555953876902
+Ethiopia,Oromia,Borena,Teltele,2015-01-01T00:00:00,year,2346.0396202858537,0.1752868813722246
+Ethiopia,Oromia,Borena,Yabelo,2015-01-01T00:00:00,year,3868.0156617239118,0.5575919939057102
+Ethiopia,Oromia,Debub Mirab Shewa,Alem Gena,2015-01-01T00:00:00,year,7710.372035648674,7.152478697262221
+Ethiopia,Oromia,Debub Mirab Shewa,Ameya,2015-01-01T00:00:00,year,5642.166943788528,4.927656719465964
+Ethiopia,Oromia,Debub Mirab Shewa,Becho,2015-01-01T00:00:00,year,3314.462593317032,6.84806320933271
+Ethiopia,Oromia,Debub Mirab Shewa,Dawo,2015-01-01T00:00:00,year,3683.560920715332,9.493713713183846
+Ethiopia,Oromia,Debub Mirab Shewa,Goro,2015-01-01T00:00:00,year,4756.747577428818,7.352005529256287
+Ethiopia,Oromia,Debub Mirab Shewa,Ilu,2015-01-01T00:00:00,year,3005.4712924957275,6.989468122083087
+Ethiopia,Oromia,Debub Mirab Shewa,Kersana Malima,2015-01-01T00:00:00,year,2073.7756905555725,4.856617542284713
+Ethiopia,Oromia,Debub Mirab Shewa,Kondaltiti,2015-01-01T00:00:00,year,2056.032016992569,4.704878757420066
+Ethiopia,Oromia,Debub Mirab Shewa,Seden Sodo,2015-01-01T00:00:00,year,3652.1772997379303,6.190131016504966
+Ethiopia,Oromia,Debub Mirab Shewa,Sodo Daci,2015-01-01T00:00:00,year,1847.4986658096313,4.773898361265197
+Ethiopia,Oromia,Debub Mirab Shewa,Tole,2015-01-01T00:00:00,year,2880.3419761657715,5.830651773614922
+Ethiopia,Oromia,Debub Mirab Shewa,Waliso,2015-01-01T00:00:00,year,6225.492626667023,8.68269543468204
+Ethiopia,Oromia,Debub Mirab Shewa,Wenchi,2015-01-01T00:00:00,year,4988.566457211971,9.289695451046502
+Ethiopia,Oromia,Guji,Adola,2015-01-01T00:00:00,year,4657.233672499657,3.0700287887275257
+Ethiopia,Oromia,Guji,Afele Kola,2015-01-01T00:00:00,year,3149.0899151563644,7.140793458404454
+Ethiopia,Oromia,Guji,Ana Sora,2015-01-01T00:00:00,year,3746.997485637665,4.367129936640635
+Ethiopia,Oromia,Guji,Bore,2015-01-01T00:00:00,year,4088.7427446842194,6.500385921596533
+Ethiopia,Oromia,Guji,Girja (Harenfema),2015-01-01T00:00:00,year,1284.789904564619,1.5009227857063308
+Ethiopia,Oromia,Guji,Goro Dola,2015-01-01T00:00:00,year,1652.958810955286,0.5715625210772082
+Ethiopia,Oromia,Guji,Hambela Wamena,2015-01-01T00:00:00,year,3299.521337866783,5.592409047231836
+Ethiopia,Oromia,Guji,Kercha,2015-01-01T00:00:00,year,4350.123644113541,5.471853640394391
+Ethiopia,Oromia,Guji,Liben,2015-01-01T00:00:00,year,5033.27027978003,0.8283854970013216
+Ethiopia,Oromia,Guji,Odo Shakiso,2015-01-01T00:00:00,year,3457.159168213606,2.2910266190945037
+Ethiopia,Oromia,Guji,Saba Boru,2015-01-01T00:00:00,year,2770.1536134779453,0.7999288517117947
+Ethiopia,Oromia,Guji,Uraga,2015-01-01T00:00:00,year,5675.347950339317,6.122273948586103
+Ethiopia,Oromia,Guji,Wadera,2015-01-01T00:00:00,year,3045.913729041815,2.2249187209947516
+Ethiopia,Oromia,Horo Guduru,Ababo,2015-01-01T00:00:00,year,2805.3371000289917,2.312726380897767
+Ethiopia,Oromia,Horo Guduru,Abay Chomen,2015-01-01T00:00:00,year,2208.562762670219,2.5983091325531986
+Ethiopia,Oromia,Horo Guduru,Abe Dongoro,2015-01-01T00:00:00,year,2530.125710129738,1.9875300158128342
+Ethiopia,Oromia,Horo Guduru,Amuru,2015-01-01T00:00:00,year,2293.7081557512283,1.6681513860008934
+Ethiopia,Oromia,Horo Guduru,Guduru,2015-01-01T00:00:00,year,4294.930393733084,2.538374937194494
+Ethiopia,Oromia,Horo Guduru,Horo,2015-01-01T00:00:00,year,4838.546882871538,5.9514721806537985
+Ethiopia,Oromia,Horo Guduru,Jarte Jardega,2015-01-01T00:00:00,year,2511.016816496849,1.822218299344593
+Ethiopia,Oromia,Horo Guduru,Jimma Genete,2015-01-01T00:00:00,year,2795.577015094459,5.167425166533196
+Ethiopia,Oromia,Horo Guduru,Jimma Rare,2015-01-01T00:00:00,year,2616.9373149871826,7.719579100257175
+Ethiopia,Oromia,Ilubabor,Ale,2015-01-01T00:00:00,year,1762.1796798706055,4.175781231920866
+Ethiopia,Oromia,Ilubabor,Alge Sachi,2015-01-01T00:00:00,year,3873.9289232492447,3.812922168552406
+Ethiopia,Oromia,Ilubabor,Badele Zuria,2015-01-01T00:00:00,year,3268.367478489876,3.335068855601914
+Ethiopia,Oromia,Ilubabor,Becho,2015-01-01T00:00:00,year,1348.7352151870728,3.38028875986735
+Ethiopia,Oromia,Ilubabor,Bilo Nopha,2015-01-01T00:00:00,year,1270.9605634212494,3.398290276527405
+Ethiopia,Oromia,Ilubabor,Borecha,2015-01-01T00:00:00,year,2652.09743309021,2.936984975736667
+Ethiopia,Oromia,Ilubabor,Bure,2015-01-01T00:00:00,year,2509.6595091819763,1.9776670679132988
+Ethiopia,Oromia,Ilubabor,Chora,2015-01-01T00:00:00,year,5416.634457111359,4.465485949803264
+Ethiopia,Oromia,Ilubabor,Chwaka,2015-01-01T00:00:00,year,886.5928506851196,1.7661212165042224
+Ethiopia,Oromia,Ilubabor,Dabo Hana,2015-01-01T00:00:00,year,2406.67657494545,2.238768906926
+Ethiopia,Oromia,Ilubabor,Darimu,2015-01-01T00:00:00,year,6084.6776242256165,3.858387840345984
+Ethiopia,Oromia,Ilubabor,Dedesa,2015-01-01T00:00:00,year,2942.3520262241364,4.9451294558388845
+Ethiopia,Oromia,Ilubabor,Dega,2015-01-01T00:00:00,year,1623.3217862844467,2.9354824345107535
+Ethiopia,Oromia,Ilubabor,Didu,2015-01-01T00:00:00,year,2979.6863983869553,2.588780537260604
+Ethiopia,Oromia,Ilubabor,Dorani,2015-01-01T00:00:00,year,847.8170393705368,2.2369842727454796
+Ethiopia,Oromia,Ilubabor,Gechi,2015-01-01T00:00:00,year,2801.21497130394,3.582116331590716
+Ethiopia,Oromia,Ilubabor,Halu,2015-01-01T00:00:00,year,876.2069587111473,2.489224314520305
+Ethiopia,Oromia,Ilubabor,Hurumu,2015-01-01T00:00:00,year,2765.8160824775696,3.5233325891434006
+Ethiopia,Oromia,Ilubabor,Meko,2015-01-01T00:00:00,year,1332.0639891028404,2.408795640330634
+Ethiopia,Oromia,Ilubabor,Metu Zuria,2015-01-01T00:00:00,year,4401.340694308281,4.906734330332532
+Ethiopia,Oromia,Ilubabor,Sale Nono,2015-01-01T00:00:00,year,692.7528351545334,0.36364978223335087
+Ethiopia,Oromia,Ilubabor,Yayu,2015-01-01T00:00:00,year,2023.8246132135391,2.9762126664904986
+Ethiopia,Oromia,Jimma,Chora,2015-01-01T00:00:00,year,6091.411666035652,3.325006367923391
+Ethiopia,Oromia,Jimma,Dedo,2015-01-01T00:00:00,year,13575.602841436863,8.018666769897733
+Ethiopia,Oromia,Jimma,Gera,2015-01-01T00:00:00,year,4520.346395492554,2.832297240283555
+Ethiopia,Oromia,Jimma,Goma,2015-01-01T00:00:00,year,10373.467306375504,12.650569885823785
+Ethiopia,Oromia,Jimma,Gumay,2015-01-01T00:00:00,year,5786.207824230194,9.012784772944228
+Ethiopia,Oromia,Jimma,Kersa,2015-01-01T00:00:00,year,14205.371860980988,11.624690557267584
+Ethiopia,Oromia,Jimma,Limu Kosa,2015-01-01T00:00:00,year,5831.130654573441,3.637636091436956
+Ethiopia,Oromia,Jimma,Limu Seka,2015-01-01T00:00:00,year,7889.56557238102,2.6798796101837703
+Ethiopia,Oromia,Jimma,Mena,2015-01-01T00:00:00,year,7386.171450614929,11.874873714815
+Ethiopia,Oromia,Jimma,Omo Nada,2015-01-01T00:00:00,year,11936.000683635473,6.025240122986105
+Ethiopia,Oromia,Jimma,Seka Chekorsa,2015-01-01T00:00:00,year,4507.308318138123,8.034417679390593
+Ethiopia,Oromia,Jimma,Sekoru,2015-01-01T00:00:00,year,7103.25003272295,6.558864296143075
+Ethiopia,Oromia,Jimma,Setema,2015-01-01T00:00:00,year,5468.279205799103,4.180641594647632
+Ethiopia,Oromia,Jimma,Shebe Sambo,2015-01-01T00:00:00,year,10857.616486907005,7.366089882569203
+Ethiopia,Oromia,Jimma,Sigmo,2015-01-01T00:00:00,year,4586.915039539337,3.8097300992851637
+Ethiopia,Oromia,Jimma,Tiro Afeta,2015-01-01T00:00:00,year,6175.012118071318,5.765650903894787
+Ethiopia,Oromia,Kelem Wellega,Anfilo,2015-01-01T00:00:00,year,3267.8087669573724,1.9697460921985368
+Ethiopia,Oromia,Kelem Wellega,Dale Sadi,2015-01-01T00:00:00,year,3365.7874245643616,4.713987989585941
+Ethiopia,Oromia,Kelem Wellega,Dale Wabera,2015-01-01T00:00:00,year,2682.075279355049,3.278820634908373
+Ethiopia,Oromia,Kelem Wellega,Gawo Kebe,2015-01-01T00:00:00,year,4527.174182772636,2.894612648831609
+Ethiopia,Oromia,Kelem Wellega,Gidami,2015-01-01T00:00:00,year,2257.014170438051,0.9886176830652874
+Ethiopia,Oromia,Kelem Wellega,Hawa Galan,2015-01-01T00:00:00,year,2974.2733513116837,2.9742733513116835
+Ethiopia,Oromia,Kelem Wellega,Jimma Horo,2015-01-01T00:00:00,year,1219.3526782095432,1.6065252677332584
+Ethiopia,Oromia,Kelem Wellega,Lalo Kile,2015-01-01T00:00:00,year,2642.7952671051025,4.822619100556756
+Ethiopia,Oromia,Kelem Wellega,Sayo,2015-01-01T00:00:00,year,6603.892526268959,5.430832669629078
+Ethiopia,Oromia,Kelem Wellega,Yama Logi Welel,2015-01-01T00:00:00,year,2304.1143684387207,3.7465274283556433
+Ethiopia,Oromia,Mirab Arsi,Adaba,2015-01-01T00:00:00,year,6451.537484571338,2.4909411137341073
+Ethiopia,Oromia,Mirab Arsi,Arsi Negele,2015-01-01T00:00:00,year,10629.198658569716,6.528991805018253
+Ethiopia,Oromia,Mirab Arsi,Dodola,2015-01-01T00:00:00,year,8143.778373852372,4.373672596053906
+Ethiopia,Oromia,Mirab Arsi,Gedeb Asasa,2015-01-01T00:00:00,year,7748.174147292972,6.2586220898973925
+Ethiopia,Oromia,Mirab Arsi,Kofele,2015-01-01T00:00:00,year,4269.713099837303,5.537889883057462
+Ethiopia,Oromia,Mirab Arsi,Kokosa,2015-01-01T00:00:00,year,6082.594760417938,7.651062591720677
+Ethiopia,Oromia,Mirab Arsi,Kore,2015-01-01T00:00:00,year,7378.252470731735,11.045288129837926
+Ethiopia,Oromia,Mirab Arsi,Nenesebo,2015-01-01T00:00:00,year,3317.478213787079,1.6504866735259098
+Ethiopia,Oromia,Mirab Arsi,Shalla,2015-01-01T00:00:00,year,7216.977260030806,7.580858466418914
+Ethiopia,Oromia,Mirab Arsi,Shashemene Zuria,2015-01-01T00:00:00,year,15534.495129689574,17.052135158825
+Ethiopia,Oromia,Mirab Arsi,Siraro,2015-01-01T00:00:00,year,4735.070697903633,6.735520196164485
+Ethiopia,Oromia,Mirab Hararghe,Anchar,2015-01-01T00:00:00,year,4799.569997876883,4.1447063884947175
+Ethiopia,Oromia,Mirab Hararghe,Boke,2015-01-01T00:00:00,year,4819.617921739817,1.2192304380824226
+Ethiopia,Oromia,Mirab Hararghe,Chiro Zuria,2015-01-01T00:00:00,year,10579.905239701271,13.669128216668309
+Ethiopia,Oromia,Mirab Hararghe,Daro Lebu,2015-01-01T00:00:00,year,3160.8189824819565,2.1516807232688606
+Ethiopia,Oromia,Mirab Hararghe,Doba,2015-01-01T00:00:00,year,6170.8854566812515,7.781696666685058
+Ethiopia,Oromia,Mirab Hararghe,Gemechis,2015-01-01T00:00:00,year,8442.495027422905,7.303196390504243
+Ethiopia,Oromia,Mirab Hararghe,Goba Koricha,2015-01-01T00:00:00,year,4224.35200637579,6.095746040946305
+Ethiopia,Oromia,Mirab Hararghe,Habro,2015-01-01T00:00:00,year,7914.027997434139,9.746339898317906
+Ethiopia,Oromia,Mirab Hararghe,Hawi Gudina,2015-01-01T00:00:00,year,4091.879383981228,1.1275501195870012
+Ethiopia,Oromia,Mirab Hararghe,Kuni,2015-01-01T00:00:00,year,7242.8909131884575,4.329283271481445
+Ethiopia,Oromia,Mirab Hararghe,Mesela,2015-01-01T00:00:00,year,6741.930638432503,7.400582479069707
+Ethiopia,Oromia,Mirab Hararghe,Mieso,2015-01-01T00:00:00,year,8780.854426369071,2.804488797946046
+Ethiopia,Oromia,Mirab Hararghe,Tulo,2015-01-01T00:00:00,year,7625.147899508476,15.099302771303913
+Ethiopia,Oromia,Mirab Shewa,Abuna G/Beret,2015-01-01T00:00:00,year,4255.108409285545,3.482085441313867
+Ethiopia,Oromia,Mirab Shewa,Adda Berga,2015-01-01T00:00:00,year,5915.446530818939,4.9584631440225815
+Ethiopia,Oromia,Mirab Shewa,Ambo Zuria,2015-01-01T00:00:00,year,7306.448226630688,5.298367096904052
+Ethiopia,Oromia,Mirab Shewa,Bako Tibe,2015-01-01T00:00:00,year,5987.671316862106,7.627606773072747
+Ethiopia,Oromia,Mirab Shewa,Cheliya,2015-01-01T00:00:00,year,7223.716360569,5.535414835685057
+Ethiopia,Oromia,Mirab Shewa,Dano,2015-01-01T00:00:00,year,3784.3654758930206,4.979428257753974
+Ethiopia,Oromia,Mirab Shewa,Dendi,2015-01-01T00:00:00,year,9401.777032405138,6.565486754472862
+Ethiopia,Oromia,Mirab Shewa,Ejere,2015-01-01T00:00:00,year,4319.40819311142,6.241919354207254
+Ethiopia,Oromia,Mirab Shewa,Ginde Beret,2015-01-01T00:00:00,year,4913.5727326869965,3.249717415798278
+Ethiopia,Oromia,Mirab Shewa,Ifata,2015-01-01T00:00:00,year,2483.351820230484,5.099285051807976
+Ethiopia,Oromia,Mirab Shewa,Jeldu,2015-01-01T00:00:00,year,9220.260754823685,6.094025614556302
+Ethiopia,Oromia,Mirab Shewa,Jibat,2015-01-01T00:00:00,year,2342.9507172107697,4.124913234526003
+Ethiopia,Oromia,Mirab Shewa,Meta Robi,2015-01-01T00:00:00,year,6725.268589258194,5.651486209460667
+Ethiopia,Oromia,Mirab Shewa,Mida Kegn,2015-01-01T00:00:00,year,3870.7443470954895,4.126593120570885
+Ethiopia,Oromia,Mirab Shewa,Nono,2015-01-01T00:00:00,year,3612.861676335335,4.050293359120331
+Ethiopia,Oromia,Mirab Shewa,Tikur Enchini,2015-01-01T00:00:00,year,4216.127671480179,6.31156837047931
+Ethiopia,Oromia,Mirab Shewa,Toke Kutaye,2015-01-01T00:00:00,year,4535.053896665573,7.198498248675513
+Ethiopia,Oromia,Mirab Shewa,Walmara,2015-01-01T00:00:00,year,7128.019270721823,7.781680426552208
+Ethiopia,Oromia,Mirab Welega,Ayira,2015-01-01T00:00:00,year,2472.3470215797424,4.307224776271329
+Ethiopia,Oromia,Mirab Welega,Babo,2015-01-01T00:00:00,year,2996.029597759247,2.9258101540617645
+Ethiopia,Oromia,Mirab Welega,Begi,2015-01-01T00:00:00,year,4351.9068830013275,3.555479479576248
+Ethiopia,Oromia,Mirab Welega,Boji Chekorsa,2015-01-01T00:00:00,year,2813.411773920059,4.65796651311268
+Ethiopia,Oromia,Mirab Welega,Boji Dirmeji,2015-01-01T00:00:00,year,2478.955139398575,3.910023879177563
+Ethiopia,Oromia,Mirab Welega,Gaji,2015-01-01T00:00:00,year,1654.9025099277496,5.443758256341281
+Ethiopia,Oromia,Mirab Welega,Gimbi,2015-01-01T00:00:00,year,5889.584248483181,5.094796062701714
+Ethiopia,Oromia,Mirab Welega,Gudetu Kondole,2015-01-01T00:00:00,year,3235.4150565862656,2.4473638854661615
+Ethiopia,Oromia,Mirab Welega,Guliso,2015-01-01T00:00:00,year,2963.7207773923874,5.330433052864006
+Ethiopia,Oromia,Mirab Welega,Haru,2015-01-01T00:00:00,year,3365.832438468933,6.119695342670788
+Ethiopia,Oromia,Mirab Welega,Homa,2015-01-01T00:00:00,year,605.7281606197357,4.3893344972444615
+Ethiopia,Oromia,Mirab Welega,Jarso,2015-01-01T00:00:00,year,2062.8831222057343,3.432417840608543
+Ethiopia,Oromia,Mirab Welega,Kiltu Kara,2015-01-01T00:00:00,year,1902.083975955844,2.598475376988858
+Ethiopia,Oromia,Mirab Welega,Lalo Asabi,2015-01-01T00:00:00,year,3631.598661184311,8.160895867829913
+Ethiopia,Oromia,Mirab Welega,Mana Sibu,2015-01-01T00:00:00,year,6044.8121827840805,2.8352777592795877
+Ethiopia,Oromia,Mirab Welega,Nejo,2015-01-01T00:00:00,year,6691.884112775326,5.215809908632366
+Ethiopia,Oromia,Mirab Welega,Nole Kaba,2015-01-01T00:00:00,year,4105.853822350502,4.697773252117279
+Ethiopia,Oromia,Mirab Welega,Sayo Nole,2015-01-01T00:00:00,year,2764.681954264641,4.466368262139969
+Ethiopia,Oromia,Mirab Welega,Yubdo,2015-01-01T00:00:00,year,2673.595150709152,5.928148892924949
+Ethiopia,Oromia,Misraq Harerge,Babile,2015-01-01T00:00:00,year,8771.758337914944,1.416856459039726
+Ethiopia,Oromia,Misraq Harerge,Bedeno,2015-01-01T00:00:00,year,10975.666554421186,9.56902053567671
+Ethiopia,Oromia,Misraq Harerge,Chinaksen,2015-01-01T00:00:00,year,6446.483649671078,3.6134998036272856
+Ethiopia,Oromia,Misraq Harerge,Deder,2015-01-01T00:00:00,year,11263.653863549232,15.731360144621833
+Ethiopia,Oromia,Misraq Harerge,Fedis,2015-01-01T00:00:00,year,7127.197649240494,5.275497889889337
+Ethiopia,Oromia,Misraq Harerge,Girawa,2015-01-01T00:00:00,year,11642.619599372149,6.737627082969993
+Ethiopia,Oromia,Misraq Harerge,Golo Oda,2015-01-01T00:00:00,year,1444.121911212802,0.3025606350749637
+Ethiopia,Oromia,Misraq Harerge,Goro Gutu,2015-01-01T00:00:00,year,7281.515017032623,15.265230643674263
+Ethiopia,Oromia,Misraq Harerge,Gursum,2015-01-01T00:00:00,year,10365.032067537308,11.01491186773359
+Ethiopia,Oromia,Misraq Harerge,Haro Maya,2015-01-01T00:00:00,year,10867.718139015138,14.907706637880848
+Ethiopia,Oromia,Misraq Harerge,Jarso,2015-01-01T00:00:00,year,5858.853123784065,9.069432080161091
+Ethiopia,Oromia,Misraq Harerge,Kersa,2015-01-01T00:00:00,year,7589.656398534775,14.239505438151548
+Ethiopia,Oromia,Misraq Harerge,Kombolcha,2015-01-01T00:00:00,year,5277.594453692436,10.091002779526647
+Ethiopia,Oromia,Misraq Harerge,Kurfa Chele,2015-01-01T00:00:00,year,2588.4458760023117,9.310956388497525
+Ethiopia,Oromia,Misraq Harerge,Malka Balo,2015-01-01T00:00:00,year,8156.09222304821,4.9853864444059965
+Ethiopia,Oromia,Misraq Harerge,Meta,2015-01-01T00:00:00,year,11253.430238246918,14.57698217389497
+Ethiopia,Oromia,Misraq Harerge,Meyu,2015-01-01T00:00:00,year,1112.1032106429338,0.2536153273986166
+Ethiopia,Oromia,Misraq Harerge,Midega Tola,2015-01-01T00:00:00,year,2227.7977509498596,2.2896174213256524
+Ethiopia,Oromia,Misraq Shewa,Ada'a,2015-01-01T00:00:00,year,8776.068695962429,8.390123036292954
+Ethiopia,Oromia,Misraq Shewa,Adama,2015-01-01T00:00:00,year,14293.282670153305,12.001076969062389
+Ethiopia,Oromia,Misraq Shewa,Adami Tulu Jido Kombolcha,2015-01-01T00:00:00,year,7621.049620416947,6.034085210148018
+Ethiopia,Oromia,Misraq Shewa,Akaki,2015-01-01T00:00:00,year,3617.8079833984375,4.449948319063269
+Ethiopia,Oromia,Misraq Shewa,Bora,2015-01-01T00:00:00,year,2288.3468947783113,5.1772554180504775
+Ethiopia,Oromia,Misraq Shewa,Boset,2015-01-01T00:00:00,year,6936.397380769253,4.28437145198842
+Ethiopia,Oromia,Misraq Shewa,Dugda,2015-01-01T00:00:00,year,6827.080629618838,5.820188090041635
+Ethiopia,Oromia,Misraq Shewa,Fentale,2015-01-01T00:00:00,year,4047.8596798167564,2.8129671159254737
+Ethiopia,Oromia,Misraq Shewa,Gimbichu,2015-01-01T00:00:00,year,3524.489997625351,4.631392900953155
+Ethiopia,Oromia,Misraq Shewa,Liben Chukala,2015-01-01T00:00:00,year,5999.821058571339,7.202666336820334
+Ethiopia,Oromia,Misraq Shewa,Lome,2015-01-01T00:00:00,year,4966.652070542797,6.433487138008805
+Ethiopia,Oromia,Misraq Wellega,Bila Seyo,2015-01-01T00:00:00,year,2787.9070041179657,3.0336311252643804
+Ethiopia,Oromia,Misraq Wellega,Boneya Boshe,2015-01-01T00:00:00,year,2189.7358367443085,4.010505195502397
+Ethiopia,Oromia,Misraq Wellega,Diga,2015-01-01T00:00:00,year,3104.3306963443756,3.7811579736228693
+Ethiopia,Oromia,Misraq Wellega,Gida Ayana,2015-01-01T00:00:00,year,4570.924013532698,2.2060444080756265
+Ethiopia,Oromia,Misraq Wellega,Gobu Seyo,2015-01-01T00:00:00,year,1696.9855077266693,3.301528225149162
+Ethiopia,Oromia,Misraq Wellega,Guto Gida,2015-01-01T00:00:00,year,6728.94523024559,6.61646531980884
+Ethiopia,Oromia,Misraq Wellega,Haro Limu,2015-01-01T00:00:00,year,2403.39876703918,1.8602157639622134
+Ethiopia,Oromia,Misraq Wellega,Ibantu,2015-01-01T00:00:00,year,1453.6281207501888,1.420946354594515
+Ethiopia,Oromia,Misraq Wellega,Jimma Arjo,2015-01-01T00:00:00,year,4214.948129892349,4.586450631003644
+Ethiopia,Oromia,Misraq Wellega,Kiremu,2015-01-01T00:00:00,year,2760.312705487013,2.111945451788074
+Ethiopia,Oromia,Misraq Wellega,Leka Dulecha,2015-01-01T00:00:00,year,2904.6378148794174,4.056756724691923
+Ethiopia,Oromia,Misraq Wellega,Limu,2015-01-01T00:00:00,year,2413.556534051895,2.009622426354617
+Ethiopia,Oromia,Misraq Wellega,Nunu Kumba,2015-01-01T00:00:00,year,2913.49201464653,3.9054852743251076
+Ethiopia,Oromia,Misraq Wellega,Sasiga,2015-01-01T00:00:00,year,2152.3184283971786,2.1784599477704236
+Ethiopia,Oromia,Misraq Wellega,Sibu Sire,2015-01-01T00:00:00,year,4449.168564558029,3.7450913843081053
+Ethiopia,Oromia,Misraq Wellega,Wama Hagalo,2015-01-01T00:00:00,year,2352.8569868803024,3.3326586216434877
+Ethiopia,Oromia,Misraq Wellega,Wayu Tuka,2015-01-01T00:00:00,year,2577.629043340683,4.428915882028665
+Ethiopia,Oromia,North Shewa,Abichuna Gne'a,2015-01-01T00:00:00,year,5057.440848827362,5.397482229271464
+Ethiopia,Oromia,North Shewa,Aleltu,2015-01-01T00:00:00,year,2168.917361855507,4.417346969155819
+Ethiopia,Oromia,North Shewa,Bereh,2015-01-01T00:00:00,year,5038.8480197787285,5.033814205573155
+Ethiopia,Oromia,North Shewa,Debre Libanos,2015-01-01T00:00:00,year,1726.5440888404846,7.284996155445083
+Ethiopia,Oromia,North Shewa,Degem,2015-01-01T00:00:00,year,5412.784760713577,7.01137922372225
+Ethiopia,Oromia,North Shewa,Dera,2015-01-01T00:00:00,year,9036.866563796997,4.9086727668642025
+Ethiopia,Oromia,North Shewa,Gerar Jarso,2015-01-01T00:00:00,year,4533.09693646431,8.634470355170114
+Ethiopia,Oromia,North Shewa,Hidabu Abote,2015-01-01T00:00:00,year,4129.7785313129425,7.481482846581417
+Ethiopia,Oromia,North Shewa,Jida,2015-01-01T00:00:00,year,2151.4316487312317,5.488346042681713
+Ethiopia,Oromia,North Shewa,Kembibit,2015-01-01T00:00:00,year,4071.3797471523285,6.254039550157187
+Ethiopia,Oromia,North Shewa,Kuyu,2015-01-01T00:00:00,year,6458.935844421387,4.976067676749913
+Ethiopia,Oromia,North Shewa,Mulo,2015-01-01T00:00:00,year,3083.4148693084717,4.787911287746074
+Ethiopia,Oromia,North Shewa,Sululta,2015-01-01T00:00:00,year,5618.829368710518,4.509493875369597
+Ethiopia,Oromia,North Shewa,Wara Jarso,2015-01-01T00:00:00,year,7355.1781873703,5.010339364693665
+Ethiopia,Oromia,North Shewa,Wuchale,2015-01-01T00:00:00,year,4426.838972330093,5.582394668764304
+Ethiopia,Oromia,North Shewa,Yaya Gulele,2015-01-01T00:00:00,year,3458.136611223221,7.043048088031
+Ethiopia,Somali,Afder,Afder,2015-01-01T00:00:00,year,3581.8385595828295,0.4877895355553356
+Ethiopia,Somali,Afder,Bare,2015-01-01T00:00:00,year,6239.073747545481,0.26435633013624343
+Ethiopia,Somali,Afder,Chereti/Weyib,2015-01-01T00:00:00,year,3460.0227665901184,0.3726063715905792
+Ethiopia,Somali,Afder,Dolobay,2015-01-01T00:00:00,year,5379.344228327274,0.7438252528107404
+Ethiopia,Somali,Afder,Goro Baqaqsa,2015-01-01T00:00:00,year,1337.198750294745,0.27379171791456697
+Ethiopia,Somali,Afder,Guradamole,2015-01-01T00:00:00,year,1759.6507190614939,0.37704107972176854
+Ethiopia,Somali,Afder,Hargele,2015-01-01T00:00:00,year,1555.3659449219704,0.5608964821211577
+Ethiopia,Somali,Afder,Serer/Elkere,2015-01-01T00:00:00,year,2575.7526803463697,0.3065277496544531
+Ethiopia,Somali,Afder,West Imi,2015-01-01T00:00:00,year,1718.5264151096344,0.41142600313852873
+Ethiopia,Somali,Doolo,Boh,2015-01-01T00:00:00,year,6162.091486886144,0.4513691390921582
+Ethiopia,Somali,Doolo,Danot,2015-01-01T00:00:00,year,3061.584638118744,0.18210710433730334
+Ethiopia,Somali,Doolo,Geladin,2015-01-01T00:00:00,year,8608.976323455572,1.6739211206407878
+Ethiopia,Somali,Doolo,Warder,2015-01-01T00:00:00,year,8123.524062201381,0.3099162239509149
+Ethiopia,Somali,Fafan,Aw-bare,2015-01-01T00:00:00,year,14621.898649930954,3.6591337962790176
+Ethiopia,Somali,Fafan,Babile,2015-01-01T00:00:00,year,561.660418689251,1.1556798738461953
+Ethiopia,Somali,Fafan,Gursum,2015-01-01T00:00:00,year,491.39291948080063,1.2440327075463307
+Ethiopia,Somali,Fafan,Hareshen,2015-01-01T00:00:00,year,3429.074629843235,2.289101889080931
+Ethiopia,Somali,Fafan,Jijiga,2015-01-01T00:00:00,year,16045.424439430237,6.693960967638814
+Ethiopia,Somali,Fafan,Kebribeyah,2015-01-01T00:00:00,year,12577.741156816483,2.321473081730617
+Ethiopia,Somali,Jarar,Aware,2015-01-01T00:00:00,year,5435.23457172513,1.2867506088364418
+Ethiopia,Somali,Jarar,Degehabur,2015-01-01T00:00:00,year,7396.665907561779,0.4303389520340807
+Ethiopia,Somali,Jarar,Degehamedo,2015-01-01T00:00:00,year,2851.3041603267193,0.5290970792961067
+Ethiopia,Somali,Jarar,Gashamo,2015-01-01T00:00:00,year,5480.540911316872,0.3163553977901681
+Ethiopia,Somali,Jarar,Gunagado,2015-01-01T00:00:00,year,2696.497654438019,1.0508564514567493
+Ethiopia,Somali,Korahe,Debeweyin,2015-01-01T00:00:00,year,5968.505091398954,1.0644738882466478
+Ethiopia,Somali,Korahe,Kebridehar,2015-01-01T00:00:00,year,8360.972404032946,0.5258473210083614
+Ethiopia,Somali,Korahe,Shekosh,2015-01-01T00:00:00,year,1982.2554212361574,0.35492487399035944
+Ethiopia,Somali,Korahe,Shilabo,2015-01-01T00:00:00,year,4067.9432594776154,0.375063918447134
+Ethiopia,Somali,Liben,Dolo Odo,2015-01-01T00:00:00,year,10992.198683872819,0.9922548008551019
+Ethiopia,Somali,Liben,Filtu,2015-01-01T00:00:00,year,7437.157331675291,0.6056317045338185
+Ethiopia,Somali,Liben,Hudet,2015-01-01T00:00:00,year,2576.1112444400787,0.5462492036556571
+Ethiopia,Somali,Liben,Moyale,2015-01-01T00:00:00,year,18348.66883996129,1.282406265023853
+Ethiopia,Somali,Nogob,Dihun,2015-01-01T00:00:00,year,2196.5583065897226,0.9697829168166546
+Ethiopia,Somali,Nogob,Fik,2015-01-01T00:00:00,year,9405.334317326546,2.096597039083046
+Ethiopia,Somali,Nogob,Gerbo,2015-01-01T00:00:00,year,1018.0972129702568,0.8784272760744235
+Ethiopia,Somali,Nogob,Hamero,2015-01-01T00:00:00,year,3298.4481338858604,0.9270511899622992
+Ethiopia,Somali,Nogob,Lagahida,2015-01-01T00:00:00,year,216.05946058034897,0.26316621264354323
+Ethiopia,Somali,Nogob,Meyumuluka,2015-01-01T00:00:00,year,2150.8961299955845,1.5020224371477546
+Ethiopia,Somali,Nogob,Segeg,2015-01-01T00:00:00,year,1579.8932201862335,0.7836771925526952
+Ethiopia,Somali,Nogob,Selahad,2015-01-01T00:00:00,year,338.71829414367676,0.3333841477792094
+Ethiopia,Somali,Shabelle,Adadle,2015-01-01T00:00:00,year,1540.1768151819706,0.4120323208084459
+Ethiopia,Somali,Shabelle,Denan,2015-01-01T00:00:00,year,1939.1257681772113,0.2796950480567159
+Ethiopia,Somali,Shabelle,East Imi,2015-01-01T00:00:00,year,10160.619700461626,0.9042110617123454
+Ethiopia,Somali,Shabelle,Ferfer,2015-01-01T00:00:00,year,1164.1290945857763,0.26675735439637405
+Ethiopia,Somali,Shabelle,Gode,2015-01-01T00:00:00,year,865.8111661151052,0.18512105326386682
+Ethiopia,Somali,Shabelle,Kelafo,2015-01-01T00:00:00,year,6497.6306516602635,1.9286526125438597
+Ethiopia,Somali,Shabelle,Mustahil,2015-01-01T00:00:00,year,3588.355605378747,0.7669065196364067
+Ethiopia,Somali,Siti,Afdem,2015-01-01T00:00:00,year,3765.3678947538137,0.72230345189983
+Ethiopia,Somali,Siti,Ayisha,2015-01-01T00:00:00,year,3559.99559789896,0.4023503162182369
+Ethiopia,Somali,Siti,Dembel,2015-01-01T00:00:00,year,5061.60625565052,1.7334267998803152
+Ethiopia,Somali,Siti,Erer,2015-01-01T00:00:00,year,3278.731099098921,0.6761664465042113
+Ethiopia,Somali,Siti,Miesso,2015-01-01T00:00:00,year,2366.0161985456944,0.6446910622740312
+Ethiopia,Somali,Siti,Shinile,2015-01-01T00:00:00,year,6341.946520388126,0.6167408849934967
+Ethiopia,"Southern Nations, Nationalities and Peoples",Alaba,Alaba,2015-01-01T00:00:00,year,9892.651609867811,9.670236177778897
+Ethiopia,"Southern Nations, Nationalities and Peoples",Alle,Alle,2015-01-01T00:00:00,year,3453.1001446545124,2.811970801835922
+Ethiopia,"Southern Nations, Nationalities and Peoples",Amaro,Amaro,2015-01-01T00:00:00,year,5469.961684517562,3.0609746415878916
+Ethiopia,"Southern Nations, Nationalities and Peoples",Basketo,Basketo,2015-01-01T00:00:00,year,1869.3317281603813,3.7840723242112984
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Bero,2015-01-01T00:00:00,year,183.15986362099648,0.2627831615796219
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Debub Bench,2015-01-01T00:00:00,year,4406.655993103981,5.221156389933626
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Gurafereda,2015-01-01T00:00:00,year,900.989060703665,0.3082412113252361
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Maji,2015-01-01T00:00:00,year,1105.2255041208118,0.20798372301859464
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Menit Goldiye,2015-01-01T00:00:00,year,3211.2221735566854,1.5960348775132631
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Menit Shasha,2015-01-01T00:00:00,year,1272.651488415897,0.3672875868444147
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Semen Bench,2015-01-01T00:00:00,year,2240.422671675682,4.967677764247632
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Shay Bench,2015-01-01T00:00:00,year,2909.7897156476974,4.395452742670238
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Sheka,2015-01-01T00:00:00,year,247.99954861402512,0.45756374283030465
+Ethiopia,"Southern Nations, Nationalities and Peoples",Bench Maji,Surma,2015-01-01T00:00:00,year,1299.3557616090402,0.23858901241444
+Ethiopia,"Southern Nations, Nationalities and Peoples",Burji,Burji,2015-01-01T00:00:00,year,2235.7529162466526,1.4008476918838675
+Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Esira,2015-01-01T00:00:00,year,2807.603992640972,2.255103608546966
+Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Gena Bosa,2015-01-01T00:00:00,year,3636.9910737872124,3.3275307170971753
+Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Loma Bosa,2015-01-01T00:00:00,year,3702.809133172035,2.6581544387451794
+Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Mareka,2015-01-01T00:00:00,year,2890.2785918712616,5.723323944299528
+Ethiopia,"Southern Nations, Nationalities and Peoples",Dawro,Tocha,2015-01-01T00:00:00,year,2389.697821378708,2.5890550610820235
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Bako Gazer,2015-01-01T00:00:00,year,5800.164970487356,2.355875292643118
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Bena Tsemay,2015-01-01T00:00:00,year,1782.311101604253,0.42802860269074283
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Dasenech (Kuraz),2015-01-01T00:00:00,year,1070.197700003162,0.45328153324996273
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Gelila,2015-01-01T00:00:00,year,909.8752718567848,3.0948138498530096
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Gnangatom,2015-01-01T00:00:00,year,1057.6771810073406,0.35456828059247086
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Hamer,2015-01-01T00:00:00,year,2241.088983055204,0.3202928373667578
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Male,2015-01-01T00:00:00,year,4094.4839407503605,2.3410428477703604
+Ethiopia,"Southern Nations, Nationalities and Peoples",Debub Omo,Selamgo,2015-01-01T00:00:00,year,1078.1374238431454,0.19976605963371233
+Ethiopia,"Southern Nations, Nationalities and Peoples",Derashe,Derashe,2015-01-01T00:00:00,year,2804.7931984625757,3.441464047193344
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Arba Minch Zuria,2015-01-01T00:00:00,year,7224.304876316804,4.842027396995177
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Ayida,2015-01-01T00:00:00,year,1005.6313719749451,4.054965209576391
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Bonke,2015-01-01T00:00:00,year,5960.752736449242,6.170551487007496
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Boreda,2015-01-01T00:00:00,year,2542.6636786460876,4.899159303749687
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Chencha,2015-01-01T00:00:00,year,5063.88238120079,11.641108922300667
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Daramalo,2015-01-01T00:00:00,year,2698.2100528478622,6.333826415135827
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Denibu Gofa,2015-01-01T00:00:00,year,4930.894431948662,4.848470434561123
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Dita,2015-01-01T00:00:00,year,3346.464442372322,8.222271357180153
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Geze Gofa,2015-01-01T00:00:00,year,2512.9560729265213,4.400973858014924
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Kemba,2015-01-01T00:00:00,year,5878.513961613178,4.00716698133141
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Kucha,2015-01-01T00:00:00,year,5939.228436350822,3.459073055533385
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Melekoza,2015-01-01T00:00:00,year,4207.754467591643,2.1523040754944467
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Mirab Abaya,2015-01-01T00:00:00,year,3117.540897537954,4.059298043669211
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Ubadebretsehay,2015-01-01T00:00:00,year,2552.7945674061775,3.1169652837682267
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gamo Gofa,Zala,2015-01-01T00:00:00,year,2415.477281689644,2.838398685886773
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Bule,2015-01-01T00:00:00,year,4655.891544818878,15.676402507807671
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Dila Zuria,2015-01-01T00:00:00,year,5132.942572593689,38.59355317739616
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Kochere,2015-01-01T00:00:00,year,3296.3103864192963,13.677636458171353
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Kochere Gedeb,2015-01-01T00:00:00,year,5476.45979309082,14.336282180866021
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Wenago,2015-01-01T00:00:00,year,4349.177593231201,29.5862421308245
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gedeo,Yirgachefe,2015-01-01T00:00:00,year,7678.732639551163,20.207191156713588
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Abeshege,2015-01-01T00:00:00,year,3327.8628927469254,5.10408419132964
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Cheha,2015-01-01T00:00:00,year,6589.842677116394,9.676714650684866
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Endiguagn,2015-01-01T00:00:00,year,1741.9027156829834,10.621358022457215
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Enemorina Eaner,2015-01-01T00:00:00,year,9488.118453979492,9.791659911227546
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Ezha,2015-01-01T00:00:00,year,5150.079584598541,9.626316980558022
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Geta,2015-01-01T00:00:00,year,3774.616286277771,16.85096556374005
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Gumer,2015-01-01T00:00:00,year,4008.9708590507507,17.280046806253235
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Kebena,2015-01-01T00:00:00,year,3348.504959821701,8.630167422220879
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Kokir Gedbano,2015-01-01T00:00:00,year,3895.667066335678,5.494593887638474
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Mareko,2015-01-01T00:00:00,year,4630.112439155579,11.751554414100454
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Meskan,2015-01-01T00:00:00,year,8407.570543289185,13.21945053976287
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Muhur Na Aklil,2015-01-01T00:00:00,year,4200.041761875153,9.051814141972311
+Ethiopia,"Southern Nations, Nationalities and Peoples",Gurage,Sodo,2015-01-01T00:00:00,year,6206.5201189517975,6.269212241365452
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Analemmo,2015-01-01T00:00:00,year,3419.9235887527466,13.25551778586336
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Dune,2015-01-01T00:00:00,year,3275.5516233444214,14.179877157335158
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Gembora,2015-01-01T00:00:00,year,5210.670565843582,9.982127520773146
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Gibe,2015-01-01T00:00:00,year,5462.305885314941,10.731445747180631
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Limu,2015-01-01T00:00:00,year,8606.403797149658,18.75033507004283
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Mierab Badawacho,2015-01-01T00:00:00,year,2907.6394357681274,15.632470084774878
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Misha,2015-01-01T00:00:00,year,5987.5351819992065,11.514490734613858
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Misrak Badawacho,2015-01-01T00:00:00,year,5725.815988540649,16.500910629800142
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Shashogo,2015-01-01T00:00:00,year,4740.79507496953,12.642120199918747
+Ethiopia,"Southern Nations, Nationalities and Peoples",Hadiya,Soro,2015-01-01T00:00:00,year,8234.482296943665,9.273065649711334
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Bita,2015-01-01T00:00:00,year,4164.184843301773,3.2106282523529477
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Chena,2015-01-01T00:00:00,year,5169.133050382137,4.102486547922331
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Cheta,2015-01-01T00:00:00,year,1912.1336034238338,2.4420607961990215
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Decha,2015-01-01T00:00:00,year,4639.310571394861,1.3549388351036393
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Gesha (Deka),2015-01-01T00:00:00,year,1897.4266364574432,2.3837018045947778
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Getawa,2015-01-01T00:00:00,year,3482.513838291168,2.96889500280577
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Gimbo,2015-01-01T00:00:00,year,3914.7915744781494,4.20042014428986
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Menjiwo,2015-01-01T00:00:00,year,4016.28090852499,3.392129145713674
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Sayilem,2015-01-01T00:00:00,year,2085.875503540039,2.2525653385961544
+Ethiopia,"Southern Nations, Nationalities and Peoples",Keffa,Tulo,2015-01-01T00:00:00,year,1901.696389555931,3.0623130266601146
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Anigacha,2015-01-01T00:00:00,year,3699.685185432434,19.890780566841045
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Daniboya,2015-01-01T00:00:00,year,4569.649967670441,19.528418665258293
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Doya Gena,2015-01-01T00:00:00,year,2680.406989097595,19.70887491983526
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Hadero Tubito,2015-01-01T00:00:00,year,3989.4750871658325,18.907464868084514
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Kacha Bira,2015-01-01T00:00:00,year,5180.333162784576,19.186419121424358
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Kediada Gambela,2015-01-01T00:00:00,year,4601.278605461121,20.181046515180352
+Ethiopia,"Southern Nations, Nationalities and Peoples",Kembata Tembaro,Tembaro,2015-01-01T00:00:00,year,4509.070068955421,11.651343847430029
+Ethiopia,"Southern Nations, Nationalities and Peoples",Konso,Konso,2015-01-01T00:00:00,year,7814.581434190273,3.117104680570512
+Ethiopia,"Southern Nations, Nationalities and Peoples",Konta,Konta,2015-01-01T00:00:00,year,3515.8481210656464,1.26834347801791
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Anderacha,2015-01-01T00:00:00,year,1405.239158987999,1.179881745581863
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Masha,2015-01-01T00:00:00,year,1331.2623682618141,1.3738517732320064
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sheka,Yeki,2015-01-01T00:00:00,year,4153.772961318493,6.831863423221205
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Aleta Wendo,2015-01-01T00:00:00,year,10544.548001289368,40.24636641713499
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Arbe Gonna,2015-01-01T00:00:00,year,4411.629821777344,13.208472520291448
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Aroresa,2015-01-01T00:00:00,year,5737.121238827705,6.655593084486897
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Awasa,2015-01-01T00:00:00,year,8209.249780997634,34.638184729947824
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Awasa Zuria,2015-01-01T00:00:00,year,4624.189127445221,13.174327998419432
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bensa,2015-01-01T00:00:00,year,6756.202082514763,11.130481190304387
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bona Zuria,2015-01-01T00:00:00,year,3709.206357717514,12.924063964172523
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Boricha,2015-01-01T00:00:00,year,8762.487721920013,12.204021896824532
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Bursa,2015-01-01T00:00:00,year,2918.202531814575,10.459507282489517
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Chire,2015-01-01T00:00:00,year,3482.3182258605957,7.377792851399567
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Chuko,2015-01-01T00:00:00,year,4776.796082854271,13.493774245351048
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Dale,2015-01-01T00:00:00,year,4799.310828208923,15.333261431977391
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Dara,2015-01-01T00:00:00,year,7266.459304094315,24.88513460306272
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Gorche,2015-01-01T00:00:00,year,2607.0276160240173,12.414417219161987
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Hulla,2015-01-01T00:00:00,year,6165.719660401344,17.975859068225493
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Loka Abaya,2015-01-01T00:00:00,year,10621.467111967504,9.629616601965099
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Malga,2015-01-01T00:00:00,year,3233.654016971588,14.698427349870855
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Shebe Dino,2015-01-01T00:00:00,year,12045.266491889954,42.264092953999835
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Wondo-Genet,2015-01-01T00:00:00,year,4842.084734916687,18.623402826602643
+Ethiopia,"Southern Nations, Nationalities and Peoples",Sidama,Wonosho,2015-01-01T00:00:00,year,2069.899514198303,9.538707438701858
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Alicho Woriro,2015-01-01T00:00:00,year,4807.672815322876,17.04848516071942
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Dalocha,2015-01-01T00:00:00,year,3577.987545132637,8.642481993074002
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Lanfero,2015-01-01T00:00:00,year,4544.473283559084,7.7418624932863445
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Mierab Azenet Berbere,2015-01-01T00:00:00,year,2275.089454650879,13.38287914500517
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Misrak Azenet Berbere,2015-01-01T00:00:00,year,2395.37744808197,13.089494251814045
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Sankura,2015-01-01T00:00:00,year,2432.3852677345276,7.897354765371843
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Selti,2015-01-01T00:00:00,year,5753.561794579029,10.835332946476514
+Ethiopia,"Southern Nations, Nationalities and Peoples",Silti,Wilbareg,2015-01-01T00:00:00,year,5367.887987613678,9.467174581329237
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Boloso Bombe,2015-01-01T00:00:00,year,4245.051381587982,13.224459132672841
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Boloso sore,2015-01-01T00:00:00,year,7567.241937160492,22.061929845948956
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Gale,2015-01-01T00:00:00,year,7489.787303924561,23.852825808676943
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Pulasa,2015-01-01T00:00:00,year,4083.178659439087,22.43504757933564
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Sore,2015-01-01T00:00:00,year,3488.517704963684,16.3780173941957
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Damot Weydie,2015-01-01T00:00:00,year,4951.722140550613,10.535579022448113
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Diguna Fango,2015-01-01T00:00:00,year,3610.276089668274,8.20517293106426
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Humbo,2015-01-01T00:00:00,year,4579.792387818918,5.252055490618025
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Kindo Dida,2015-01-01T00:00:00,year,3280.4977247714996,7.116047125317786
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Kindo Koysha,2015-01-01T00:00:00,year,5070.706725478172,7.849391215910483
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Ofa,2015-01-01T00:00:00,year,4410.527480602264,9.933620451806902
+Ethiopia,"Southern Nations, Nationalities and Peoples",Wolayita,Sodo Zuria,2015-01-01T00:00:00,year,10360.568189620972,19.010216861689855
+Ethiopia,"Southern Nations, Nationalities and Peoples",Yem,Yem,2015-01-01T00:00:00,year,3713.9870198965073,4.177713183235666
+Ethiopia,Tigray,Debubawi,Alaje,2015-01-01T00:00:00,year,4708.736773014069,5.063157820445235
+Ethiopia,Tigray,Debubawi,Alamata,2015-01-01T00:00:00,year,5806.708713769913,6.712958050601055
+Ethiopia,Tigray,Debubawi,Endamehoni,2015-01-01T00:00:00,year,4775.016150176525,6.2500211389745095
+Ethiopia,Tigray,Debubawi,Enderta,2015-01-01T00:00:00,year,8839.17669826746,4.988248701053871
+Ethiopia,Tigray,Debubawi,Hintalo Wejirat,2015-01-01T00:00:00,year,6252.373285442591,2.6938273526249854
+Ethiopia,Tigray,Debubawi,Ofla,2015-01-01T00:00:00,year,7059.44624995999,5.3888902671450305
+Ethiopia,Tigray,Debubawi,Raya Azebo,2015-01-01T00:00:00,year,5187.108182877302,2.4238823284473376
+Ethiopia,Tigray,Debubawi,Saharti Samre,2015-01-01T00:00:00,year,5270.0823438465595,2.547164013458946
+Ethiopia,Tigray,Mehakelegnaw,Adwa,2015-01-01T00:00:00,year,6344.645300149918,7.920905493320746
+Ethiopia,Tigray,Mehakelegnaw,Ahferom,2015-01-01T00:00:00,year,6816.417138934135,4.5503452195822
+Ethiopia,Tigray,Mehakelegnaw,Degua Temben,2015-01-01T00:00:00,year,5018.860351920128,4.047468025742039
+Ethiopia,Tigray,Mehakelegnaw,Kola Temben,2015-01-01T00:00:00,year,6250.27539730072,3.7697680321475997
+Ethiopia,Tigray,Mehakelegnaw,Laelay Maychew,2015-01-01T00:00:00,year,4223.9197689294815,6.294962397808467
+Ethiopia,Tigray,Mehakelegnaw,Mereb Leke,2015-01-01T00:00:00,year,4602.915192604065,3.0422440136180207
+Ethiopia,Tigray,Mehakelegnaw,Naeder Adet,2015-01-01T00:00:00,year,4702.077630341053,4.153778825389622
+Ethiopia,Tigray,Mehakelegnaw,Tahtay Maychew,2015-01-01T00:00:00,year,4265.935623407364,6.264222648175277
+Ethiopia,Tigray,Mehakelegnaw,Tanqua Abergele,2015-01-01T00:00:00,year,3511.2971673980355,2.0168277813888773
+Ethiopia,Tigray,Mehakelegnaw,Werei Leke,2015-01-01T00:00:00,year,6616.7959814071655,4.34743494179183
+Ethiopia,Tigray,Mi'irabawi,Kafta Humera,2015-01-01T00:00:00,year,2871.1156258285046,0.38882931010678556
+Ethiopia,Tigray,Mi'irabawi,Tsegede,2015-01-01T00:00:00,year,4299.2235919088125,1.1071912417998486
+Ethiopia,Tigray,Mi'irabawi,Welkait,2015-01-01T00:00:00,year,4554.5295533537865,0.9929212019519918
+Ethiopia,Tigray,Misraqawi,Atsbi Wenberta,2015-01-01T00:00:00,year,4735.999933943152,3.4695970212037746
+Ethiopia,Tigray,Misraqawi,Erob,2015-01-01T00:00:00,year,848.0920404791832,1.1681708546545224
+Ethiopia,Tigray,Misraqawi,Ganta Afeshum,2015-01-01T00:00:00,year,6558.120628833771,9.906526629658265
+Ethiopia,Tigray,Misraqawi,Gulomekeda,2015-01-01T00:00:00,year,3753.9879006147385,5.332369177009571
+Ethiopia,Tigray,Misraqawi,Hawzen,2015-01-01T00:00:00,year,5025.405060529709,4.883775569027899
+Ethiopia,Tigray,Misraqawi,Kelete Awelallo,2015-01-01T00:00:00,year,5115.375422239304,4.18949666031065
+Ethiopia,Tigray,Misraqawi,Saesie Tsaedaemba,2015-01-01T00:00:00,year,6028.626044809818,4.3215957310464646
+Ethiopia,Tigray,Semien Mi'irabaw,Asgede Tsimbila,2015-01-01T00:00:00,year,5396.776615142822,1.8667508181054384
+Ethiopia,Tigray,Semien Mi'irabaw,Laelay Adiyabo,2015-01-01T00:00:00,year,4397.237500488758,2.0586317886183325
+Ethiopia,Tigray,Semien Mi'irabaw,Medebay Zana,2015-01-01T00:00:00,year,5489.342917978764,4.30874640343702
+Ethiopia,Tigray,Semien Mi'irabaw,Tahtay Adiyabo,2015-01-01T00:00:00,year,3999.6931637078524,1.0166988214814063
+Ethiopia,Tigray,Semien Mi'irabaw,Tahtay Koraro,2015-01-01T00:00:00,year,4965.784531593323,6.13059818715225
+Ethiopia,Tigray,Semien Mi'irabaw,Tselemti,2015-01-01T00:00:00,year,6125.314596191049,1.8477570425915681
