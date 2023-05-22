@@ -1,7 +1,7 @@
 configparser==3.5.0
 json5==0.9.4
 pandas==1.0.3
-requests==2.23.0
+requests==2.31.0
 threadpoolctl==2.1.0
 isodate==0.6.0
 xlrd==1.2.0
